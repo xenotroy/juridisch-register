@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Sociale Zaken en Werkgelegenheid"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbWet-Web/1.13/xml/MC-OEP-StbWet-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.hasPart" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content="WGK026933"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad" content="Wet"/>
+      <meta name="DCTERMS.relation" scheme="" content=""/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Sociale zekerheid | Organisatie en beleid"/>
+      <meta name="DC.title"
+            content="Wet van 28 januari 2026 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met verscheidene technische en kleine beleidsmatige wijzigingen (Verzamelwet SZW 2026)"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2026"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2026-18"/>
+      <meta name="OVERHEIDop.publicationIssue" content="18"/>
+      <meta name="DCTERMS.alternative" content="Verzamelwet SZW 2026"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2026-01-28"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2026-02-03"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2026-02-03"/>
+      <meta name="OVERHEIDop.behandeldDossier" content="36796"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Wet van 28 januari 2026 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met verscheidene technische en kleine beleidsmatige wijzigingen (Verzamelwet SZW 2026)</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+               <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wetstechnische en kleine beleidsmatige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+            </afkondiging>
+         </aanhef>
+         <wettekst>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">I</nr>
+                  <titel>WIJZIGING VAN DE ALGEMENE NABESTAANDENWET</titel>
+               </kop>
+               <wat type="wijziging">De Algemene nabestaandenwet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Aan artikel 26, tweede lid, wordt onder vervanging van de punt aan het slot van onderdeel d door een puntkomma een onderdeel toegevoegd, luidende:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>een kind van 16 jaar of 17 jaar dat als leerling, vavo-student of student als bedoeld in de <extref doc="https://wetten.overheid.nl/BWBR0007625/2024-09-14" soort="URL"
+                                         status="actief">Wet educatie en beroepsonderwijs</extref> van een met een school of instelling als bedoeld in artikel 4a van de Leerplichtwet 1969 vergelijkbare inrichting van onderwijs buiten Nederland staat ingeschreven en deze inrichting geregeld bezoekt, dan wel met overeenkomstige toepassing van de vrijstellingsgronden van die wet van die verplichting is vrijgesteld.</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 57, eerste lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 71 vervalt.</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">II</nr>
+                  <titel>WIJZIGING VAN DE ALGEMENE OUDERDOMSWET</titel>
+               </kop>
+               <wat type="wijziging">De Algemene Ouderdomswet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 20, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 62a vervalt het tweede lid, alsmede de aanduiding «1.» voor het eerste lid.</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+                  <titel>WIJZIGING VAN DE ARBEIDSOMSTANDIGHEDENWET</titel>
+               </kop>
+               <wat type="wijziging">De Arbeidsomstandighedenwet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Het opschrift van hoofdstuk 3 komt te luiden:</wat>
+                  <wijziging>
+                     <wijzig-divisie soort="hoofdstuk" opmaak="default">
+                        <kop>
+                           <label>HOOFDSTUK</label>
+                           <nr status="officieel">3.</nr>
+                           <titel>RAADPLEGING VAN DE WERKNEMERSVERTEGENWOORDIGERS OF BELANGHEBBENDE WERKNEMERS, BIJZONDERE RECHTEN VAN DE ONDERNEMINGSRAAD, DE PERSONEELSVERTEGENWOORDIGING EN DE REGELING VAN DE DESKUNDIGE BIJSTAND</titel>
+                        </kop>
+                     </wijzig-divisie>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 12 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Het opschrift komt te luiden:</wat>
+                     <artikelkop>
+                        <label>Artikel</label>
+                        <nr status="officieel">12.</nr>
+                        <titel>Raadpleging arbeidsomstandighedenbeleid en bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers</titel>
+                     </artikelkop>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het eerste en tweede lid komen te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>De werkgever raadpleegt de ondernemingsraad of personeelsvertegenwoordiging over het arbeidsomstandighedenbeleid en de uitvoering daarvan. Zij wisselen hierbij actief informatie uit, waarbij de ondernemingsraad en personeelsvertegenwoordiging het recht hebben om voorstellen te doen. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging raadpleegt de werkgever de belanghebbende werknemers.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>In het overleg dat plaatsvindt ter uitvoering van het eerste lid komen alle maatregelen aan de orde die van wezenlijk belang kunnen zijn op de veiligheid en gezondheid. Hierbij worden in ieder geval de volgende onderwerpen besproken:</al>
+                           <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single"
+                                  nr-sluiting=".">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>de aanwijzing van bedrijfshulpverleners, bedoeld in artikel 15;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>de risico-inventarisatie en -evaluatie, bedoeld in artikel 5;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>de organisatie van deskundige bijstand, bedoeld in artikel 13, eerste tot en met derde lid;</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>de aanvullende deskundige bijstand als bedoeld in artikel 14;</al>
+                              </li>
+                              <li>
+                                 <li.nr>e.</li.nr>
+                                 <al>de arbodienst;</al>
+                              </li>
+                              <li>
+                                 <li.nr>f.</li.nr>
+                                 <al>de doeltreffende inlichting van werknemers over de te verrichten werkzaamheden en de daaraan verbonden risico’s, bedoeld in artikel 8.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>Het derde lid vervalt, onder vernummering van het vierde tot en met zesde lid tot derde tot en met vijfde lid.</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 27, vijfde lid, wordt na «11», ingevoegd «12, eerste en tweede lid,».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 33, eerste lid, wordt na «11,» ingevoegd «12, eerste en tweede lid,».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+                  <titel>WIJZIGING VAN DE PARTICIPATIEWET</titel>
+               </kop>
+               <wat type="wijziging">De Participatiewet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 1, onderdeel e, komt te luiden:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>Bureau Informatiediensten Nederland: het Bureau Informatiediensten Nederland, bedoeld in artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen;</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 4, eerste lid, onderdeel d, wordt «de artikelen 9, 9a en 30, tweede lid» vervangen door «de artikelen 9 en 9a».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 54, derde lid, wordt voor «artikel 30c, tweede en derde lid» ingevoegd «de verplichtingen, bedoeld in».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 59, tweede en derde lid, wordt «de verplichtingen, bedoeld in artikel 17,» telkens vervangen door «de verplichting, bedoeld in artikel 17,» en wordt voor «artikel 30c, tweede en derde lid» telkens ingevoegd «de verplichtingen, bedoeld in».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>In artikel 62, onderdeel c, wordt «aan wie bijzondere bijstand is verleend» vervangen door «van wie de bijstand op grond van artikel 20, derde lid, is verhoogd».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>In artikel 64, derde, zevende, negende, twaalfde en dertiende lid, wordt «het Inlichtingenbureau» telkens vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>In artikel 67, tweede lid, wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">H</lidnr>
+                  <wat>In artikel 68, eerste lid, wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">V</nr>
+                  <titel>WIJZIGING VAN DE TOESLAGENWET</titel>
+               </kop>
+               <wat type="wijziging">Artikel 22 van de Toeslagenwet wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>«een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VI</nr>
+                  <titel>WIJZIGING VAN DE WERKLOOSHEIDSWET</titel>
+               </kop>
+               <wat type="wijziging">De Werkloosheidswet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 39, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 42b, tweede lid, wordt «artikel 20, eerste lid, onderdeel a of c» vervangen door «artikel 20, eerste lid, onderdeel a, c of d».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VII</nr>
+                  <titel>WIJZIGING VAN DE WET ALGEMENE OUDERDOMSVERZEKERING BES</titel>
+               </kop>
+               <wat type="wijziging">De Wet algemene ouderdomsverzekering BES wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Aan artikel 7b wordt een lid toegevoegd, luidende:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">5.</lidnr>
+                           <al>De artikelen 12, 13, 14, eerste en tweede lid, 15, 16, 18, 19, 20, 22a tot en met 22c, 34, 36a en 37 zijn van overeenkomstige toepassing op de tegemoetkoming.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Aan artikel 17, tweede lid, wordt een punt toegevoegd.</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VIII</nr>
+                  <titel>WIJZIGING VAN DE WET ARBEIDSONGESCHIKTHEIDSVERZEKERING ZELFSTANDIGEN</titel>
+               </kop>
+               <wat type="wijziging">Artikel 57, derde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IX</nr>
+                  <titel>WIJZIGING VAN DE WET ARBEIDSONGESCHIKTHEIDSVOORZIENING JONGGEHANDICAPTEN</titel>
+               </kop>
+               <wat type="wijziging">De Wet arbeidsongeschiktheidsvoorziening jonggehandicapten wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 2:18, tweede lid, onderdeel a, wordt «artikel 30a, achtste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen» vervangen door «artikel 30a, negende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 2:55, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 3:47, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 5:3, eerste lid, onderdeel f, wordt «bedoeld in het achtste lid van dat artikel» vervangen door «bedoeld in het negende lid van dat artikel».</wat>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">X</nr>
+                  <titel>WIJZIGING VAN DE WET BANENAFSPRAAK</titel>
+               </kop>
+               <wat type="wijziging">De Wet banenafspraak wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 3, vierde lid, wordt «zijn taken» vervangen door «hun taken».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 6, eerste lid, eerste zin, komt te luiden:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <al>Na een activering als bedoeld in artikel 5, eerste lid, wordt een inclusiviteitsopslag geheven op de premie, bedoeld in artikel 36, eerste lid, van de Wfsv, die ten gunste komt van het Rijk.</al>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 7, onderdeel G, komt te luiden:</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Artikel 38d, zevende lid, komt te luiden:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">7.</lidnr>
+                           <al>Het UWV deelt op verzoek aan een werkgever over een door middel van het burgerservicenummer aangeduide persoon mede:</al>
+                           <?xpp qa?><?xpp lead;-1?><lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single"
+                                  nr-sluiting=".">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>of de door de werkgever aangeduide werknemer, persoon met wie hij verwacht een dienstbetrekking aan te gaan, of persoon die onder zijn toezicht en leiding arbeid verricht of ter beschikking is gesteld als bedoeld in artikel 38g, tweede lid, is opgenomen in de registratie, bedoeld in het eerste lid; of</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>gedurende welke periode in een lopend kalenderjaar of in het voorgaande kalenderjaar deze persoon is opgenomen in de registratie, bedoeld in het eerste lid.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Artikel 8 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In onderdeel E, subonderdeel 4, vervalt «of artikel 6.2, eerste lid».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Onderdeel I vervalt.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>In onderdeel K, in artikel 6.2, vierde lid, wordt «registratie arbeidsbeperkten» vervangen door «registratie van arbeidsbeperkten».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Artikel 12 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt «Deze wet is» vervangen door «De artikelen 1 tot en met 6 van deze wet zijn».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>In het tweede lid wordt na «afdeling 4,» ingevoegd «paragraaf 4a,».</wat>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XI</nr>
+                  <titel>WIJZIGING VAN DE WET FINANCIERING SOCIALE VERZEKERINGEN</titel>
+               </kop>
+               <wat type="wijziging">In artikel 108, tweede lid, van de Wet financiering sociale verzekeringen, wordt «bedoeld in het achtste lid van dat artikel» vervangen door «bedoeld in het negende lid van dat artikel,».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XII</nr>
+                  <titel>WIJZIGING VAN DE WET GEMEENTELIJKE SCHULDHULPVERLENING</titel>
+               </kop>
+               <wat type="wijziging">In artikel 8, derde lid, van de Wet gemeentelijke schuldhulpverlening wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIII</nr>
+                  <titel>WIJZIGING VAN DE WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE GEWEZEN ZELFSTANDIGEN</titel>
+               </kop>
+               <wat type="wijziging">De Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 1, onderdeel e, komt te luiden:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>Bureau Informatiediensten Nederland: het Bureau Informatiediensten Nederland, bedoeld in artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen;</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 4a, onderdeel a, wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 37a, eerste lid, wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 45, tweede, zesde, achtste en elfde lid, wordt «het Inlichtingenbureau» telkens vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>In artikel 48, tweede lid, wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Artikel 49 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>In het tweede lid, wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIV</nr>
+                  <titel>WIJZIGING VAN DE WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE WERKLOZE WERKNEMERS</titel>
+               </kop>
+               <wat type="wijziging">De Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 1, onderdeel e, komt te luiden:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>Bureau Informatiediensten Nederland: het Bureau Informatiediensten Nederland, bedoeld in artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen;</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 4a, onderdeel a, wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>In artikel 17, derde lid, wordt voor «artikel 30c, tweede en derde lid» ingevoegd «de verplichtingen, bedoeld in».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 26, tweede lid, wordt voor «artikel 30c, tweede en derde lid» ingevoegd «de verplichtingen, bedoeld in».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>In artikel 37a, eerste lid, wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>In artikel 45, tweede, zesde, achtste en elfde lid, wordt «het Inlichtingenbureau» telkens vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>In artikel 48, tweede lid, wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">H</lidnr>
+                  <wat>Artikel 49 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt «het Inlichtingenbureau» vervangen door «het Bureau Informatiediensten Nederland».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>In het tweede lid wordt «een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a» vervangen door «een voorziening als bedoeld in artikel 37, eerste lid, onderdeel e».</wat>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XV</nr>
+                  <titel>WIJZIGING VAN DE WET INKOMENSVOORZIENING OUDERE WERKLOZEN</titel>
+               </kop>
+               <wat type="wijziging">Artikel 30, derde lid, van de Wet inkomensvoorziening oudere werklozen wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVI</nr>
+                  <titel>WIJZIGING VAN DE WET KINDEROPVANG</titel>
+               </kop>
+               <wat type="wijziging">De Wet kinderopvang wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 1.6, eerste lid, onderdeel i, eerste subonderdeel, wordt «artikel 30a, achtste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen» vervangen door «artikel 30a, negende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Aan artikel 1.10, eerste lid, wordt toegevoegd, «die ten gunste komt van het Rijk».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 1.56b, derde lid, komt te luiden:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>In het bezit van een verklaring omtrent het gedrag zijn:</al>
+                           <?xpp qa?><?xpp lead;-1?><lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single"
+                                  nr-sluiting=".">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>de gastouder of voorgenomen gastouder;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>de personen die op basis van een overeenkomst met de gastouder of het gastouderbureau structureel tijdens opvanguren aanwezig zijn of zullen zijn op opvanglocatie;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>de personen van 18 jaar of ouder die op hetzelfde woonadres als de gastouder, voor zover dit tevens de opvanglocatie is, hun hoofdverblijf hebben of zullen hebben; en</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>de personen van 18 jaar en ouder die structureel tijdens opvanguren aanwezig zijn of zullen zijn op de opvanglocatie, indien dit het woonadres van de gastouder is.</al>
+                              </li>
+                           </lijst>
+                           <al>Een ieder als bedoeld in de onderdelen a tot en met d staan ingeschreven in het personenregister kinderopvang, bedoeld in artikel 1.48d. De verklaring omtrent het gedrag is bij inschrijving in het personenregister kinderopvang niet ouder dan twee maanden.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVII</nr>
+                  <titel>WIJZIGING VAN DE WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING</titel>
+               </kop>
+               <wat type="wijziging">Artikel 54, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XVIII</nr>
+                  <titel>WIJZIGING VAN DE WET OP HET ALGEMEEN VERBINDEND EN HET ONVERBINDEND VERKLAREN VAN BEPALINGEN VAN COLLECTIEVE ARBEIDSOVEREENKOMSTEN</titel>
+               </kop>
+               <wat type="wijziging">In artikel 10a, derde en vierde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten vervalt «dan wel de voor de uitbetaling van het loon verantwoordelijke natuurlijke personen of rechtspersonen,».</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XIX</nr>
+                  <titel>WIJZIGING VAN DE WET OP HET KINDGEBONDEN BUDGET</titel>
+               </kop>
+               <wat type="wijziging">Artikel 3 van de Wet op het kindgebonden budget wordt als volgt gewijzigd:</wat>
+               <wijziging>
+                  <nr status="officieel">1.</nr>
+                  <wat>In het zevende lid vervalt «, waarbij de gewijzigde bedragen in de plaats treden van die bedragen en die gewijzigde bedragen door of namens Onze Minister worden medegedeeld in de Staatscourant».</wat>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">2.</nr>
+                  <wat>Het achtste lid komt te luiden:</wat>
+                  <artikeltekst>
+                     <lid>
+                        <lidnr status="officieel">8.</lidnr>
+                        <al>De verlaging, bedoeld in het zesde lid, en de verhoging, bedoeld in het zevende lid, vinden plaats nadat het eerste lid toepassing heeft gevonden.</al>
+                     </lid>
+                  </artikeltekst>
+               </wijziging>
+               <wijziging>
+                  <nr status="officieel">3.</nr>
+                  <wat>Het tiende en elfde lid vervallen.</wat>
+               </wijziging>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XX</nr>
+                  <titel>WIJZIGING VAN DE WET STRUCTUUR UITVOERINGSORGANISATIE WERK EN INKOMEN</titel>
+               </kop>
+               <wat type="wijziging">De Wet structuur uitvoeringsorganisatie werk en inkomen wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 1, eerste lid, onder m, wordt «Inlichtingenbureau» vervangen door «Bureau Informatiediensten Nederland».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 53 komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">53.</nr>
+                           <titel>Specifieke uitkering Grensinformatiepunten</titel>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Onze Minister verstrekt een specifieke uitkering aan de Rijksontvangers ten behoeve van de financiering van de GrensInfoPunten.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Bij ministeriële regeling worden nadere regels gesteld ter uitwerking van de specifieke uitkering, bedoeld in het eerste lid, waaronder in ieder geval over de hoogte van de uitkering, de verdeling onder de Rijksontvangers en de verantwoording.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Onze Minister kan de uitkering geheel of gedeeltelijk terugvorderen indien uit de informatie die is verstrekt op grond van artikel 17a van de Financiële-verhoudingswet niet blijkt dat de uitkering is besteed in overeenstemming met het eerste lid.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 63 komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">63.</nr>
+                           <titel>Nadere regels Bureau Informatiediensten Nederland</titel>
+                        </kop>
+                        <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de taken, de financiering en het beheer van het Bureau Informatiediensten Nederland bij de toepassing van de in artikel 62 genoemde wetten.</al>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXI</nr>
+                  <titel>WIJZIGING VAN DE WET WERK EN INKOMEN NAAR ARBEIDSVERMOGEN</titel>
+               </kop>
+               <wat type="wijziging">De Wet werk en inkomen naar arbeidsvermogen wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 11, eerste lid, wordt «artikel 10, onder 1°, onder g, van die wet» vervangen door «artikel 10, onderdeel a, onder g, van die wet».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 71, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXII</nr>
+                  <titel>WIJZIGING VAN DE ZIEKTEWET</titel>
+               </kop>
+               <wat type="wijziging">De Ziektewet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In artikel 29, twaalfde lid, wordt «onderdeel e of g» vervangen door «onderdeel g».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 40, derde lid, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>«in een inrichting ter verpleging van geesteszieken of van zwakzinnigen» wordt vervangen door «in een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg of in een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>«inrichting» wordt telkens vervangen door «accommodatie».</wat>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXIII</nr>
+                  <titel>WIJZIGING VAN DE GRONDSLAG VAN DE SPECIFIEKE UITKERING GIPS</titel>
+               </kop>
+               <wat type="wijziging">Na de inwerkingtreding van artikel XX, onderdeel B, van deze wet berust de Regeling specifieke uitkering GIPS (<extref doc="stcrt-2024-38826" soort="document" status="actief">Stcrt. 2024, 38826</extref>) op artikel 53 van de Wet structuur uitvoeringsorganisatie werk en inkomen.</wat>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXIIIA</nr>
+                  <titel>WIJZIGING VAN DE PARTICIPATIEWET IN BALANS</titel>
+               </kop>
+               <wat type="wijziging">De Participatiewet in balans wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>In de artikelen I, onderdeel K, II, onderdeel E, en III, onderdeel F, vervalt onderdeel 3.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Na artikel I, onderdeel K, wordt een onderdeel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <wijzig-lid>
+                        <lidnr status="officieel">Ka</lidnr>
+                        <wat>Artikel 17, derde lid, komt te luiden:</wat>
+                        <wijziging><?xpp qa?><?xpp lead;-1?><artikeltekst>
+                              <lid>
+                                 <lidnr status="officieel">3.</lidnr>
+                                 <al>Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 4°, van de Wet op de identificatieplicht. Indien een aanvraag voor het recht op bijstand wordt gedaan met gebruikmaking van een elektronisch identificatiemiddel, wordt het college geacht de identiteit van de belanghebbende te hebben vastgesteld als bedoeld in de eerste zin.</al>
+                              </lid>
+                           </artikeltekst>
+                        </wijziging>
+                     </wijzig-lid>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel I, onderdeel Q, onder 1, wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Onderdeel f komt te luiden:</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">f.</nr>
+                     <wat>De onderdelen n, r, y, z en aa vervallen, onder vervanging van de puntkomma aan het slot van onderdeel w door een punt.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Onderdeel g komt te luiden:</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">g.</nr>
+                     <wat>In onderdeel q vervalt «een uitkering als bedoeld in artikel 118a, eerste lid, van de Zorgverzekeringswet of».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>Na onderdeel g worden twee onderdelen ingevoegd, luidende:</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">ga.</nr>
+                     <wat>Onderdeel s komt te luiden:</wat>
+                     <artikeltekst>
+                        <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single"
+                               nr-sluiting=".">
+                           <li>
+                              <li.nr>s.</li.nr>
+                              <al>giften, voor zover zij niet op grond van onderdeel m van de middelen zijn uitgezonderd, en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade, voor zover deze giften en vergoedingen naar het oordeel van het college in het individuele geval en uit een oogpunt van bijstandsverlening verantwoord zijn;.</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">gb.</nr>
+                     <wat>In onderdeel t vervallen «de Wet tegemoetkomingen chronisch zieken en gehandicapten,» en «of artikel 24 van de Wet tegemoetkoming chronisch ziekten en gehandicapten, zoals dat op 31 december 2013 luidde» en wordt «, artikel 3:75» vervangen door «en artikel 3:75».</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Artikel II, onderdeel C, komt te luiden:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <al>In artikel 8 vervallen het tweede lid en het vierde tot en met elfde lid, onder vernummering van het derde lid tot tweede lid.</al>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Na artikel II, onderdeel E, wordt een onderdeel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <wijzig-lid>
+                        <lidnr status="officieel">Ea</lidnr>
+                        <wat>Artikel 13, derde lid, komt te luiden:</wat>
+                        <wijziging><?xpp qa?><?xpp lead;-1?><artikeltekst>
+                              <lid>
+                                 <lidnr status="officieel">3.</lidnr>
+                                 <al>Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 4°, van de Wet op de identificatieplicht. Indien een aanvraag voor het recht op een uitkering wordt gedaan met gebruikmaking van een elektronisch identificatiemiddel, wordt het college geacht de identiteit van de belanghebbende te hebben vastgesteld als bedoeld in de eerste zin.</al>
+                              </lid>
+                           </artikeltekst>
+                        </wijziging>
+                     </wijzig-lid>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Na artikel III, onderdeel F, wordt een onderdeel ingevoegd, luidende:</wat>
+                  <wijziging>
+                     <wijzig-lid>
+                        <lidnr status="officieel">Fa</lidnr>
+                        <wat>Artikel 13, derde lid, komt te luiden:</wat>
+                        <wijziging><?xpp qa?><?xpp lead;-1?><artikeltekst>
+                              <lid>
+                                 <lidnr status="officieel">3.</lidnr>
+                                 <al>Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 4°, van de Wet op de identificatieplicht. Indien een aanvraag voor het recht op een uitkering wordt gedaan met gebruikmaking van een elektronisch identificatiemiddel, wordt het college geacht de identiteit van de belanghebbende te hebben vastgesteld als bedoeld in de eerste zin.</al>
+                              </lid>
+                           </artikeltekst>
+                        </wijziging>
+                     </wijzig-lid>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Artikel V wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Er worden twee leden toegevoegd, luidende:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>In afwijking van het eerste lid, treden de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, in werking op het tijdstip waarop artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt, met dien verstande dat artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt voordat de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, van deze wet in werking treden.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Indien artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt na 1 januari 2026, werkt de inwerkingtreding van de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, van deze wet terug tot en met 1 januari 2026.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXIV</nr>
+                  <titel>INWERKINGTREDING</titel>
+               </kop>
+               <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In afwijking van het eerste lid, treedt artikel XXIIIA in werking met ingang van 1 januari 2026. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt artikel XXIIIA in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.</al>
+               </lid>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">XXV</nr>
+                  <titel>CITEERTITEL</titel>
+               </kop>
+               <al>	Deze wet wordt aangehaald als: Verzamelwet SZW 2026.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+            </slotformulering>
+            <histnoot type="parlementair">
+               <al>Kamerstuk <dossierref dossier="36796">36 796</dossierref>
+               </al>
+            </histnoot>
+            <gegeven>
+               <label>Gegeven te </label>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2026-01-28">28 januari 2026</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+               <naam>
+                  <voornaam>M.L.J.</voornaam>
+                  <achternaam>Paul</achternaam>
+               </naam>
+            </ondertekening>
+            <uitgifte>
+               <datum isodatum="2026-02-03">Uitgegeven de <nadruk type="cur">derde</nadruk> februari 2026</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>F. van</voornaam>
+                     <achternaam>Oosten</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl id="sb997.340" soort="kb" publtype="kobe">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-1997-340/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="0.4" conv="Plaatje" markup="c1xa"></versie>
+    <ordernr>7S0294</ordernr>
+    <stb>
+      <jaargang jaar="1997">Jaargang 1997</jaargang>
+      <stbjaar>1997</stbjaar>
+      <stbnr>340 </stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 19 juli 1997, houdende inwerkingtreding
+van de wet van 19 juni 1997 tot gemeentelijke herindeling in de provincie
+Drenthe (Stb. 283)</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op voordracht van de Staatssecretaris van Binnenlandse Zaken,</al>
+        <al>mw. A. G. M van de Vondervoort, van 8 juli 1997, directoraat-generaal
+Openbaar Bestuur, nr. BW97/U1071;</al>
+        <al>Gelet op <grslag>artikel 13 van de wet van 19 juni 1997 tot gemeentelijke
+herindeling in de provincie Drenthe, Stb. 283</grslag>;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <art id="a1">
+      <kop>
+        <nr>Enig artikel</nr>
+      </kop>
+      <al>De wet van 19 juni 1997, Stb. 283, tot gemeentelijke herindeling in de
+provincie Drenthe treedt in werking met ingang van 1 augustus 1997.</al>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Onze Minister van Binnenlandse Zaken is belast met de uitvoering
+van dit besluit dat in het Staatsblad zal worden geplaatst.</slotform>
+      <ondertek>
+        <ondplts>'s-Gravenhage, </ondplts>
+        <onddatum>19 juli 1997</onddatum>
+        <koning>Beatrix </koning>
+        <minister>
+          <minvan>De Staatssecretaris van Binnenlandse Zaken,</minvan>
+          <naam>A. G. M. van de Vondervoort</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">negenentwintigste</nadruk> juli 1997</uitgifte-regel>
+        <uitdag>negenentwintigste</uitdag>
+        <uitmaand>juli</uitmaand>
+        <uitjaar>1997</uitjaar>
+        <door>
+          <minvan>De Minister van Justitie,</minvan>
+          <naam>W. Sorgdrager</naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+  </backm>
+</staatsbl>

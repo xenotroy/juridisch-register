@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl publtype="stbl" soort="kb" id="sb2006.675">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2006-675/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="axml_1.8" conv="vrrm_1.12" markup="V"></versie>
+    <ordernr>STB10715</ordernr>
+    <stb>
+      <jaargang jaar="2006">Jaargang 2006</jaargang>
+      <stbjaar>2006</stbjaar>
+      <stbnr>675</stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 11 december 2006, houdende inwerkingtreding van de Wet van 30
+november 2006 tot wijziging van de Arbeidsomstandighedenwet 1998 en
+enige andere wetten in verband met het vergroten van de
+verantwoordelijkheid van werkgevers en werknemers voor het
+arbeidsomstandighedenbeleid (Stb. 2006, 673) en van het Besluit van
+5 december 2006 tot wijziging van het
+Arbeidsomstandighedenbesluit ter vergroting van de verantwoordelijkheid
+van werkgevers en werknemers voor het arbeidsomstandighedenbeleid en
+ter beperking en vereenvoudiging van de regelgeving en van enige andere
+besluiten in verband hiermee (Stb. 2006, 674)</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der
+Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van de Staatssecretaris
+van Sociale Zaken en Werkgelegenheid van 4 december 2006, Directie
+Arbeidsomstandigheden, nr. ARBO/A&amp;V/2006/97496;</al>
+        <al>Gelet op de
+<grslag>artikelen VIII van de Wet van 30 november
+2006 tot wijziging van de Arbeidsomstandighedenwet 1998 en enige andere
+wetten in verband met het vergroten van de verantwoordelijkheid van
+werkgevers en werknemers voor het arbeidsomstandighedenbeleid (Stb.
+2006, 673)</grslag> en <grslag>XII van het
+Besluit van 5 december 2006 tot wijziging van het
+Arbeidsomstandighedenbesluit ter vergroting van de
+verantwoordelijkheid van werkgevers en werknemers voor het
+arbeidsomstandighedenbeleid en ter beperking en vereenvoudiging van de
+regelgeving en van enige andere besluiten in verband hiermee (Stb.
+2006, 674)</grslag>;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en
+verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <art>
+      <kop>
+        <nr>Enig Artikel</nr>
+      </kop>
+      <al>Met
+ingang van 1 januari 2007 treden in werking in de hierna
+aangegeven
+volgorde</al>
+      <al>a. de Wet van 30 november 2006 tot wijziging van de
+Arbeidsomstandighedenwet 1998 en enige andere wetten in verband met het
+vergroten van de verantwoordelijkheid van werkgevers en werknemers voor
+het arbeidsomstandighedenbeleid (Stb. 2006, 673);</al>
+      <al>b. het Besluit van 5 december 2006 tot
+wijziging van het Arbeidsomstandighedenbesluit ter vergroting
+van de verantwoordelijkheid van werkgevers en werknemers voor het
+arbeidsomstandighedenbeleid en ter beperking en vereenvoudiging van de
+regelgeving en van enige andere besluiten in verband hiermee (Stb.
+2006,
+674).</al>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de
+uitvoering van dit besluit dat in het Staatsblad zal worden
+geplaatst.</slotform>
+      <ondertek>
+        <ondplts>’s-Gravenhage, </ondplts>
+        <onddatum>11
+december
+2006</onddatum>
+        <koning>Beatrix</koning>
+        <minister>
+          <minvan>De
+Staatssecretaris van
+Sociale Zaken en
+Werkgelegenheid, </minvan>
+          <naam>H. A.
+L. van Hoof</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">eenentwintigste</nadruk> december 2006</uitgifte-regel>
+        <uitdag>eenentwintigste</uitdag>
+        <uitmaand>december</uitmaand>
+        <uitjaar>2006</uitjaar>
+        <door>
+          <minvan>De Minister van
+Justitie, </minvan>
+          <naam>E.
+M. H. Hirsch
+Ballin</naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+  </backm>
+</staatsbl>

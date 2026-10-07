@@ -1,0 +1,818 @@
+{
+  "title": "Hoe veilig werken wet werd",
+  "subtitle": "Van sectorregels naar preventie, samenwerking en actuele toepassing",
+  "as_of": "2026-10-05",
+  "status": "teaching_draft",
+  "sources": {
+    "mine": {
+      "title": "Mijnbouwwet: memorie van toelichting, inleiding",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26219-3.html",
+      "publication_id": "kst-26219-3"
+    },
+    "child": {
+      "title": "Nationaal Archief: Kinderen horen niet in de fabriek (1874)",
+      "url": "https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/kinderen-horen-niet-in-de-fabriek-1874"
+    },
+    "inspection": {
+      "title": "Nationaal Archief: geschiedenis van de Arbeidsinspectie",
+      "url": "https://www.nationaalarchief.nl/onderzoeken/archief/3.13.08/beschrijving/context"
+    },
+    "history": {
+      "title": "Sociale Nota 2000: een eeuw arbeidsomstandighedenbeleid",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26802-2.html",
+      "publication_id": "kst-26802-2"
+    },
+    "arbowet1980": {
+      "title": "Kamerstuk 25323, nr. 11: wet van 8 november 1980 en gefaseerde invoering",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-25323-11.html"
+    },
+    "phase1983": {
+      "title": "Kamerstukken 1984–1985: gedeeltelijke invoering per 1 januari 1983",
+      "url": "https://repository.overheid.nl/frbr/sgd/19841985/0000127663/1/pdf/SGD_19841985_0005333.pdf"
+    },
+    "europe": {
+      "title": "Kaderrichtlijn 89/391/EEG: artikelen 6 en 9",
+      "url": "https://eur-lex.europa.eu/eli/dir/1989/391/oj/nld/pdf"
+    },
+    "implementation": {
+      "title": "Inwerkingtreding implementatiewet: Staatsblad 1993, 758",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-1993-758.pdf"
+    },
+    "decision": {
+      "title": "Arbeidsomstandighedenbesluit: Staatsblad 1997, 60",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-1997-60.html",
+      "publication_id": "stb-1997-60"
+    },
+    "decision_effect": {
+      "title": "Inwerkingtreding Arbobesluit: Staatsblad 1997, 340",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-1997-340.html",
+      "publication_id": "stb-1997-340"
+    },
+    "law1999": {
+      "title": "Inwerkingtreding Arbowet 1998: Staatsblad 1999, 450",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-1999-450.html",
+      "publication_id": "stb-1999-450"
+    },
+    "change2007": {
+      "title": "Wijziging Arbowet: Staatsblad 2006, 673",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2006-673.html",
+      "publication_id": "stb-2006-673"
+    },
+    "effect2007": {
+      "title": "Inwerkingtreding per 1 januari 2007: Staatsblad 2006, 675",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2006-675.html",
+      "publication_id": "stb-2006-675"
+    },
+    "system": {
+      "title": "Arboportaal: Arbowet, arbocatalogus en vernieuwing in 2017",
+      "url": "https://www.arboportaal.nl/onderwerpen/arbowet--en--regelgeving/arbowetgeving/wat-staat-er-in-de-arbowet"
+    },
+    "care": {
+      "title": "Wijziging arbeidsgerelateerde zorg: Staatsblad 2017, 22",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2017-22.html",
+      "publication_id": "stb-2017-22"
+    },
+    "europe-overview": {
+      "title": "EU-OSHA: de Europese kaderrichtlijn van 1989",
+      "url": "https://osha.europa.eu/en/legislation/directives/the-osh-framework-directive/the-osh-framework-directive-introduction"
+    },
+    "arie2004": {
+      "title": "ARIE vervangt arbeidsveiligheidsrapportage: Staatsblad 2004, 69",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2004-69.html",
+      "publication_id": "stb-2004-69"
+    },
+    "prevention2005": {
+      "title": "Deskundige werknemers en preventie: Staatsblad 2005, 202",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2005-202.html",
+      "publication_id": "stb-2005-202"
+    },
+    "prevention2005_effect": {
+      "title": "Inwerkingtreding per 1 juli 2005: Staatsblad 2005, 298",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2005-298.html",
+      "publication_id": "stb-2005-298"
+    },
+    "psa2007": {
+      "title": "Psychosociale arbeidsbelasting, artikel 2.15: Staatsblad 2006, 674",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2006-674.html",
+      "publication_id": "stb-2006-674"
+    },
+    "arie2023": {
+      "title": "Herziening ARIE en overgangsrecht: Staatsblad 2022, 501",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2022-501.html",
+      "publication_id": "stb-2022-501"
+    },
+    "care2017_effect": {
+      "title": "Inwerkingtreding arbozorg per 1 juli 2017: Staatsblad 2017, 254",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2017-254.html",
+      "publication_id": "stb-2017-254"
+    },
+    "responsibility1998": {
+      "title": "Arbowet 1998: eigen beleid binnen het wettelijke beschermingsniveau (Kamerstuk 25879, nr. 6)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-25879-6.html"
+    },
+    "dsm1975": {
+      "title": "HSE: explosie en brand bij DSM Beek, 7 november 1975",
+      "url": "https://www.hse.gov.uk/comah/sragtech/casebeek75.htm"
+    },
+    "seveso1976": {
+      "title": "Europese Commissie: Seveso 1976 en de richtlijn van 1982",
+      "url": "https://environment.ec.europa.eu/news/eu-maintains-commitment-strengthening-industrial-safety-2026-07-10_en"
+    },
+    "enschede2000": {
+      "title": "Kamerstuk 27157, nr. 1: brand en explosies in Enschede op 13 mei 2000",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-27157-1.html"
+    },
+    "moerdijk2011": {
+      "title": "Onderzoeksraad voor Veiligheid: brand bij Chemie-Pack te Moerdijk, 5 januari 2011",
+      "url": "https://onderzoeksraad.nl/onderzoek/brand-bij-chemie-pack-te-moerdijk-5-januari-2011/"
+    }
+  },
+  "events": [
+    {
+      "id": "mine1810",
+      "year": 1810,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Historische regeling",
+      "title": "Mijnwet 1810",
+      "summary": "Regels voor een gevaarlijke sector",
+      "icon": "mine",
+      "category": "Regels",
+      "sources": [
+        "mine"
+      ],
+      "fact": "De Mijnwet van 1810 vormt een vroege wettelijke regeling van de mijnbouw. De memorie van toelichting bij de latere Mijnbouwwet beschrijft die historische oorsprong.",
+      "meaning": "Regulering begint in dit lesverhaal bij een specifieke activiteit met grote risico’s. De ontwikkeling naar een algemeen arbostelsel komt veel later.",
+      "question": "Waarom is ‘Napoleon maakte de eerste veiligheidswet’ een te sterke conclusie?",
+      "answer": "Een mijnwet regelt meer dan arbeidsveiligheid. Eén vroege sectorwet bewijst ook niet dat daarvoor nergens beschermende regels bestonden. Benoem de Mijnwet als historisch begin van deze lesroute.",
+      "confidence": "high",
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null
+    },
+    {
+      "id": "child1874",
+      "year": 1874,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Wetgeving",
+      "title": "Kinderwet van Van Houten",
+      "summary": "Grenzen aan kinderarbeid",
+      "icon": "child",
+      "category": "Regels",
+      "sources": [
+        "child"
+      ],
+      "fact": "De Kinderwet verbiedt arbeid door kinderen beneden twaalf jaar, met uitzonderingen voor onder meer huiselijke en persoonlijke diensten en veldarbeid.",
+      "meaning": "De bescherming richt zich op een kwetsbare groep. De werking hangt ook af van de uitzonderingen en het toezicht.",
+      "question": "Is een wettelijk verbod op zichzelf bewijs dat de werksituatie verbetert?",
+      "answer": "Nee. Onderzoek toepassingsbereik, uitzonderingen, naleving en handhaving. Het bestaan van de norm en de werking in de praktijk zijn verschillende vragen.",
+      "confidence": "high",
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null
+    },
+    {
+      "id": "labour1889",
+      "year": 1889,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Wetgeving",
+      "title": "Arbeidswet 1889",
+      "summary": "Werktijden en bescherming",
+      "icon": "clock",
+      "category": "Regels",
+      "sources": [
+        "inspection"
+      ],
+      "fact": "De Arbeidswet van 1889 beschermt jeugdige personen en vrouwen en stelt grenzen aan hun arbeid. De wet treedt op 1 januari 1890 in werking.",
+      "meaning": "Arbeidsbescherming krijgt een bredere wettelijke uitwerking. Vaststelling en inwerkingtreding zijn twee afzonderlijke momenten.",
+      "question": "Welke twee datums moet je bij een nieuwe wet uit elkaar houden?",
+      "answer": "De datum waarop de wet tot stand komt of wordt gepubliceerd en de datum waarop een specifieke bepaling in werking treedt. Die laatste kan per onderdeel verschillen.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Uitwerking van bescherming van kwetsbare groepen in dit lesverhaal.",
+      "parent_event_id": "child1874"
+    },
+    {
+      "id": "inspect1890",
+      "year": 1890,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Toezicht",
+      "title": "Arbeidsinspectie",
+      "summary": "Een organisatie voor naleving",
+      "icon": "inspect",
+      "category": "Toezicht",
+      "sources": [
+        "inspection"
+      ],
+      "fact": "In 1890 begint het toezicht van de Arbeidsinspectie op de Arbeidswet. Het Nationaal Archief verbindt dit met de invoering van de wet per 1 januari 1890.",
+      "meaning": "Een norm krijgt een eigen toezichtorganisatie. De inspecteur en de werkgever vervullen verschillende rollen.",
+      "question": "Wie moet een veilige werksituatie organiseren: de werkgever of de inspecteur?",
+      "answer": "De werkgever moet het werk organiseren en risico’s beheersen. Toezicht controleert en handhaaft. Het bestaan van toezicht neemt de verantwoordelijkheid binnen de onderneming niet over.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Toezicht op de bescherming van jeugdigen en vrouwen; vervolgstap binnen dit lesthema.",
+      "parent_event_id": "child1874"
+    },
+    {
+      "id": "safety1895",
+      "year": 1895,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Wetgeving",
+      "title": "Veiligheidswet 1895",
+      "summary": "Veiligheid in fabrieken en werkplaatsen",
+      "icon": "factory",
+      "category": "Regels",
+      "sources": [
+        "inspection"
+      ],
+      "fact": "De Veiligheidswet van 1895 richt zich op bescherming in fabrieken en werkplaatsen. De Arbeidsinspectie kan daar veiligheidsvoorschriften geven.",
+      "meaning": "De aandacht gaat ook naar gevaren van de werkomgeving en het productieproces.",
+      "question": "Welke beperking zit in een wet die alleen voor fabrieken en werkplaatsen geldt?",
+      "answer": "Risicovol werk buiten die werkingssfeer valt niet vanzelf onder dezelfde bescherming. Begin een juridische analyse daarom met de vraag of de regeling op het werk van toepassing is.",
+      "confidence": "high",
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null
+    },
+    {
+      "id": "safety1934",
+      "year": 1934,
+      "date": null,
+      "date_precision": "year",
+      "date_kind": "Wetgeving",
+      "title": "Veiligheidswet 1934",
+      "summary": "Bescherming buiten de fabriek",
+      "icon": "factory",
+      "category": "Regels",
+      "sources": [
+        "history"
+      ],
+      "fact": "In 1934 wordt de werkingssfeer van de Veiligheidswet uitgebreid naar andere sectoren dan fabrieken en werkplaatsen.",
+      "meaning": "Arbeidsbescherming breidt zich uit. Nieuwe activiteiten vragen steeds opnieuw om een passende werkingssfeer.",
+      "question": "Wordt een risico kleiner doordat het buiten de wettelijke werkingssfeer valt?",
+      "answer": "Nee. De juridische toepasselijkheid en de feitelijke ernst van het risico zijn verschillende zaken. De HVK’er moet beide onderzoeken.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Uitbreiding van de werkingssfeer na de Veiligheidswet 1895.",
+      "parent_event_id": "safety1895"
+    },
+    {
+      "id": "law1980",
+      "year": 1980,
+      "date": "1980-11-08",
+      "date_precision": "day",
+      "date_kind": "Wet vastgesteld",
+      "title": "Arbowet van 1980",
+      "summary": "Veiligheid, gezondheid en welzijn",
+      "icon": "people",
+      "category": "Stelsel",
+      "sources": [
+        "arbowet1980",
+        "history"
+      ],
+      "fact": "De Arbeidsomstandighedenwet van 8 november 1980 legt een bredere basis voor veiligheid, gezondheid en welzijn bij de arbeid. De invoering volgt in fasen.",
+      "meaning": "Het lesverhaal verschuift naar samenhangende zorg voor arbeidsomstandigheden binnen de onderneming. De overheid behoudt haar toezichtrol.",
+      "question": "Wat is misleidend aan ‘in 1980 verhuist alle zorgplicht van overheid naar werkgever’?",
+      "answer": "Het suggereert één plotselinge overdracht. De verantwoordelijkheid binnen bedrijven ontwikkelt zich breder en systematischer, terwijl wetgeving en overheidstoezicht blijven bestaan.",
+      "confidence": "high",
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null
+    },
+    {
+      "id": "effect1983",
+      "year": 1983,
+      "date": "1983-01-01",
+      "date_precision": "day",
+      "date_kind": "Eerste fase in werking",
+      "title": "Arbowet wordt ingevoerd",
+      "summary": "Een wet kan stapsgewijs gaan gelden",
+      "icon": "book",
+      "category": "Stelsel",
+      "sources": [
+        "phase1983"
+      ],
+      "fact": "De Arbowet wordt vanaf 1 januari 1983 gedeeltelijk ingevoerd. Latere fasen volgen; 1980 is dus niet de datum waarop de hele wet ineens ging gelden.",
+      "meaning": "Bij historisch onderzoek moet je naar de inwerkingtreding van de relevante bepaling kijken.",
+      "question": "Welke fout maak je als je alleen het jaartal op de wet gebruikt?",
+      "answer": "Je kunt een verplichting toepassen op een periode waarin die bepaling nog niet gold. Controleer de toestand, inwerkingtreding en eventuele overgangsregels.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Eerste invoeringsfase van de in 1980 vastgestelde Arbowet.",
+      "parent_event_id": "law1980"
+    },
+    {
+      "id": "eu1989",
+      "year": 1989,
+      "date": "1989-06-12",
+      "date_precision": "day",
+      "date_kind": "EU-richtlijn vastgesteld",
+      "title": "Europese kaderrichtlijn",
+      "summary": "89/391/EEG: preventie als systeem",
+      "icon": "europe",
+      "category": "Europa",
+      "sources": [
+        "europe",
+        "europe-overview"
+      ],
+      "fact": "Richtlijn 89/391/EEG van 12 juni 1989 beschrijft algemene preventiebeginselen en verplichtingen rond de beoordeling van arbeidsrisico’s.",
+      "meaning": "Nederlandse arbowetgeving staat in een Europees kader. Een richtlijn vraagt om nationale omzetting.",
+      "question": "Waarom zijn ‘1989’ en ‘1994’ geen twee namen voor dezelfde gebeurtenis?",
+      "answer": "1989 betreft de Europese richtlijn. 1994 betreft de inwerkingtreding van een belangrijk deel van de Nederlandse implementatie. Europese vaststelling en nationale invoering zijn afzonderlijke stappen.",
+      "confidence": "high",
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null
+    },
+    {
+      "id": "implement1994",
+      "year": 1994,
+      "date": "1994-01-01",
+      "date_precision": "day",
+      "date_kind": "Implementatiewet grotendeels in werking",
+      "title": "RI&E en preventie",
+      "summary": "Europese preventie wordt nationale praktijk",
+      "icon": "checklist",
+      "category": "Europa",
+      "sources": [
+        "implementation"
+      ],
+      "fact": "De implementatiewet bij de kaderrichtlijn treedt grotendeels op 1 januari 1994 in werking. Het inwerkingtredingsbesluit bevat uitzonderingen en fasering.",
+      "meaning": "De RI&E past in een bredere systematische aanpak: gevaren herkennen, risico’s beoordelen en maatregelen organiseren. Voor de eerste zoekroute in de huidige wet horen beleid, RI&E en voorlichting bij elkaar: artikelen 3, 5 en 8.",
+      "question": "Je ziet een onveilige machine. Waarom is alleen de RI&E bijwerken onvoldoende?",
+      "answer": "Een inventarisatie beschrijft het risico. Beheersing vraagt passende maatregelen, uitvoering, uitleg aan werknemers en controle van de werking. Verbind in de huidige wet artikel 5 daarom met beleid in artikel 3 en voorlichting en onderricht in artikel 8.",
+      "confidence": "high",
+      "register_target": {
+        "regulation_id": "BWBR0010346",
+        "article": "5"
+      },
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Nederlandse implementatiestap binnen de Europese preventielijn.",
+      "parent_event_id": "eu1989",
+      "topics": [
+        "RI&E",
+        "Plan van aanpak"
+      ],
+      "legal_refs": [
+        {
+          "label": "Beleid",
+          "regulation_id": "BWBR0010346",
+          "article": "3"
+        },
+        {
+          "label": "RI&E",
+          "regulation_id": "BWBR0010346",
+          "article": "5"
+        },
+        {
+          "label": "Voorlichting",
+          "regulation_id": "BWBR0010346",
+          "article": "8"
+        }
+      ]
+    },
+    {
+      "id": "decision1997",
+      "year": 1997,
+      "date": "1997-07-01",
+      "date_precision": "day",
+      "date_kind": "Arbobesluit in werking",
+      "title": "Arbobesluit",
+      "summary": "De algemene wet krijgt concrete uitwerking",
+      "icon": "layers",
+      "category": "Stelsel",
+      "sources": [
+        "decision",
+        "decision_effect"
+      ],
+      "fact": "Het Arbeidsomstandighedenbesluit van 1997 treedt op 1 juli 1997 in werking. Het geeft concrete uitwerking aan het wettelijke kader.",
+      "meaning": "De zoekroute loopt van algemene verplichting naar specifieke regels voor een risico, activiteit of doelgroep. ARIE laat in de minitijdlijn zien hoe aanvullende eisen voor zware ongevallen binnen dit besluit worden ingevoerd en later herzien.",
+      "question": "Waar zoek je na de algemene zorgplicht naar specifieke eisen voor een arbeidsmiddel?",
+      "answer": "Begin bij de Arbowet voor het algemene kader en zoek vervolgens in het relevante hoofdstuk van het Arbobesluit. Nadere uitwerking kan ook in de Arboregeling staan.",
+      "confidence": "high",
+      "register_target": {
+        "regulation_id": "BWBR0008498",
+        "article": "7.3"
+      },
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null,
+      "topics": [
+        "Specifieke voorschriften",
+        "ARIE"
+      ],
+      "legal_refs": [
+        {
+          "label": "Arbeidsmiddelen",
+          "regulation_id": "BWBR0008498",
+          "article": "7.3"
+        }
+      ]
+    },
+    {
+      "id": "law1999",
+      "year": 1999,
+      "date": "1999-11-01",
+      "date_precision": "day",
+      "date_kind": "Nieuwe wet in werking",
+      "title": "Arbowet 1998 gaat gelden",
+      "summary": "De basis van de huidige wet",
+      "icon": "book",
+      "category": "Stelsel",
+      "sources": [
+        "law1999"
+      ],
+      "fact": "De Arbeidsomstandighedenwet 1998 treedt op 1 november 1999 in werking. Het jaartal in de naam is dus een ander gegeven dan deze ingangsdatum.",
+      "meaning": "Een wet, haar naam en haar ingangsdatum moeten afzonderlijk worden geïdentificeerd. Latere wijzigingen vormen nieuwe tekstversies.",
+      "question": "Wat betekent ‘de huidige Arbowet’ bij een historische casus?",
+      "answer": "Kies de tekst die op de relevante datum gold. De laatste geconsolideerde tekst is geen bewijs van de verplichtingen die in een eerdere periode golden.",
+      "confidence": "high",
+      "register_target": {
+        "regulation_id": "BWBR0010346",
+        "article": "3"
+      },
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null,
+      "topics": [
+        "Algemene zorgplicht",
+        "Werkgever"
+      ],
+      "legal_refs": [
+        {
+          "label": "Arbobeleid",
+          "regulation_id": "BWBR0010346",
+          "article": "3"
+        }
+      ]
+    },
+    {
+      "id": "arie2004",
+      "year": 2004,
+      "date": "2004-02-25",
+      "date_precision": "day",
+      "date_kind": "Wijziging in werking",
+      "title": "ARIE ingevoerd",
+      "summary": "Aanvullende RI&E voor zware ongevallen",
+      "icon": "checklist",
+      "category": "Praktijk",
+      "sources": [
+        "arie2004"
+      ],
+      "fact": "Vanaf 25 februari 2004 vervangt de ARIE-regeling de arbeidsveiligheidsrapportage. Het Arbobesluit koppelt de aanvullende RI&E aan beleid, een veiligheidsbeheerssysteem en een intern noodplan. Er geldt overgangsrecht.",
+      "meaning": "Algemene arbozorg krijgt een gerichte uitwerking voor bedrijven met risico’s op zware ongevallen met gevaarlijke stoffen. De eerste vraag is of de regeling van toepassing is.",
+      "question": "Waarom bewijst het hebben van een algemene RI&E nog niet dat aan ARIE is voldaan?",
+      "answer": "ARIE stelt aanvullende eisen voor specifieke bedrijven. Onderzoek de toepasselijkheid en verbind scenario’s, maatregelen, veiligheidsbeheersing en noodplanning. De algemene RI&E blijft de basis. De uitwerking hoort bij latere verdieping.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Een kort toepassingsvoorbeeld binnen het Arbobesluit; geen volledige ARIE-les.",
+      "parent_event_id": "decision1997",
+      "topics": [
+        "ARIE",
+        "Zware ongevallen"
+      ],
+      "register_target": {
+        "regulation_id": "BWBR0008498",
+        "article": "2.5"
+      },
+      "legal_refs": [
+        {
+          "label": "Aanvullende RI&E",
+          "regulation_id": "BWBR0008498",
+          "article": "2.5b",
+          "date": "2004-02-25"
+        }
+      ]
+    },
+    {
+      "id": "prevention2005",
+      "year": 2005,
+      "date": "2005-07-01",
+      "date_precision": "day",
+      "date_kind": "Wijziging in werking",
+      "title": "Preventiemedewerker",
+      "summary": "Deskundige bijstand binnen het bedrijf",
+      "icon": "people",
+      "category": "Praktijk",
+      "sources": [
+        "prevention2005",
+        "prevention2005_effect"
+      ],
+      "fact": "Op 1 juli 2005 treedt de gewijzigde organisatie van deskundige bijstand in werking. Arbowet artikel 13 regelt bijstand door deskundige werknemers bij onder meer de RI&E, advisering en maatregelen: de preventiemedewerker.",
+      "meaning": "Preventie krijgt een herkenbare rol dicht bij het dagelijkse werk. Ondersteuning en werkgeversverantwoordelijkheid blijven afzonderlijke rollen.",
+      "question": "Een werkgever wijst een preventiemedewerker aan. Wat moet hij daarnaast organiseren?",
+      "answer": "Passende deskundigheid, beschikbare tijd, middelen en samenwerking. Alleen iemand aanwijzen bewijst niet dat preventie is georganiseerd. De werkgever blijft verantwoordelijk voor de arbeidsomstandigheden.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Korte vervolgstap van de algemene werkgeversverantwoordelijkheid naar deskundige ondersteuning.",
+      "parent_event_id": "law1999",
+      "topics": [
+        "Preventiemedewerker",
+        "Deskundige bijstand"
+      ],
+      "register_target": {
+        "regulation_id": "BWBR0010346",
+        "article": "13"
+      },
+      "legal_refs": [
+        {
+          "label": "Deskundige werknemers",
+          "regulation_id": "BWBR0010346",
+          "article": "13",
+          "date": "2005-07-01"
+        }
+      ]
+    },
+    {
+      "id": "change2007",
+      "year": 2007,
+      "date": "2007-01-01",
+      "date_precision": "day",
+      "date_kind": "Wijziging in werking",
+      "title": "Doelvoorschriften en arbocatalogi",
+      "summary": "Keuzeruimte en psychosociale belasting",
+      "icon": "handshake",
+      "category": "Praktijk",
+      "sources": [
+        "change2007",
+        "effect2007",
+        "system",
+        "psa2007"
+      ],
+      "fact": "Vanaf 2007 krijgen werkgevers en werknemers meer ruimte om te bepalen hoe zij doelvoorschriften bereiken. Brancheafspraken kunnen in arbocatalogi worden uitgewerkt. Ook krijgt psychosociale arbeidsbelasting (PSA) expliciet aandacht: Arbowet artikel 3, tweede lid, en Arbobesluit artikel 2.15 verbinden beleid met risico-inventarisatie, maatregelen en voorlichting.",
+      "meaning": "De invulling vraagt keuzes die bij het werk passen. Een arbocatalogus heeft een andere juridische positie dan een wet of een AMvB. Veilig werk omvat ook werkdruk, agressie, pesten en seksuele intimidatie.",
+      "question": "Een organisatie heeft veilige machines, maar hoge werkdruk en pesten. Is haar arbobeleid daarmee op orde?",
+      "answer": "Ook psychosociale arbeidsbelasting vraagt beoordeling van risico’s, maatregelen en voorlichting. Een arbocatalogus kan helpen bij de praktische invulling; het wettelijke beschermingsniveau blijft het uitgangspunt. De HVK’er vraagt naar de gekozen oplossing én bewijs dat die werkt.",
+      "confidence": "high",
+      "register_target": {
+        "regulation_id": "BWBR0010346",
+        "article": "3"
+      },
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null,
+      "topics": [
+        "Doelvoorschriften",
+        "Arbocatalogus",
+        "PSA"
+      ],
+      "legal_refs": [
+        {
+          "label": "PSA-beleid",
+          "regulation_id": "BWBR0010346",
+          "article": "3"
+        },
+        {
+          "label": "PSA-maatregelen",
+          "regulation_id": "BWBR0008498",
+          "article": "2.15"
+        }
+      ]
+    },
+    {
+      "id": "care2017",
+      "year": 2017,
+      "date": "2017-07-01",
+      "date_precision": "day",
+      "date_kind": "Wijziging in werking",
+      "title": "Preventie en arbozorg",
+      "summary": "Preventiemedewerker, basiscontract en bedrijfsarts",
+      "icon": "care",
+      "category": "Praktijk",
+      "sources": [
+        "care",
+        "system",
+        "care2017_effect"
+      ],
+      "fact": "Op 1 juli 2017 gaat een wijziging van de Arbowet in gericht op betere bedrijfsgezondheidszorg, meer betrokkenheid van werknemers en een sterkere preventieve aanpak. De wijziging versterkt de betrokkenheid bij de preventiemedewerker en de afspraken over bedrijfsgezondheidszorg: onder meer toegang tot de bedrijfsarts, werkplekbezoek, een tweede oordeel en een klachtenprocedure.",
+      "meaning": "Arbozorg gaat ook over deskundige ondersteuning en samenwerking. De HVK’er moet de eigen rol met die van andere deskundigen verbinden. Het basiscontract maakt afspraken over de arbodienstverlening controleerbaar; een contract op papier bewijst nog niet dat die dienstverlening in de praktijk bereikbaar is.",
+      "question": "Het basiscontract is ondertekend. Wat moet je nog controleren op de werkvloer?",
+      "answer": "Onderzoek of werknemers de bedrijfsarts kunnen bereiken, of samenwerking met de preventiemedewerker plaatsvindt en of de afgesproken dienstverlening wordt uitgevoerd. Beleid, uitvoering, medezeggenschap en deskundige bijstand hebben verschillende rollen; een contract neemt de werkgeversverantwoordelijkheid niet over.",
+      "confidence": "high",
+      "register_target": {
+        "regulation_id": "BWBR0010346",
+        "article": "14"
+      },
+      "importance": "major",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Zelfstandige hoofdmijlpaal in de huidige lesselectie.",
+      "parent_event_id": null,
+      "topics": [
+        "Preventiemedewerker",
+        "Basiscontract",
+        "Bedrijfsarts"
+      ],
+      "legal_refs": [
+        {
+          "label": "Preventiemedewerker",
+          "regulation_id": "BWBR0010346",
+          "article": "13"
+        },
+        {
+          "label": "Basiscontract",
+          "regulation_id": "BWBR0010346",
+          "article": "14"
+        }
+      ]
+    },
+    {
+      "id": "arie2023",
+      "year": 2023,
+      "date": "2023-01-01",
+      "date_precision": "day",
+      "date_kind": "Herziening in werking",
+      "title": "ARIE herziening",
+      "summary": "Toepasselijkheid en verplichtingen veranderen",
+      "icon": "checklist",
+      "category": "Praktijk",
+      "sources": [
+        "arie2023"
+      ],
+      "fact": "Op 1 januari 2023 treedt de herziene ARIE-regeling in werking. De aanwijssystematiek en verplichtingen worden aangepast, met overgangsrecht voor bepaalde bedrijven en bepalingen.",
+      "meaning": "Een eenmaal beoordeelde toepasselijkheid is geen blijvend gegeven. De HVK’er controleert bij een wetswijziging opnieuw welke regels voor het bedrijf gelden.",
+      "question": "Het bedrijf viel onder de oude ARIE-regeling. Welke twee controles zijn nu nodig?",
+      "answer": "Controleer de toepasselijkheid van de nieuwe regeling en welke verplichtingen op de gekozen datum gelden, inclusief overgangsrecht. Gebruik de geldende tekst en de wijzigingspublicatie. Dit moment is een voorbeeld van blijvende actualisering, geen volledige ARIE-behandeling.",
+      "confidence": "high",
+      "importance": "minor",
+      "importance_origin": "lesson_editorial",
+      "importance_reason": "Verdieping na een klik: laat zien dat de specifieke uitwerking van het Arbobesluit blijft veranderen.",
+      "parent_event_id": "decision1997",
+      "topics": [
+        "ARIE",
+        "Overgangsrecht"
+      ],
+      "register_target": {
+        "regulation_id": "BWBR0008498",
+        "article": "2.5"
+      },
+      "legal_refs": [
+        {
+          "label": "Beleid en ARIE",
+          "regulation_id": "BWBR0008498",
+          "article": "2.5",
+          "date": "2023-01-01"
+        },
+        {
+          "label": "Veiligheidsbeheerssysteem",
+          "regulation_id": "BWBR0008498",
+          "article": "2.5a",
+          "date": "2023-01-01"
+        },
+        {
+          "label": "Intern noodplan",
+          "regulation_id": "BWBR0008498",
+          "article": "2.5b",
+          "date": "2023-01-01"
+        }
+      ]
+    }
+  ],
+  "importance_definition": "Redactioneel belang in het lesverhaal: hoofdmijlpalen tegenover kleinere vervolgstappen. Dit is geen juridische impactclassificatie.",
+  "revision": {
+    "date": "2026-10-05",
+    "basis": "explicit_user_request",
+    "scope": "Subtle lesson-day-1 revision; nine main milestones, three added optional steps and concrete subject/article routes."
+  },
+  "responsibility_development": {
+    "title": "Meer preventie binnen bedrijven",
+    "summary": "Van nadruk op voorschriften en toezicht naar steeds meer samenhangend arbobeleid binnen bedrijven. De overheid blijft regels stellen en toezicht houden.",
+    "interpretation_origin": "lesson_editorial",
+    "phases": [
+      {
+        "event_id": "mine1810",
+        "label": "Voorschriften en toezicht"
+      },
+      {
+        "event_id": "law1980",
+        "label": "Arbobeleid in bedrijven"
+      },
+      {
+        "event_id": "change2007",
+        "label": "Preventie en maatwerk"
+      }
+    ],
+    "sources": [
+      "inspection",
+      "history",
+      "responsibility1998",
+      "psa2007"
+    ]
+  },
+  "incidents": [
+    {
+      "id": "dsm1975",
+      "kind": "incident",
+      "year": 1975,
+      "date": "1975-11-07",
+      "date_precision": "day",
+      "date_kind": "Incident",
+      "title": "DSM Beek",
+      "summary": "Gaswolkexplosie bij opstarten",
+      "country": "Nederland",
+      "category": "Incident",
+      "topics": [
+        "Procesveiligheid"
+      ],
+      "sources": [
+        "dsm1975"
+      ],
+      "fact": "Op 7 november 1975 leidde een gasuitstroming tijdens het opstarten van een naftakraker bij DSM in Beek tot een gaswolkexplosie en branden. De HSE-casus beschrijft ook problemen met het tijdig alarmeren.",
+      "meaning": "Veilig werken vraagt aandacht voor afwijkende bedrijfscondities, zoals opstarten. Deze casus verbindt technische beheersing met de organisatie van alarm en reactie.",
+      "question": "Welke risico’s veranderen wanneer een installatie wordt opgestart?",
+      "answer": "Laat de groep normale bedrijfsvoering vergelijken met opstarten: temperatuur, druk, materiaalgedrag, bezetting en informatie kunnen verschillen. Bespreek welke barrières dan nodig zijn en wie controleert of de alarmering werkt. De precieze breukoorzaak wordt in de HSE-bron als een vermoeden beschreven.",
+      "confidence": "high",
+      "interpretation_origin": "lesson_editorial"
+    },
+    {
+      "id": "seveso1976",
+      "kind": "incident",
+      "year": 1976,
+      "date": "1976-07-10",
+      "date_precision": "day",
+      "date_kind": "Incident",
+      "title": "Seveso",
+      "summary": "Dioxine buiten de fabriek",
+      "country": "Italië",
+      "category": "Incident",
+      "topics": [
+        "Zware ongevallen"
+      ],
+      "sources": [
+        "seveso1976"
+      ],
+      "fact": "Op 10 juli 1976 kwam bij Seveso in Italië een giftige dioxinewolk vrij, met gevolgen voor mensen en de omgeving. De Europese Commissie koppelt dit ongeval aan de vaststelling van de eerste Sevesorichtlijn in 1982.",
+      "meaning": "Een zwaar ongeval kan werknemers, omwonenden en het milieu treffen. De Sevesoregels vormen een eigen Europese lijn voor zware ongevallen, naast de latere kaderrichtlijn voor arbeidsomstandigheden van 1989.",
+      "question": "Waar eindigt de verantwoordelijkheid van een bedrijf als de gevolgen buiten het terrein komen?",
+      "answer": "Bespreek risicobeheersing binnen de installatie én de mogelijke gevolgen buiten het terrein: preventie, informatie en voorbereiding op noodsituaties. Seveso leidde aantoonbaar tot Europese regelgeving in 1982; dat is een andere richtlijn dan 89/391/EEG. ARIE kan later als verwant Nederlands onderwerp worden besproken, met een eigen toepassingsbereik.",
+      "confidence": "high",
+      "interpretation_origin": "lesson_editorial"
+    },
+    {
+      "id": "enschede2000",
+      "kind": "incident",
+      "year": 2000,
+      "date": "2000-05-13",
+      "date_precision": "day",
+      "date_kind": "Incident",
+      "title": "Vuurwerkramp Enschede",
+      "summary": "Opslag en omgevingsveiligheid",
+      "country": "Nederland",
+      "category": "Incident",
+      "topics": [
+        "Omgevingsveiligheid"
+      ],
+      "sources": [
+        "enschede2000"
+      ],
+      "fact": "Op 13 mei 2000 brak brand uit op of bij de vuurwerkopslag van S.E. Fireworks in Enschede. Er volgden zware explosies, met verwoesting en beschadiging van woningen in de omgeving.",
+      "meaning": "Deze casus verbreedt het gesprek van de werkplek naar opslag, ligging en gevolgen voor de omgeving. De bedrijfsverantwoordelijkheid en de overheidstaken bij vergunningen, toezicht en rampenbestrijding moeten in samenhang worden besproken.",
+      "question": "Wie moet risico’s voor werknemers én de omgeving beheersen?",
+      "answer": "Maak onderscheid tussen de beheersing van de bedrijfsactiviteiten en publieke taken, zoals vergunningverlening, toezicht en rampenbestrijding. Beide blijven nodig. Gebruik de casus om die rollen te onderzoeken; de kaart doet geen uitspraak over schuld of een specifieke daaropvolgende wetswijziging.",
+      "confidence": "high",
+      "interpretation_origin": "lesson_editorial"
+    },
+    {
+      "id": "moerdijk2011",
+      "kind": "incident",
+      "year": 2011,
+      "date": "2011-01-05",
+      "date_precision": "day",
+      "date_kind": "Incident",
+      "title": "Chemie-Pack Moerdijk",
+      "summary": "Bedrijfspraktijk en toezicht",
+      "country": "Nederland",
+      "category": "Incident",
+      "topics": [
+        "Gevaarlijke stoffen"
+      ],
+      "sources": [
+        "moerdijk2011"
+      ],
+      "fact": "Op 5 januari 2011 woedde een grote brand bij Chemie-Pack in Moerdijk, een bedrijf voor opslag, verwerking en verpakking van chemicaliën. De Onderzoeksraad onderzocht het ontstaan van de brand en de crisisbeheersing en communicatie van de overheid.",
+      "meaning": "Deze casus helpt bespreken hoe veiligheidsafspraken in de dagelijkse bedrijfsvoering werken, en hoe dat zich verhoudt tot overheidstoezicht en voorbereiding op een crisis.",
+      "question": "Hoe weet je of veiligheidsafspraken op papier ook in het dagelijkse werk functioneren?",
+      "answer": "Vraag naar de feitelijke werkwijze, veranderingen, opleiding, technische barrières en controle op uitvoering. Bespreek daarna hoe vergunningen en toezicht daarop aansluiten. Het bedrijf moet zelf de uitvoering beheersen; de overheid behoudt haar eigen toezicht- en crisistaken.",
+      "confidence": "high",
+      "interpretation_origin": "lesson_editorial"
+    }
+  ]
+}

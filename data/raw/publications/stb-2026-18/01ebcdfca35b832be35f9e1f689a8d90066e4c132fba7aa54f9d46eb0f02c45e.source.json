@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2026-18/stb-2026-18.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2026/stb-2026-18/1/xml/stb-2026-18.xml",
+  "file": "data/raw/publications/stb-2026-18/01ebcdfca35b832be35f9e1f689a8d90066e4c132fba7aa54f9d46eb0f02c45e.xml",
+  "sha256": "01ebcdfca35b832be35f9e1f689a8d90066e4c132fba7aa54f9d46eb0f02c45e",
+  "sha512": "db313f56e3a5f2569effba6a3d3e8f34f7553d99525862349de80c2db44569dec50c10ebe5d3356217ad203b3653464278a375ea172ee17dd55fafee0f6cd006",
+  "bytes": 64370,
+  "retrieved_at": "2026-10-05T10:02:34.390438+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

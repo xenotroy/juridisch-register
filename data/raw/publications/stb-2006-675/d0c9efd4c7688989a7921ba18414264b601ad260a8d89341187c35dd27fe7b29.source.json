@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2006-675/stb-2006-675.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2006/stb-2006-675/1/xml/stb-2006-675.xml",
+  "file": "data/raw/publications/stb-2006-675/d0c9efd4c7688989a7921ba18414264b601ad260a8d89341187c35dd27fe7b29.xml",
+  "sha256": "d0c9efd4c7688989a7921ba18414264b601ad260a8d89341187c35dd27fe7b29",
+  "sha512": "c19597df5006cf267c035706cc1eb4371e6ec6b203e3c688cfc68770968c30ff607aae0a1f8b8385758c84af65658287ff568dcc6502d6bcfdce75693e7f7760",
+  "bytes": 4296,
+  "retrieved_at": "2026-10-05T10:12:02.970696+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

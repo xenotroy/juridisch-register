@@ -1,0 +1,12 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/BWBR0010346.WTI",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/BWBR0010346.WTI",
+  "file": "data/raw/bwb/BWBR0010346/wti/091ffb57ad71fcb0322cb4c01bf1387613c0ea8c6227be680507af660283af9e.xml",
+  "sha256": "091ffb57ad71fcb0322cb4c01bf1387613c0ea8c6227be680507af660283af9e",
+  "sha512": "6160a9bb5bd1e22039e83d2b500d559fd4f66ac5bcef542b5ff3705033cdb5c81aecabfebfbcea02b7c211082349ae1fdd7b1e1bf3b80de8c0ae721fce49eb38",
+  "bytes": 5093923,
+  "retrieved_at": "2026-10-05T09:42:10.284674+00:00",
+  "parser_version": "0.1.0",
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

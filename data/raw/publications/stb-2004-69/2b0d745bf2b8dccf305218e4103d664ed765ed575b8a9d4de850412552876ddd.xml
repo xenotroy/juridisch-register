@@ -1,0 +1,2330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE staatsbl PUBLIC "-//SDU//DTD staatsblad xml 1.1//NL" "../../dtd/staatsbl-11.dtd"[]>
+<staatsbl id="sb4.69" soort="kb" publtype="stbd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2004-69/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel status="off">Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <frontm>
+    <versie dtd="0.4" conv="prod1.5" markup="Xa"></versie>
+    <ordernr>STB8362</ordernr>
+    <stb>
+      <jaargang jaar="2004">Jaargang 2004</jaargang>
+      <stbjaar>2004</stbjaar>
+      <stbnr>69</stbnr>
+    </stb>
+    <intitule>
+      <soort>Besluit</soort> van 7 februari 2004 tot wijziging van het
+Arbeidsomstandighedenbesluit ter vervanging van de bepalingen met betrekking
+tot de arbeidsveiligheidsrapportage door aanvullende voorschriften met betrekking
+tot de risico-inventarisatie en -evaluatie en enige andere wijzigingen</intitule>
+    <aanhef>
+      <wie>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wie>
+      <consider>
+        <al>Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+gedaan in overeenstemming met Onze Minister van Verkeer en Waterstaat, van
+5 september 2003, nr. A&amp;G/W&amp;O/03/68956;</al>
+        <al>Gelet op de <grslag>artikelen 6 en 16 van de Arbeidsomstandighedenwet
+1998, de artikelen 28, 29, eerste lid, 30, 31, 32, eerste en vierde lid, 34,
+35, 37, eerste lid, 37a, 38a, 67, 69, vierde en vijfde lid, 69a, 69b, 73 en
+76 van de Kernenergiewet en artikel 24, tweede lid, van de Wet bescherming
+persoonsgegevens</grslag>;</al>
+        <al>De Raad van State gehoord (advies van 6 november 2003, no. W 12.03 0374/IV);</al>
+        <al>Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en
+Werkgelegenheid van 4 februari 2004, nr. A&amp;G/W&amp;O/04/ 3700, uitgebracht
+in overeenstemming met Onze Minister van Verkeer en Waterstaat en Onze Minister
+van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer;</al>
+      </consider>
+      <afkondig>Hebben goedgevonden en verstaan:</afkondig>
+    </aanhef>
+  </frontm>
+  <body>
+    <wart id="ai">
+      <kop>
+        <nr>ARTIKEL I</nr>
+      </kop>
+      <al>Het Arbeidsomstandighedenbesluit<eindref refid="e1"></eindref> wordt als volgt gewijzigd:</al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>Het opschrift van afdeling 2 van hoofdstuk 2 komt te luiden: </al>
+        <arttkst>
+          <al>AFDELING 2 AANVULLENDE VOORSCHRIFTEN RISICO-INVENTARISATIE EN -EVALUATIE
+TER VOORKOMING EN BEPERKING VAN ZWARE ONGEVALLEN MET GEVAARLIJKE STOFFEN</al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>Artikel 2.2 wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>De onderdelen a tot en met j worden geletterd tot b tot en met k.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Er wordt een onderdeel ingevoegd, luidende:</al>
+          <arttkst>
+            <al>a. gevaarlijke stof: brandbare, extreem toxische, toxische of ontplofbare
+stof;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>3.</nr>
+          <al>Het tot e geletterde onderdeel komt te luiden:</al>
+          <arttkst>
+            <al>e. ontplofbare stof: een stof die op grond van de Wet milieugevaarlijke
+stoffen voldoet aan de criteria voor indeling in de categorie «ontplofbaar»,
+bedoeld in artikel 34, tweede lid, onder a, van die wet;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>4.</nr>
+          <al>Onder vervanging van de puntkomma aan het slot van het tot h geletterde
+onderdeel door een punt wordt een zin toegevoegd, luidende:</al>
+          <arttkst>
+            <al>Onder een installatie voor opslag worden mede begrepen voor het vervoer
+bestemde tanks en voor het vervoer van gevaarlijke stoffen bestemde verpakkingen;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>5.</nr>
+          <al>Onder vervanging van de punt aan het slot van het tot k geletterde onderdeel
+door een puntkomma, worden twee onderdelen toegevoegd, luidende:</al>
+          <arttkst>
+            <al>l. zwaar ongeval: gebeurtenis als gevolg van onbeheersbare ontwikkelingen
+tijdens de bedrijfsuitoefening in een bedrijf of inrichting, waardoor hetzij
+onmiddellijk, hetzij na verloop van tijd ernstig gevaar voor de gezondheid
+van werknemers ontstaat en waarbij een of meer gevaarlijke stoffen zijn betrokken;</al>
+            <al>m. scenario: de reeks van gebeurtenissen en omstandigheden die nodig
+zijn voor of leiden tot het vrijkomen van gevaarlijke stoffen, alsmede de
+reeks van gebeurtenissen die het effect weergeeft van het op deze wijze vrijkomen
+van gevaarlijke stoffen.</al>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>De artikelen 2.2a tot en met 2.2f vervallen.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>Artikel 2.3 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 2.3</nr>
+              <titel status="off">Toepasselijkheid</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Deze afdeling is, met inachtneming van het derde en vierde lid en de artikelen
+2.3a en 2.3b, van toepassing op bedrijven en inrichtingen waar één
+of meerdere installaties aanwezig zijn waarin zich een hoeveelheid gevaarlijke
+stoffen, uitgedrukt in kilogrammen, bevindt, ongeacht de hiermee beoogde handelingen,
+of door het onbeheersbaar worden van een industrieel chemisch proces een hoeveelheid
+van dergelijke stoffen, uitgedrukt in kilogrammen, kan worden gevormd, welke,
+vermenigvuldigd met de van toepassing zijnde omstandigheidsfactor of -factoren
+als bedoeld in artikel 2.5, gelijk is aan of groter is dan de grenswaarde,
+bedoeld in artikel 2.4.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Indien het eerste lid van toepassing is, is deze afdeling van overeenkomstige
+toepassing op arbeidsplaatsen gelegen in de nabijheid van het bedrijf of de
+inrichting waarvoor de werkgever verantwoordelijk is.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Voor een installatie als bedoeld in het eerste lid waarin zich een stof
+of een groep van stoffen met een identieke grenswaarde onder verschillende
+omstandigheden bevindt, wordt elke onder dezelfde omstandigheden
+verkerende deelhoeveelheid van de stof of groep van stoffen vermenigvuldigd
+met de van toepassing zijnde omstandigheidsfactoren. Deze afdeling is van
+toepassing, indien de som van de al dan niet gecorrigeerde deelhoeveelheden
+gelijk is aan of groter is dan de grenswaarde van de desbetreffende stof of
+groep van stoffen.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Voor een installatie als bedoeld in het eerste lid waarin zich stoffen
+met verschillende grenswaarden bevinden, wordt elke hoeveelheid van een stof
+of groep van stoffen met een identieke grenswaarde vermenigvuldigd met de
+van toepassing zijnde omstandigheidsfactoren. Deze afdeling is van toepassing
+indien voor een van de in artikel 2.4, eerste lid, onder a of b, of artikel
+2.4, tweede lid, genoemde categorieën van stoffen, de som van de quotiënten
+van de desbetreffende al dan niet gecorrigeerde hoeveelheden en grenswaarden
+van de tot die categorie behorende stoffen die in de installatie aanwezig
+zijn, gelijk is aan of groter is dan 1.</al>
+            </lid>
+            <lid>
+              <nr>5.</nr>
+              <al>De in dit artikel bedoelde vermenigvuldiging met een omstandigheidsfactor
+of -factoren vindt geen toepassing ten aanzien van ontplofbare stoffen.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>Na artikel 2.3 wordt een nieuw artikel met opschrift ingevoegd, luidende:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 2.3a</nr>
+              <titel status="off">Toepasselijkheid vervoergebonden inrichtingen</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>In dit artikel wordt verstaan onder opslag in verband met vervoer van
+gevaarlijke stoffen: opslag van verpakte gevaarlijke stoffen als bedoeld in
+artikel 2.2, onderdeel a, gedurende korte tijd en in afwachting van aansluitend
+vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen
+van die stoffen en de overbrenging daarvan naar of van een andere tak van
+vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en de
+betrokken gevaarlijke stoffen in hun oorspronkelijke verpakking blijven.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Ten aanzien van een inrichting die tot een krachtens artikel 1.1, derde
+lid, van de Wet milieubeheer aangewezen categorie behoort en bestemd is voor
+de opslag in verband met vervoer van gevaarlijke stoffen, al dan niet in combinatie
+met andere stoffen en producten, waarin gevaarlijke stoffen krachtens vergunning
+op grond van artikel 8.1 van de Wet milieubeheer aanwezig mogen zijn, kan
+voor de toepassing van deze afdeling de berekening van de hoeveelheid gevaarlijke
+stoffen, bedoeld in artikel 2.3, achterwege blijven.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>F</nr>
+        </kop>
+        <al>Na artikel 2.3a wordt een nieuw artikel met opschrift ingevoegd, luidende:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 2.3b</nr>
+              <titel status="off">Uitzonderingen toepassingsgebied</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Deze afdeling is:</al>
+              <al>a. met uitzondering van artikel 2.5f, niet van toepassing op bedrijven
+of inrichtingen waarop paragraaf 3 van het Besluit risico's zware ongevallen
+1999 van toepassing is;</al>
+              <al>b. niet van toepassing op bedrijven en inrichtingen waarop het Besluit
+opslag- en transportbedrijven van toepassing is;</al>
+              <al>c. niet van toepassing op arbeid verricht in de ondergrondse winningsindustrie
+en de winningsindustrie die delfstoffen wint met behulp van boringen.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>De artikelen 2.5a, eerste en tweede lid, en 2.5d, eerste lid, onder a, zijn niet van toepassing op bedrijven of inrichtingen waarop paragraaf 2
+van het Besluit risico's zware ongevallen 1999 van toepassing is.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>G</nr>
+        </kop>
+        <al>Na artikel 2.5 worden acht artikelen met opschrift ingevoegd, luidende:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 2.5a</nr>
+              <titel status="off">Nadere voorschriften uitwerking beleid inzake zware ongevallen</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>De algemene doelstellingen en beginselen van het beleid inzake de beheersing
+van de risico's van zware ongevallen, bedoeld in artikel 6, eerste lid, van
+de wet, worden schriftelijk vastgelegd.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Voor de vaststelling en uitvoering van het beleid, bedoeld in het eerste
+lid, wordt een veiligheidsbeheerssysteem ingevoerd, dat mede wordt gebaseerd
+op de risico-inventarisatie en -evaluatie, bedoeld in artikel 2.5b.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Bij ministeriële regeling worden nadere regels gesteld met betrekking
+tot het veiligheidsbeheerssysteem, bedoeld in het tweede lid.</al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5b</nr>
+              <titel status="off">Aanvullende voorschriften risico-inventarisatie en -evaluatie</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>In de risico-inventarisatie en -evaluatie, bedoeld in artikel 5, eerste
+lid, van de wet, worden:</al>
+              <al>a. de risico's van ongevallen met gevaarlijke stoffen systematisch geïdentificeerd
+en geëvalueerd aan de hand van daartoe door de werkgever vastgestelde
+procedures, zowel bij normale werking als bij abnormale werking van de installatie
+of het industrieel chemisch proces. Hierbij wordt tevens rekening gehouden
+met de aanwezigheid van andere stoffen die in een specifieke situatie bij
+kunnen dragen aan het risico van een zwaar ongeval;</al>
+              <al>b. de scenario's voor mogelijke zware ongevallen beschreven. Bij de keuze
+van de scenario's wordt rekening gehouden met externe gevaren voor de installatie.
+De kans op het ontstaan van een zwaar ongeval en het effect van een plaatsgevonden
+zwaar ongeval worden in de scenario's zoveel mogelijk gekwantificeerd.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Op grond van de risico-inventarisatie en- evaluatie, bedoeld in het eerste
+lid, onder a, worden:</al>
+              <al>a. ter voorkoming van een zwaar ongeval alle technische en organisatorische
+maatregelen getroffen die nodig zijn om de veilige werking van de installaties
+te garanderen, zowel bij normaal bedrijf als bij tijdelijke onderbrekingen
+of onderhoud, dan wel bij wijziging van bestaande installaties of de bouw
+van nieuwe installaties. De eerste volzin is van overeenkomstige toepassing
+ten aanzien van alle opslagplaatsen, apparatuur en infrastructuur die samenhangen
+met de risico's van een zwaar ongeval binnen het bedrijf of de inrichting.</al>
+              <al>b. alle technische en organisatorische maatregelen getroffen om de gevolgen
+van een zwaar ongeval zoveel mogelijk te beperken.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Een beschrijving van de maatregelen, bedoeld in het tweede lid, wordt
+opgenomen in de scenariobeschrijvingen, bedoeld in het eerste lid, onder b.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Met de beschrijving van de scenario's, bedoeld in het eerste lid, onder
+b, en de beschrijving van de getroffen maatregelen, bedoeld in het derde lid,
+wordt aangetoond dat de risico's met betrekking tot zware ongevallen op adequate
+wijze worden beheerst.</al>
+            </lid>
+            <lid>
+              <nr>5.</nr>
+              <al>Bij ministeriële regeling worden nadere regels gesteld met betrekking
+tot de procedures, bedoeld in het eerste lid, onder a, en de beschrijving
+van scenario's, bedoeld in het eerste lid, onder b. </al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5c</nr>
+              <titel status="off">Intern noodplan</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Ten behoeve van de planning voor noodsituaties wordt een intern noodplan
+opgesteld dat wordt gebaseerd op de risico-inventarisatie en -evaluatie, bedoeld
+in artikel 2.5b, eerste lid, en de op grond hiervan getroffen maatregelen,
+bedoeld in artikel 2.5b, tweede lid.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Bij het opstellen van het intern noodplan wordt overleg gevoerd met de
+ondernemingsraad, de personeelsvertegenwoordiging, of, bij het ontbreken daarvan,
+met de belanghebbende werknemers.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>Het intern noodplan wordt ten minste eenmaal per drie jaar beproefd, geëvalueerd
+en indien nodig gewijzigd.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>De werkgever zorgt ervoor dat de bedrijfshulpverleners en de hulpverleningsorganisaties,
+bedoeld in artikel 2.16, alsmede de werknemers, andere personen en diensten,
+bedoeld in artikel 14, eerste lid, van de wet, desgewenst kennis kunnen nemen
+van het intern noodplan.</al>
+            </lid>
+            <lid>
+              <nr>5.</nr>
+              <al>Bij ministeriële regeling worden nadere regels gesteld met betrekking
+tot de gegevens die in het noodplan worden opgenomen.</al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5d</nr>
+              <titel status="off">Wijzigingen en periodieke evaluatie</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Indien in het bedrijf of de inrichting of een onderdeel daarvan of in
+de toegepaste werkmethoden en productiemethoden een verandering van technische
+of organisatorische aard wordt aangebracht die voor de risico's van een zwaar
+ongeval belangrijke gevolgen kan hebben, of wanneer een verandering in het
+veiligheidsinzicht daartoe aanleiding geeft, wordt er voor zorg gedragen dat:</al>
+              <al>a. het beleid, bedoeld in artikel 2.5a, eerste lid, en het veiligheidsbeheerssysteem,
+bedoeld in artikel 2.5a, tweede lid, opnieuw worden beoordeeld en indien nodig
+worden herzien;</al>
+              <al>b. de risico-inventarisatie en -evaluatie, bedoeld in artikel 2.5b, eerste
+lid, onder a, en de beschrijving van scenario's, bedoeld in artikel 2.5b,
+eerste lid, onder b, opnieuw worden beoordeeld en indien nodig herzien;</al>
+              <al>c. de getroffen maatregelen, bedoeld in artikel 2.5b, tweede lid, en het
+intern noodplan, bedoeld in artikel 2.5c, dienovereenkomstig worden aangepast
+aan de gewijzigde situatie.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Onverminderd het eerste lid, wordt de risico-inventarisatie en -evaluatie,
+bedoeld in artikel 2.5b, eerste lid, onder a, eenmaal per vijf jaar uitgevoerd.</al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5e</nr>
+              <titel status="off">Deskundige bijstand</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>In aanvulling op artikel 14, derde lid, van de wet houdt het verlenen
+van bijstand op grond van de wet in elk geval tevens in het verlenen van medewerking
+aan, waaronder mede begrepen het adviseren over:</al>
+              <al>a. de vastlegging van het beleid als bedoeld in artikel 2.5a, eerste lid;</al>
+              <al>b. het opstellen van een veiligheidsbeheerssysteem als bedoeld in artikel
+2.5a, tweede lid;</al>
+              <al>c. het verrichten en opstellen van een aanvullende risico-inventarisatie
+en -evaluatie als bedoeld in artikel 2.5b, eerste lid, onder a, waaronder
+mede begrepen het toetsen ervan;</al>
+              <al>d. het opstellen van de beschrijvingen, bedoeld in artikel 2.5b, eerste
+lid, onder b, en derde lid;</al>
+              <al>e. het opstellen van een intern noodplan als bedoeld in artikel 2.5c,
+waaronder mede begrepen het toetsen ervan;</al>
+              <al>f. het doorvoeren van de wijzigingen, bedoeld in artikel 2.5d, waaronder
+mede begrepen, voor zover van toepassing, het toetsen ervan.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Met betrekking tot de taken, bedoeld in het eerste lid, laat de werkgever
+zich bijstaan door een arbodienst. </al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5f</nr>
+              <titel status="off">Naburige bedrijven of inrichtingen</titel>
+            </kop>
+            <al>Indien een zwaar ongeval gevolgen kan hebben voor de veiligheid van werknemers
+in naburige bedrijven of inrichtingen verstrekt de werkgever uit eigen beweging
+aan de betreffende bedrijven of inrichtingen algemene gegevens die noodzakelijk
+zijn voor de beoordeling van het risico voor de veiligheid van de werknemers
+in het naburige bedrijf of inrichting.</al>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5g</nr>
+              <titel status="off">Melding en doorgeleiding</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Aan een daartoe aangewezen ambtenaar als bedoeld in artikel 24 van de
+wet wordt door de werkgever schriftelijk gemeld:</al>
+              <al>a. de naam en het adres van de werkgever en, indien deze anders zijn,
+de naam en het adres van het bedrijf of de inrichting waarop artikel 2.3 van
+toepassing is;</al>
+              <al>b. welke installaties onder de verplichting, bedoeld in artikel 2.3, eerste
+lid, vallen;</al>
+              <al>c. de naam en het adres van de arbodienst die medewerking verleent bij
+de uitvoering van de taken, bedoeld in artikel 2.5e, eerste lid.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Indien in het bedrijf of de inrichting of een onderdeel daarvan of in
+de werking van het bedrijf of de inrichting of een onderdeel daarvan een verandering
+van technische of organisatorische aard wordt aangebracht die voor de risico's
+van een zwaar ongeval met gevaarlijke stoffen belangrijke gevolgen kan hebben,
+wordt een nieuwe melding als bedoeld in het eerste lid gedaan.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>De ambtenaar, bedoeld in het eerste lid, zendt onverwijld een kopie van
+de melding aan:</al>
+              <al>a. het bestuursorgaan dat bevoegd is een vergunning krachtens artikel
+8:1 van de Wet milieubeheer te verlenen;</al>
+              <al>b. burgemeester en wethouders van de gemeente waarin het bedrijf of de
+inrichting geheel of gedeeltelijk is gelegen, tenzij burgemeester en wethouders
+het bestuursorgaan als bedoeld onder a zijn;</al>
+              <al>c. het bestuur van de regionale brandweer binnen wier gebied het bedrijf
+of de inrichting is gelegen.</al>
+            </lid>
+          </art>
+          <art>
+            <kop>
+              <nr>Artikel 2.5h</nr>
+              <titel status="off">Exploitatieverbod</titel>
+            </kop>
+            <al>Het bedrijf, de inrichting of het deel daarvan waarop deze afdeling van
+toepassing is of is aangewezen krachtens artikel 6, tweede lid, van de wet,
+wordt niet in werking gebracht of gehouden en de verandering, bedoeld in artikel
+2.5d, eerste lid, aanhef, wordt niet doorgevoerd, alvorens is voldaan aan
+de verplichtingen, bedoeld in de artikelen 2.5a, 2.5b, 2.5c, 2.5d en 2.5g.</al>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>H</nr>
+        </kop>
+        <al>Artikel 2.6 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 2.6</nr>
+              <titel status="off">Verplichtingen zelfstandig werkende</titel>
+            </kop>
+            <al>Ten aanzien van een zelfstandig werkende die een bedrijf of inrichting
+exploiteert waarop artikel 2.3 van toepassing is, zijn de artikelen 10, 11
+en 19, eerste lid, van de wet en deze afdeling van overeenkomstige toepassing.</al>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>I</nr>
+        </kop>
+        <al>In artikel 2.44 wordt «De afdelingen 4 en 7» vervangen door:
+De afdelingen 2, 4 en 7. </al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>J</nr>
+        </kop>
+        <al>In artikel 3.5e wordt «Besluit explosieveilig materieel» vervangen
+door: Warenwetbesluit explosieveilig materieel.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>K</nr>
+        </kop>
+        <al>Artikel 3.17 komt te luiden:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 3.17</nr>
+              <titel status="off">Voorkomen gevaar door voorwerpen, producten, vloeistoffen of gassen</titel>
+            </kop>
+            <al>Het gevaar te worden getroffen of geraakt door voorwerpen, producten of
+onderdelen daarvan dan wel vloeistoffen of gassen, of het gevaar bekneld te
+raken tussen voorwerpen, producten of onderdelen daarvan, wordt voorkomen
+en indien dat niet mogelijk is zoveel mogelijk beperkt. Artikel 3.16, derde
+lid, laatste volzin, is van toepassing.</al>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>L</nr>
+        </kop>
+        <al>Het opschrift van artikel 4.8 komt te luiden:</al>
+        <arttkst>
+          <al>
+            <nadruk type="vet">Artikel 4.8 Ontplofbare stoffen</nadruk>
+          </al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>M</nr>
+        </kop>
+        <al>Artikel 4.8, eerste lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>1.</nr>
+            <al>Arbeid waarbij voor demolitie, zijnde het springen van objecten of materialen,
+of voor onderhoud, gebruik wordt gemaakt van stoffen die op grond van de Wet
+milieugevaarlijke stoffen voldoen aan de criteria voor indeling in de categorie
+«ontplofbaar», bedoeld in artikel 34, tweede lid, onder a, van
+die wet, wordt verricht volgens een vooraf opgesteld springplan of, bij de
+verkenning naar, opsporing of winning van delfstoffen, een vooraf opgesteld
+programma. De inhoud van het springplan of programma bevat een deugdelijke
+beschrijving van de uit te voeren werkzaamheden, de daaraan verbonden gevaren
+en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen
+worden.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>N</nr>
+        </kop>
+        <al>In artikel 6.12, derde lid, wordt «zodanige organisatorische maatregelen»
+vervangen door: zodanige maatregelen.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>O</nr>
+        </kop>
+        <al>In artikel 9.1 wordt in de opsomming van artikelen in numerieke volgorde
+ingevoegd: 2.6.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>P</nr>
+        </kop>
+        <al>Artikel 9.5 wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>Onderdeel a komt te luiden:</al>
+          <arttkst>
+            <al>a. van hoofdstuk 2: de artikelen 2.6 en 2.39;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In onderdeel b wordt «3.4, 3.5 3.16» vervangen door: 3.4,
+3.5, 3.16. </al>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>Q</nr>
+        </kop>
+        <al>Artikel 9.9a, eerste lid, wordt als volgt gewijzigd:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>Onderdeel a komt te luiden:</al>
+          <arttkst>
+            <al>a. van hoofdstuk 2: de artikelen 2.5a, eerste en tweede lid, 2.5b,
+eerste tot en met vierde lid, 2.5c, eerste, derde en vierde lid, 2.5d, 2.5e,
+tweede lid, 2.5f, 2.5g, eerste en tweede lid, 2.5h, 2.42e, en 2.42f, eerste
+en derde lid;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>Onderdeel d komt te luiden:</al>
+          <arttkst>
+            <al>d. van hoofdstuk 6: de artikelen 6.27, 6.29 en 6.29a;.</al>
+          </arttkst>
+        </wond>
+        <wond>
+          <nr>3.</nr>
+          <al>Onderdeel e komt te luiden:</al>
+          <arttkst>
+            <al>e. van de Arbeidsomstandighedenregeling: de artikelen 2.0, 2.0a,
+2.0b, 2.0c en 4.18, eerste lid.</al>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>R</nr>
+        </kop>
+        <al>In artikel 9.9c, eerste lid, onderdeel c, wordt in numerieke volgorde
+ingevoegd: 3.5d, eerste, tweede en derde lid, 3.5e, onder a, b, e en h, 3.5f,
+onder f,.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>S</nr>
+        </kop>
+        <al>In artikel 9.19, onderdeel c, wordt «de artikelen van afdelingen
+2, 3, 3a, 3b en 3c» vervangen door: de artikelen van paragraaf 2a
+van afdeling 1 en van de afdelingen 2, 3, 3a, 3b en 3c.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>T</nr>
+        </kop>
+        <al>In artikel 9.22 wordt, onder vernummering van het vijfde en zesde lid
+tot zesde en zevende lid, na het vierde lid een lid ingevoegd, luidende:</al>
+        <arttkst>
+          <lid>
+            <nr>5.</nr>
+            <al>Een eis waarop afdeling 2 van hoofdstuk 2 van toepassing is, die met een
+voorschrift dat is verbonden aan een op grond van een der wetten tot bescherming
+van het milieu verleende vergunning tot het oprichten, in werking brengen
+of houden, uitbreiden of wijzigen van een bedrijf of inrichting dan wel tot
+het veranderen van een daarin gebezigde werkwijze één of meer
+zodanige raakpunten heeft dat hij met dat voorschrift in strijd kan komen,
+stelt de daartoe aangewezen ambtenaar, bedoeld in artikel 24 van de wet, niet
+dan na overleg met het gezag dat de vergunning heeft verleend.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>U</nr>
+        </kop>
+        <al>Artikel 9.34 wordt vervangen door:</al>
+        <wlichaam>
+          <art>
+            <kop>
+              <nr>Artikel 9.34</nr>
+              <titel status="off">Aanvullende inventarisatie en evaluatie van veiligheidsrisico's; arbeidsveiligheidsrapportage</titel>
+            </kop>
+            <lid>
+              <nr>1.</nr>
+              <al>Artikel I, onderdelen A tot en met I, O, P, T en V van het Koninklijk
+besluit van 7 februari 2004 tot wijziging van het Arbeidsomstandighedenbesluit
+ter vervanging van de bepalingen met betrekking tot de arbeidsveiligheidsrapportage
+door aanvullende voorschriften met betrekking tot de risico-inventarisatie
+en -evaluatie en enige andere wijzigingen (Stb. 2004, 69) is tot twee jaar
+na de inwerkingtreding niet van toepassing tenzij dat besluit voor dat tijdstip
+wordt toegepast.</al>
+            </lid>
+            <lid>
+              <nr>2.</nr>
+              <al>Ten aanzien van bedrijven of inrichtingen waar op de dag van de inwerkingtreding
+van het besluit, bedoeld in het eerste lid, over een arbeidsveiligheidsrapport
+als bedoeld in artikel 2.2b, zoals dat artikel luidde op de dag voor de inwerkingtreding
+van voornoemd besluit, wordt beschikt, is, in afwijking van het eerste lid,
+het voornoemde besluit niet van toepassing tot het tijdstip waarop
+het arbeidsveiligheidsrapport had behoren te worden herzien op grond van artikel
+2.2b, tweede lid, zoals dat artikel luidde op de dag voor de inwerkingtreding
+van voornoemd besluit, doch uiterlijk tot vijf jaar na het tijdstip waarop
+het arbeidsveiligheidsrapport volledig is herzien en in zijn geheel aan de
+daartoe aangewezen ambtenaar, bedoeld in artikel 24, eerste lid, van de wet
+is toegezonden, tenzij dat besluit voor dat tijdstip wordt toegepast.</al>
+            </lid>
+            <lid>
+              <nr>3.</nr>
+              <al>De melding, bedoeld in artikel 2.5g, eerste lid, ten aanzien van bedrijven
+of inrichtingen die in bedrijf zijn op de dag waarop het besluit, bedoeld
+in het eerste lid, ingevolge het eerste of het tweede lid wordt toegepast,
+vindt plaats binnen zes weken na de toepassing van voornoemd besluit.</al>
+            </lid>
+            <lid>
+              <nr>4.</nr>
+              <al>Het Arbeidsomstandighedenbesluit zoals dat luidde op de dag voor de inwerkingtreding
+van het besluit, bedoeld in het eerste lid, is van toepassing tot het tijdstip
+waarop ingevolge het eerste of het tweede lid het laatstgenoemde besluit wordt
+toegepast.</al>
+            </lid>
+          </art>
+        </wlichaam>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>V</nr>
+        </kop>
+        <al>Artikel 9.35 vervalt.</al>
+      </wlid>
+    </wart>
+    <wart id="aii">
+      <kop>
+        <nr>ARTIKEL II</nr>
+      </kop>
+      <al>Het Besluit stralingsbescherming<eindref refid="e2"></eindref> wordt als volgt gewijzigd:</al>
+      <wlid>
+        <kop>
+          <nr>A</nr>
+        </kop>
+        <al>In artikel 1, eerste lid, wordt «<nadruk type="cur">regiodirecteur:</nadruk> regiodirecteur van de Arbeidsinspectie;» vervangen door:</al>
+        <arttkst>
+          <al>
+            <nadruk type="cur">bedrijfstakdirecteur:</nadruk> bevoegde bedrijfstakdirecteur
+van de Arbeidsinspectie;.</al>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>B</nr>
+        </kop>
+        <al>In de artikelen 13, tweede lid, onder c, 14, tweede lid, 81, eerste en
+tweede lid, 87, vijfde lid, 88, eerste lid, en 93, tweede lid, wordt «regiodirecteur»
+vervangen door: bedrijfstakdirecteur.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>C</nr>
+        </kop>
+        <al>In de artikelen 79, eerste lid, 95, tweede lid, en 100, eerste lid, wordt
+«monitoring» vervangen door: individuele monitoring.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>D</nr>
+        </kop>
+        <al>Artikel 89, tweede lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>Indien een werknemer bij een radiologische noodsituatie aan ioniserende
+straling is of kan zijn blootgesteld, zorgt de ondernemer die voor de handeling
+die de radiologische noodsituatie heeft veroorzaakt verantwoordelijk is, ervoor
+dat individuele monitoring wordt uitgevoerd of dat de effectieve of equivalente
+doses die door de betrokken werknemer zijn ontvangen, op een andere wijze
+worden bepaald.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>E</nr>
+        </kop>
+        <al>Onder vernummering van het vierde lid tot vijfde lid wordt aan artikel
+91 een nieuw vierde lid toegevoegd, dat luidt als volgt:</al>
+        <arttkst>
+          <lid>
+            <nr>4.</nr>
+            <al>Bij de verwerking van persoonsgegevens in het systeem, bedoeld in het
+eerste lid, kan de in het tweede lid bedoelde instelling gebruik maken van
+het sociaal-fiscaalnummer, bedoeld in artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen met het oog op de vaststelling
+van de identiteit van de persoon, bedoeld in het derde lid.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>F</nr>
+        </kop>
+        <al>Artikel 93, tweede lid, komt te luiden:</al>
+        <arttkst>
+          <lid>
+            <nr>2.</nr>
+            <al>De ondernemer meldt de uitslag van de individuele monitoring, bedoeld
+in artikel 89, onverwijld aan de in het eerste lid bedoelde personen of dienst
+en aan de bedrijfstakdirecteur of, indien het mijnbouw betreft, de Inspecteur-Generaal
+der Mijnen in wiens werkgebied het ongeval of de noodsituatie is opgetreden.</al>
+          </lid>
+        </arttkst>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>G</nr>
+        </kop>
+        <al>In artikel 102, tweede lid, wordt «artikel 108» vervangen
+door: de artikelen 107 en 108.</al>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>H</nr>
+        </kop>
+        <al>Artikel 111, wordt gewijzigd als volgt:</al>
+        <wond>
+          <nr>1.</nr>
+          <al>In het eerste lid wordt «met betrekking tot een werknemer die deel
+uitmaakt van een vliegtuigbemanning» vervangen door: met betrekking
+tot een blootgestelde werknemer die deel uitmaakt van een vliegtuigbemanning.</al>
+        </wond>
+        <wond>
+          <nr>2.</nr>
+          <al>In het eerste lid, onder a, wordt «voor zijn aanstelling»
+vervangen door: voor zijn indiensttreding of tewerkstelling.</al>
+        </wond>
+        <wond>
+          <nr>3.</nr>
+          <al>Aan het tweede lid, wordt de volgende zin toegevoegd:</al>
+          <arttkst>
+            <al>Artikel 92, eerste lid, is van overeenkomstige toepassing, met dien verstande
+dat in plaats van «de uitslag van de individuele monitoring, bedoeld
+in de artikelen 87, 88 en 89» wordt gelezen: de uitslag van de individuele
+monitoring, bedoeld in artikel 111, eerste lid.</al>
+          </arttkst>
+        </wond>
+      </wlid>
+      <wlid>
+        <kop>
+          <nr>I</nr>
+        </kop>
+        <al>In bijlage 2, paragraaf 2.4, wordt de titel van de alinea «individuele
+monitoring» gewijzigd in «individuele monitoring met behulp van
+persoonlijke controlemiddelen».</al>
+      </wlid>
+    </wart>
+    <art id="aiii">
+      <kop>
+        <nr>ARTIKEL III</nr>
+      </kop>
+      <al>Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte
+van het Staatsblad waarin het wordt geplaatst.</al>
+    </art>
+  </body>
+  <backm>
+    <nawerk>
+      <slotform>Lasten en bevelen dat dit besluit met de daarbij behorende nota
+van toelichting in het Staatsblad zal worden geplaatst.</slotform>
+      <eindnoot id="e1">
+        <al>Stb. 1999, 451, laatstelijk gewijzigd bij besluit van 3 juli 2003, Stb.
+315.</al>
+      </eindnoot>
+      <eindnoot id="e2">
+        <al>Stb. 2001, 397, laatstelijk gewijzigd bij besluit van 6 december 2002,
+Stb. 604.</al>
+      </eindnoot>
+      <histnoot>
+        <al>Het advies van de Raad van State wordt niet openbaar gemaakt, omdat het
+uitsluitend opmerkingen van redactionele aard bevat (artikel 25a, vierde lid,
+onderdeel b, van de Wet op de Raad van State).</al>
+      </histnoot>
+      <ondertek>
+        <ondplts>'s-Gravenhage, </ondplts>
+        <onddatum>7 februari 2004</onddatum>
+        <koning>Beatrix</koning>
+        <minister>
+          <minvan>De Staatssecretaris van Sociale Zaken en Werkgelegenheid,</minvan>
+          <naam>M. Rutte</naam>
+        </minister>
+      </ondertek>
+      <uitgifte>
+        <uitgifte-regel>Uitgegeven de <nadruk type="cur">vierentwintigste</nadruk> februari 2004</uitgifte-regel>
+        <uitdag>vierentwintigste</uitdag>
+        <uitmaand>februari</uitmaand>
+        <uitjaar>2004</uitjaar>
+        <door>
+          <minvan>De Minister van Justitie,</minvan>
+          <naam>J. P. H. Donner </naam>
+        </door>
+      </uitgifte>
+    </nawerk>
+    <notatoe>
+      <kop>
+        <titel status="off">NOTA VAN TOELICHTING</titel>
+      </kop>
+      <tuskop letat="vet">I ALGEMEEN</tuskop>
+      <tuskop letat="vet">1.1 Inleiding</tuskop>
+      <al>Het onderhavige besluit strekt tot wijziging van de regels voor de voorkoming
+en beperking van zware ongevallen waarbij gevaarlijke stoffen betrokken zijn
+en de gevolgen daarvan voor de veiligheid en de gezondheid van de in het bedrijf,
+inrichting of deel daarvan werkzame werknemers, zoals deze zijn opgenomen
+in hoofdstuk 2, afdeling 2 van het Arbeidsomstandighedenbesluit (Arbobesluit).
+De wijziging betreft het vervangen van de verplichting voor het opstellen
+van een Arbeidsveiligheidsrapportage (AVR) door de verplichting tot het uitvoeren
+van een aanvullende risico-inventarisatie en -evaluatie (ARIE).</al>
+      <al>De wijziging brengt geen verandering in de werkingssfeer; de ARIE-regeling
+zal gelden voor bedrijven die thans AVR-plichtig zijn.</al>
+      <al>Op grond van artikel 6 van de Arbeidsomstandighedenwet 1998 gelden voor
+bedrijven, inrichtingen of delen daarvan die behoren tot een bij algemene
+maatregel van bestuur aangewezen categorie nadere voorschriften met betrekking
+tot het voorkomen en beperken van zware ongevallen waarbij gevaarlijke stoffen
+zijn betrokken. Achtergrond van deze bijzondere verplichting is het gevaar
+dat de aanwezigheid van grote hoeveelheden gevaarlijke stoffen met zich meebrengt.
+Zware ongevallen met gevaarlijke stoffen kunnen leiden tot ernstig persoonlijk
+letsel, materiële schade en grote maatschappelijke onrust. De nadere
+voorschriften hebben tot doel het reduceren van het risico op zware ongevallen
+en het reduceren van de effecten van eventuele ongevallen. In een vervolgtraject
+zal worden bezien of het noodzakelijk is om kwantitatieve normen te definiëren
+met betrekking tot arbeidsveiligheid.</al>
+      <witreg></witreg>
+      <al>Sinds 1981 zijn de werkgevers van de bedrijven met grote hoeveelheden
+gevaarlijke stoffen verplicht een Arbeidsveiligheidsrapportage (AVR) op te
+stellen en in te dienen bij de overheid. De kern van de AVR-regelgeving is
+dat bedrijven over hun installaties, waarin zich bepaalde hoeveelheden gevaarlijke
+stoffen bevinden, in een schriftelijke rapportage verantwoording afleggen
+over de gevaren voor de werknemers en over de wijze waarop deze gevaren worden
+beheerst.</al>
+      <witreg></witreg>
+      <al>Daarnaast is in 1997 de zogenoemde EU Seveso II-richtlijn van kracht geworden,
+die betrekking heeft op de risico's van zware ongevallen bij bepaalde industriële
+activiteiten zowel voor werknemers, omwonenden als het milieu (richtlijn nr.
+96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende
+de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen
+zijn betrokken (PbEG L 10)). Bij implementatie is er voor gekozen om deze
+richtlijn grotendeels te implementeren door middel van één gezamenlijke
+AMvB (het Besluit risico's zware ongevallen 1999 (Brzo 1999), Stb. 1999, 234),
+ondertekend door de bewindspersonen van VROM, BZK en SZW. Dit besluit verplicht
+de daartoe aangewezen bedrijven onder meer tot het voeren van een beleid ter
+preventie van zware ongevallen (PBZO) en een veiligheidsbeheerssysteem (VBS).
+Daarnaast dient een bepaalde categorie bedrijven een veiligheidsrapportage
+(VR) op te stellen en in te dienen bij de overheid. In dit veiligheidsrapport
+dient onder meer te worden aangetoond dat een PBZO en een VBS zijn ingevoerd,
+dat de binnen het bedrijf aanwezige risico's systematisch zijn geïdentificeerd
+en dat alle benodigde maatregelen ter bescherming van mens en milieu zijn
+getroffen. </al>
+      <witreg></witreg>
+      <al>De AVR-regeling en het Brzo 1999 hanteren verschillende aanwijzingssystematieken
+op basis waarvan werkgevers onder de regelingen vallen. De AVR-regeling richt
+zich specifiek op de veiligheid van de werknemers. Hierbij wordt per installatie
+op het bedrijf gekeken naar de daarin aanwezige hoeveelheid gevaarlijke stoffen,
+de procescondities (temperatuur en druk) en de omgevingscondities (buitenlucht
+of besloten ruimten). Als de combinatie van deze factoren boven een bepaalde
+grens uitkomt, dient de werkgever voor deze installatie een arbeidsveiligheidsrapportage
+op te stellen.</al>
+      <al>Het Brzo 1999 is hiernaast gebaseerd op de effecten van een calamiteit
+voor omwonenden en het milieu. De hoeveelheid gevaarlijke stof die op het
+totale bedrijfsterrein aanwezig is, wordt gesommeerd. Als deze hoeveelheid
+boven een vastgestelde norm komt, valt het bedrijf onder de werkingssfeer
+van het Brzo 1999.</al>
+      <al>Bedrijven die wel een hoog intern risico voor de werknemers kennen, maar
+te beperkte hoeveelheden gevaarlijke stof hanteren om ook een extern risico
+te geven, vallen buiten de werkingssfeer van het Brzo 1999.</al>
+      <witreg></witreg>
+      <al>Het Brzo 1999 hanteert overigens twee aanwijzingscategorieën. Deze
+worden bepaald door grenswaarden voor de aanwezige hoeveelheid gevaarlijke
+stoffen. De verplichtingen bij overschrijding van de hoge grenswaarde houden
+onder meer het opstellen van een veiligheidsrapportage (VR) in en zijn dus
+zwaarder dan bij overschrijding van de lage grenswaarde. Bedrijven die vallen
+onder de hoge grenswaarde van het Brzo 1999 zijn bij het in werking treden
+van het besluit vrijgesteld van de AVR-verplichting.</al>
+      <witreg></witreg>
+      <al>Op het gebied van arbeidsomstandigheden in het algemeen is in 1989 de
+Kaderrichtlijn arbeidsomstandigheden door de EU vastgesteld (richtlijn nr.
+89/391/EEG van de Raad van de Europese gemeenschappen van 12 juni 1989
+betreffende de tenuitvoerlegging van maatregelen ter bevordering van de verbetering
+van de veiligheid en gezondheid van de werknemers op het werk PbEG L 183))
+. In de Nederlandse implementatie van deze richtlijn is in artikel 5 van de
+Arbeidsomstandighedenwet 1998 vastgelegd dat de werkgever de risico's die
+arbeid voor de werknemers met zich meebrengt schriftelijk dient te inventariseren
+en evalueren (RI&amp;E). Naar aanleiding van deze inventarisatie dient een
+plan van aanpak te worden opgesteld waarin de eventueel benodigde maatregelen
+ter beperking van de risico's zijn opgenomen.</al>
+      <witreg></witreg>
+      <al>Door de implementatie van de EU Kaderrichtlijn met de risico-inventarisatie
+en -evaluatieverplichting en de EU Seveso II-richtlijn is een zodanige overlap
+in de regelgeving ontstaan dat de rechtvaardiging voor een eigenstandige AVR-regelgeving
+onder druk is gekomen.</al>
+      <al>Het MDW-rapport Maatwerk in Bescherming (22 juni 1995, Arbo/AIS/95/01686B)
+van de werkgroep Marktwerking Deregulering en Wetgevingskwaliteit heeft als
+aanbeveling de verplichting tot het opstellen van een arbeidsveiligheidsrapport
+te stroomlijnen. Hierdoor kan een vermindering van de administratieve lasten
+van werkgevers worden bereikt. Deze aanbeveling werd ondersteund in de motie
+Klein Molenkamp c.s. (Kamerstukken II, vergaderjaar 1995/96, 24 462,
+nr. 4).</al>
+      <al>Door de toenmalige Staatssecretaris van Sociale Zaken en Werkgelegenheid
+zijn de Tweede Kamer en de SER geïnformeerd over het beleidsvoornemen
+de AVR regeling te laten opgaan in drie verschillende verplichtingen, namelijk
+de in dit Besluit beschreven verplichtingen tot aanvullende risico-inventarisatie
+en -evaluatie, de verplichtingen die gelden voor bedrijven die vallen onder
+de hoge categorie Brzo 1999 en een nieuwe AMvB voor vervoerinrichtingen (Kamerstukken
+II vergaderjaar 1995/96, 24 036, nr. 27). </al>
+      <al>In reactie op deze brief is door de werknemersorganisaties de zorg uitgesproken
+dat indien de bestaande methoden voor risico-inventarisatie en -evaluatie
+worden toegepast op situaties met grote hoeveelheden gevaarlijke stoffen,
+de risico's op zware ongevallen niet afdoende kunnen worden beoordeeld. Daarom
+is door mijn ambtsvoorganger in een brief aan de vakcentrales FNV, CNV, MHP
+en AVC toegezegd dat nadere voorschriften ten aanzien van de risico-inventarisatie
+en- evaluatie opgesteld zullen worden, in combinatie met een verplichting
+tot toezicht vanuit de Arbeidsinspectie (brief: Arbo/AIS/ 9602726). Het onderhavige
+besluit geeft hieraan uitvoering, waarbij ervoor is gekozen de actuele Europese
+aanpak ter beheersing van majeure risico's voor het omgaan met gevaarlijke
+stoffen zoveel mogelijk te volgen. Het besluit de AVR-regeling te vervangen
+door de ARIE-regeling is nogmaals bekrachtigd in het kabinetsstandpunt naar
+aanleiding van de vuurwerkramp in Enschede en uitgebreid met het besluit de
+grenswaardenlijst voor ontplofbare stoffen te evalueren (Kamerstukken II vergaderjaar
+2000/01, 27 157, nr. 20, blz. 41).</al>
+      <tuskop letat="cur">Motie Scheltema-de Nie</tuskop>
+      <al>In de motie Scheltema-de Nie van 26 november 2001 (Kamerstukken II, 2000/01,
+27 157, nr. 34) is voorgesteld een bedrijfsplan veiligheid voor ondernemers
+verplicht te stellen om daarmee de bedrijfsverantwoordelijkheid voor de interne
+veiligheid en de veiligheid voor omwonenden te stimuleren. In een gezamenlijke
+brief aan de Tweede Kamer hebben de Staatssecretaris van SZW en de Minister
+van VROM aangekondigd deze motie uit te voeren door een combinatie van drie
+wettelijke verplichtingen: de ARIE-regeling, het Besluit Kwaliteitseisen externe
+veiligheid en een registratieplicht voor risicovolle situaties (Kamerstukken
+II, 2002/03, 27 157, nr. 52). De ARIE-regeling geeft uitvoering aan de
+motie op verschillende punten. Het veiligheidsbeheerssysteem en het plan van
+aanpak regelen de fysieke en organisatorische maatregelen die effect hebben
+op de interne en externe veiligheid. Voorts moet een bedrijf dat onder de
+werkingssfeer van de ARIE-regeling valt naburige bedrijven informeren over
+de veiligheidsrisico's. Met deze verplichtingen wordt het bedrijf gestimuleerd
+de verantwoordelijkheid voor de veiligheid van zijn werknemers en de omgeving
+te nemen. Met het oog op de voorgenomen registratieplicht van risicovolle
+situaties krijgen het krachtens de Wet milieubeheer bevoegde gezag en andere
+uitvoerende gezagen zoals de brandweer een instrument in handen doordat de
+Arbeidsinspectie gaat melden dat er binnen zijn ambtsgebied een ARIE-plichtig
+bedrijf is.</al>
+      <tuskop letat="cur">Vuurwerk en overige ontplofbare stoffen</tuskop>
+      <al>In het bovengenoemde kabinetsstandpunt Vuurwerkramp van 23 maart 2001
+is de toezegging opgenomen dat het grenswaardensysteem voor ontplofbare stoffen
+bij de omzetting van de AVR-verplichting in de ARIE-plicht zal worden geëvalueerd.
+Het onderhavige besluit geeft hieraan uitvoering. Een deel van de vuurwerkbedrijven
+zal worden verplicht een aanvullende risico-inventarisatie en -evaluatie op
+te stellen. Uiteraard is op betreffende werkgevers per 1 maart 2002 ook onverminderd
+het Vuurwerkbesluit van toepassing.</al>
+      <al>Tevens is de lijst met grenswaarden voor ontplofbare stoffen, die sinds
+de eerste publicatie onveranderd is gebleven, opnieuw beoordeeld (betreft
+bijlage 5 van beleidsregel 2 van het Arbobesluit). Hierbij is gekeken naar
+de meest recente gegevens over het explosief vermogen van de betrokken stoffen
+en is de lijst meer in lijn gebracht met internationaal geldende vervoerscategorieën
+voor ontplofbare stoffen. Voor een beperkt aantal stoffen is een extra toeslagfactor
+ingevoerd. Dit betreft stoffen waarvan de verbrandingsproducten die na explosie
+vrijkomen extreem toxisch zijn, of stoffen die extreem gemakkelijk tot ontploffing
+worden gebracht. </al>
+      <tuskop letat="cur">Vervoergebonden inrichtingen</tuskop>
+      <al>Wat betreft het vervoer van gevaarlijke stoffen heeft de Europese Commissie
+afgezien van het doen van voorstellen ter zake. In plaats daarvan is in de
+Seveso II-richtlijn een overweging opgenomen op grond waarvan de lidstaten
+passende maatregelen kunnen handhaven of aannemen met betrekking tot de activiteiten
+in verband met vervoer voor zover deze niet onder de richtlijn vallen. Uitgaande
+van deze beleidsvrijheid, alsmede van de bestaande afspraken en bestaande
+verplichtingen in het kader van wet- en regelgeving op het terrein van arbeidsveiligheid,
+rampenbestrijding en milieubeheer met betrekking tot vervoergebonden inrichtingen,
+is in het najaar van 1997 het project vervoersinrichtingen gestart. Hierbij
+gaat het om bedrijven en inrichtingen waar sprake is van opslag van gevaarlijke
+stoffen in verband met vervoer zoals spoorwegemplacementen, stuwadoorsbedrijven
+en transportbedrijven. In de loop van het project is gebleken dat het vinden
+van oplossingen voor een aantal onderwerpen aanzienlijk meer tijd vergt dan
+was voorzien. In een brief aan de Tweede Kamer (Kamerstukken II, 1999/00,
+26 800 XI, nr. 37) is hierover verslag gedaan. In de tussentijd is het
+concept van de ARIE-regeling gereed gekomen, dat op veel punten vergelijkbaar
+is met het beoogde besluit Vervoersinrichtingen. De betrokken bewindspersonen
+van BZK, V&amp;W, VROM en SZW hebben er vervolgens voor gekozen om alleen
+de ARIE-regeling doorgang te laten vinden, onder meer om dubbeling in de regelgeving
+te voorkomen. Vanwege de sterk wisselende en vooraf moeilijk voorspelbare
+aanwezigheid van gevaarlijke stoffen qua aard en omvang bij dit type bedrijven
+is de aanwijssystematiek van de ARIE-regeling echter niet geschikt. Het is
+dan immers niet mogelijk de benodigde berekeningen uit te voeren voor de aanwijzing
+van de installaties. Daarom is ervoor gekozen alle vervoergebonden inrichtingen
+die de mogelijkheid hebben grote hoeveelheden gevaarlijke stoffen te hanteren
+zonder nadere berekening aan te wijzen in het kader van de ARIE-regeling.
+In de praktijk betekent dit dat alle vervoergebonden inrichtingen die een
+milieuvergunning hebben voor de aanwezigheid van gevaarlijke stoffen onder
+de ARIE-regeling vallen. Indien een vervoergebonden inrichting de mogelijkheid
+tot het hanteren van grote hoeveelheden gevaarlijke stoffen uitsluit, bijvoorbeeld
+door geen milieuvergunning voor de aanwezigheid van gevaarlijke stoffen te
+hebben, is de ARIE-regeling uiteraard niet van toepassing. Evenmin is de ARIE-regeling
+van toepassing op het vervoer van gevaarlijke stoffen als zodanig, zie ook
+hierna. In dit kader dient verder opgemerkt te worden dat de risico's van
+een vervoergebonden bedrijf waarbij de gevaarlijke stoffen worden op- of overgeslagen
+wezenlijk verschillen ten opzichte van een bedrijf waarbij chemische processen
+met deze stoffen uitgevoerd worden. Zoals hierna wordt uitgelegd is de ARIE-regeling
+erop gericht om specifiek in te spelen op de daadwerkelijk in het bedrijf
+aanwezige risico's. Deze risico's worden geëvalueerd met behulp van scenariobeschrijvingen,
+die weergeven op welke wijze de gevaarlijke stoffen kunnen vrijkomen en wat
+de gevolgen zijn. Deze scenariobeschrijvingen geven vervolgens aan op welke
+elementen van het veiligheidsbeheerssysteem het accent komt te liggen. In
+samenwerking met de branche start het Ministerie van SZW in het najaar van
+2003 een project waarbij voor vervoergebonden inrichtingen een standaard set
+scenario's wordt uitgewerkt. De individuele bedrijven kunnen vervolgens de
+voor hun situatie toepasselijke scenario's eenvoudig overnemen in de ARIE.</al>
+      <tuskop letat="cur">Relatie met vervoerswetgeving</tuskop>
+      <al>Op grond van de internationale en de Europese regelgeving voor het vervoer
+van gevaarlijke stoffen is de aanwezigheid van een zogenaamde veiligheidsadviseur
+voor bepaalde ondernemingen verplicht. Het gaat daarbij om deel 1 van de Europese
+Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen
+over de weg (ADR), deel 1 van het Reglement betreffende het internationale
+spoorwegvervoer van gevaarlijke goederen (RID), welk reglement is gebaseerd
+op het Verdrag betreffende het internationale spoorvervoer (COTIF) en deel
+1 van het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn
+(ADNR), welk reglement is gebaseerd op de Herziene Rijnvaartakte (Akte van
+Mannheim). De daarin opgenomen regels voor de veiligheidsadviseurs zijn opgenomen
+in bijlage 1 van de Regeling vervoer over land van gevaarlijke stoffen (VLG),
+in bijlage 1 van de Regeling vervoer over spoor van gevaarlijke stoffen (VSG)
+en in bijlage 1 van de Regeling vervoer over binnenwateren van gevaarlijke
+stoffen (VBG).</al>
+      <al>Daarnaast moet worden gewezen op richtlijn nr. 96/35/EG van de Raad van
+3 juni 1996 betreffende de aanwijzing en de beroepsbekwaamheid van veiligheidsadviseurs
+voor het vervoer van gevaarlijke goederen over de weg, het spoor of over de
+binnenwateren (Pb EG L 145). Deze richtlijn is omgezet in de regeling veiligheidsadviseur
+vervoer gevaarlijke stoffen.</al>
+      <witreg></witreg>
+      <al>De verplichtingen gelden in het bijzonder de ondernemingen waarvan de
+bedrijvigheid het vervoer van gevaarlijke goederen over de weg, het spoor
+en de binnenwateren omvat of de met dit vervoer samenhangende laad- of loshandelingen,
+verpakken of vullen.</al>
+      <al>De veiligheidsadviseur heeft primair tot taak het in overeenstemming met
+de voorschriften en op een zo veilig mogelijk wijze vergemakkelijken van de
+activiteiten van de onderneming. Daartoe wordt de onderneming van advies gediend.
+Bovendien moet jaarlijks een rapport worden opgesteld.</al>
+      <al>Voorts heeft de veiligheidsadviseur ook nog een aantal specifieke taken
+te verrichten. Het gaat daarbij onder meer om het analyseren van ongevallen,
+voorvallen of overtredingen van de regelgeving en de introductie van die maatregelen
+om het bewustzijn van de gevaren verbonden aan het vervoer, het laden en lossen
+van gevaarlijke goederen te vergroten.</al>
+      <witreg></witreg>
+      <al>Een relatie tussen de ARIE-regeling en de regeling veiligheidsadviseur
+is vooral te vinden ten aanzien van het laden en lossen, de overslag van gevaarlijke
+stoffen van de ene modaliteit naar de andere en het verpakken of vullen in
+verband met het vervoer; hierbij gaat het derhalve om de zogenoemde vervoergebonden
+ondernemingen. Op deze handelingen kunnen immers beide regelingen van toepassing
+zijn. Tot een stelselmatig veiligheidsonderzoek verplicht de regeling veiligheidsadviseur
+echter niet. Het ligt echter voor de hand dat de resultaten van een aanvullende
+risico-inventarisatie en- evaluatie ook van invloed kan zijn op de invulling
+van de taakuitoefening door de veiligheidsadviseur. Dit kan de kwaliteit van
+de werkzaamheden van de adviseur verhogen. Voorts zij erop gewezen dat de
+ARIE-regeling niet van toepassing is op het vervoer van gevaarlijke stoffen
+als zodanig. Op deze activiteiten is de Wet vervoer gevaarlijke stoffen en
+de hierop gebaseerde nadere regelgeving van toepassing.</al>
+      <witreg></witreg>
+      <al>Onderzoek naar de risico's van het vervoer van gevaarlijke stoffen wordt
+verricht in het kader van de zogenaamde risicoatlassen. Deze atlassen geven
+een beeld van de risico's van het vervoer van gevaarlijke stoffen op een bepaalde
+weg, spoorweg of binnenwater en zullen worden gebruikt voor het door het Rijksinstituut
+van Volksgezondheid en Milieu (RIVM) te beheren register in het kader van
+de regeling registratie gegevens externe veiligheid inrichtingen, transportroutes
+en buisleidingen op grond van de Wet milieubeheer. Het gaat bij de atlassen
+dus om een veel algemener beeld van de risico's op een bepaald traject dat
+bovendien alleen betrekking heeft op de risico's voor omwonenden, en niet
+zozeer om een specifieke inventarisatie van de risico's voor werknemers zoals
+voorzien in dit besluit. </al>
+      <tuskop letat="vet">1.2 Verschillen tussen AVR en ARIE</tuskop>
+      <al>Voor een goed begrip van de inhoud van dit besluit worden hieronder in
+het kort de belangrijkste verschillen tussen de AVR-regeling en de ARIE-regeling
+behandeld.</al>
+      <tuskop letat="cur">Algemeen</tuskop>
+      <al>De ARIE-regeling moderniseert de arboregelgeving op het gebied van de
+majeure risico's in verband met de aanwezigheid van gevaarlijke stoffen. De
+regeling sluit beter aan bij de huidige inzichten op het gebied van risicobeheersing,
+zoals deze ook zijn opgenomen in het Brzo 1999. Daarnaast worden met de ARIE-regeling
+de administratieve lasten voor het bedrijfsleven verminderd, zonder afbreuk
+te doen aan het niveau van arbeidsveiligheid.</al>
+      <witreg></witreg>
+      <al>De ARIE-regeling is meer dan het AVR gericht op organisatorische aspecten
+zoals het hebben van een preventiebeleid zware ongevallen en een veiligheidsbeheerssysteem.
+Door middel van een aanvullende risico-inventarisatie en -evaluatie wordt
+door het betreffende bedrijf voor de gevaarlijke onderdelen aangegeven hoe
+met het gevaar en de erbij horende risico's wordt omgegaan. Daarbij worden
+zowel organisatorische zaken als technische zaken in aanmerking genomen. Dit
+geeft de Arbeidsinspectie de mogelijkheid om gericht te inspecteren op het
+managementsysteem, de basis voor risicobeheersing.</al>
+      <tuskop letat="cur">AVR per installatie wordt vervangen door één
+ARIE per bedrijf</tuskop>
+      <al>De AVR-regeling verplichtte de werkgever tot het opstellen van een Arbeidsveiligheidrapport
+per aangewezen installatie van een bedrijf of inrichting. Deze rapportage
+omvatte een beschrijving van het bedrijf en de aangewezen installatie, de
+aanwezige stoffen en processen, de redelijkerwijs voorzienbare gevaren en
+de getroffen technische en organisatorische maatregelen. Deze verplichting
+wordt nu vervangen door de verplichting tot het opstellen van één
+aanvullende risico-inventarisatie en- evaluatie per bedrijf waarbij alle aangewezen
+installaties worden betrokken.</al>
+      <tuskop letat="cur">Zorg op maat: preventiebeleid, veiligheidsbeheerssysteem
+en scenario's</tuskop>
+      <al>In bedrijven die onder de ARIE-regeling vallen zijn door de aanwezigheid
+van gevaarlijke stoffen dermate risico's aanwezig dat zij over een preventiebeleid
+voor zware ongevallen en een bij dat bedrijf passend veiligheidsbeheerssysteem
+moeten beschikken. De werkgever dient schriftelijk vast te leggen welke (algemene)
+doelstellingen en beginselen hij hanteert bij de beheersing van zware ongevallen.
+Met andere woorden: welk niveau van veiligheid wil de werkgever binnen zijn
+organisatie (minimaal) hanteren. Vervolgens moet worden geborgd dat de geformuleerde
+doelstellingen ook worden gehaald. Deze borging vindt plaats door middel van
+de invoering van een veiligheidsbeheerssysteem (VBS). In de Arbeidsomstandighedenregeling
+(Arboregeling) worden de elementen genoemd die in ieder veiligheidsbeheerssysteem
+een rol spelen. Echter, aangezien bedrijven en de bijbehorende risico's verschillen,
+zal ook de invulling van de verschillende elementen per bedrijf verschillen.
+De invulling wordt als volgt vormgegeven. Het meest basale onderdeel van het
+veiligheidsbeheerssysteem is de risico-inventarisatie en -evaluatie. Immers,
+om risico's te kunnen beheersen moeten ze bekend zijn. Het bedrijf brengt
+de risico's in kaart met behulp van scenariobeschrijvingen. Meer nog dan in
+de AVR-regeling wordt hierbij het accent gelegd op een systematische benadering.
+Uit de scenariobeschrijvingen wordt duidelijk welke risico's het bereiken
+c.q. handhaven van het beoogde veiligheidsniveau, zoals vastgelegd in het
+preventiebeleid, bedreigen. Voor het inperken van deze risico's moeten maatregelen
+worden genomen of voorzieningen worden getroffen (de zogenoemde
+«lines of defence»). Deze kunnen van technische of organisatorische
+aard zijn. Het VBS is een onderdeel van de overall management functie van
+het bedrijf en zorgt ervoor dat de noodzakelijke «lines of defence»
+aanwezig zijn en blijven. Het VBS-onderdeel «risico-evaluatie»
+leidt dus tot de identificatie van de overige onderdelen van het VBS die voor
+de risicobeheersing in een specifiek bedrijf van essentieel belang zijn.</al>
+      <al>Aangezien een werkomgeving een dynamische omgeving is, en dus aan veranderingen
+onderhevig, dient een bedrijf ervoor te zorgen dat de risico-inventarisatie
+en -evaluatie steeds geactualiseerd wordt. Hiermee wordt een voortdurende
+cyclus van verbetering van het veiligheidsniveau en verlaging van de risico's
+in stand gehouden.</al>
+      <tuskop letat="cur">Andere elementen</tuskop>
+      <al>Het inzagerecht van de ondernemingsraad was in de AVR-regeling specifiek
+vastgelegd. De betrokkenheid van het medezeggenschapsorgaan bij de ARIE is
+echter gegarandeerd op grond van de artikelen 5 en 12 van de wet. Verder zijn
+de eisen aan het noodplan nader uitgewerkt. Ook wordt nu rekening gehouden
+met de gevaren die de aanwezigheid van gevaarlijke stoffen voor bedrijven
+in de omgeving kan opleveren. Hiertoe is een verplichting tot actieve informatie-uitwisseling
+tussen naburige bedrijven opgenomen.</al>
+      <tuskop letat="vet">1.3 Reikwijdte van ARIE</tuskop>
+      <tuskop letat="cur">Aanwijzing op basis van aanwezigheid gevaarlijke stoffen</tuskop>
+      <al>Het uitgangspunt van zowel de AVR als de ARIE-regeling is het inherente
+gevaar van een bepaalde (grote) hoeveelheid gevaarlijke stoffen. Ongeacht
+de beoogde handelingen is er altijd een kans dat deze stoffen vrijkomen en
+schade aanbrengen in hun omgeving. Het aanwijssysteem is dan ook niet gewijzigd
+en gebaseerd op de op enig moment in een installatie op het bedrijf aanwezige
+hoeveelheid gevaarlijke stoffen. Welke maatregelen moeten worden genomen om
+de risico's in een specifiek bedrijf te beheersen, hangt af van de handelingen
+die met de gevaarlijke stoffen worden verricht en volgt uit de aanvullende
+risico-inventarisatie en -evaluatie.</al>
+      <tuskop letat="cur">Vier categorieën</tuskop>
+      <al>De aanwijzingssystemen voor de ARIE-verplichting (Aanvullende risico-inventarisatie
+en -evaluatie) en het Brzo 1999 (Besluit risico's zware ongevallen 1999) bestaan
+naast elkaar en kunnen in een enkel geval tegelijk van toepassing zijn. Dit
+betekent dat er vier combinaties van verplichtingen mogelijk zijn voor bedrijven
+of inrichtingen waarin grote hoeveelheden gevaarlijke stoffen aanwezig zijn.</al>
+      <al>• bij aanwijzing uitsluitend volgens artikel 2.3 (of 2.3a) van
+het Arbobesluit geldt alleen de ARIE-verplichting (zogenoemd ARIE-bedrijf);</al>
+      <al>• bij aanwijzing volgens artikel 2.3 (of 2.3a) van het Arbobesluit
+én aanwijzing volgens artikel 4 van het Brzo 1999, maar niet volgens
+artikel 8 van het Brzo 1999, gelden zowel de ARIE-verplichting als de verplichtingen
+voortvloeiend uit de aanwijzing volgens het Brzo 1999 (zogenoemd ARIE-PBZO-bedrijf).
+Hierbij is ernaar gestreefd om de verplichtingen uit beide wetgevingen zoveel
+mogelijk op elkaar te laten aansluiten. Omdat in het onderhavige besluit is
+voorzien in een aantal equivalente verplichtingen als die in het Brzo 1999,
+is, teneinde samenloop van deze verplichtingen te voorkomen, in het besluit
+bepaald dat bedoelde voorschriften niet van toepassing zijn op deze ARIE-PBZO-bedrijven,
+zie artikel 2.3b, tweede lid. Deze bedrijven dienen dus op basis van het Brzo
+1999 een PreventieBeleid Zware Ongevallen (PBZO) en een Veiligheidsbeheerssysteem
+(VBS) in te voeren. Daarnaast zijn ze verplicht op basis van de ARIE-regeling
+hun risico-inventarisatie en -evaluatie aan te vullen met scenariobeschrijvingen,
+en te voldoen aan de verplichtingen ten aanzien van het noodplan en informatieverschaffing
+aan buurbedrijven;</al>
+      <al>• bij aanwijzing uitsluitend volgens artikel 4 van het Brzo 1999,
+gelden de verplichtingen voortvloeiend uit de aanwijzing volgens het Brzo
+1999 (zogenoemd PBZO-bedrijf)</al>
+      <al>• bij aanwijzing volgens artikel 8 van het Brzo 1999 gelden alleen
+de verplichtingen voortvloeiend uit het Brzo 1999 (zogenoemd VR-bedrijf).
+Indien de werkgever echter tevens is aangewezen op grond van artikel 2.3 van
+het Arbobesluit moeten deze zogenoemde VR-bedrijven tevens voldoen aan hetgeen
+in artikel 2.5f van het Arbobesluit gesteld is (de informatieplicht naar naburige
+bedrijven). De overige voorschriften zijn niet van toepassing op deze VR-bedrijven.</al>
+      <witreg></witreg>
+      <al>Bedrijven die wel gevaarlijke stoffen in huis hebben, maar niet in zulke
+hoeveelheden dat de grenswaarden in de ARIE-regeling en het Brzo 1999 overschreden
+worden, dienen te voldoen aan hetgeen in hoofdstuk 4 van het arbobesluit ten
+aanzien van het werken met chemische agentia is bepaald.</al>
+      <tuskop letat="vet">1.4 Financieel-economische gevolgen en handhaving</tuskop>
+      <tuskop letat="cur">Uitvoerbaarheid en handhaafbaarheid</tuskop>
+      <al>Bij het opstellen van de aanvullende risico-inventarisatie en -evaluatie
+dient de werkgever zich te laten ondersteunen door een arbodienst. Dit betekent
+dat arbodiensten hun deskundigheid op dit gebied dienen uit te breiden of
+de noodzakelijke deskundigheid dienen in te huren, zoals bij bureaus die ervaring
+hebben met het opstellen van veiligheidsrapporten volgens het Brzo 1999. Het
+inhuren van deskundigheid door arbodiensten is geen nieuw fenomeen. Een vergelijkbare
+situatie doet zich voor bij het inhuren van deskundigen op het gebied van
+ergonomie door arbodiensten. Voor wat betreft de uitbreiding van deskundigheid
+op het gebied van de ARIE-regeling heeft SZW een cursus met dit doel gesubsidieerd.
+Aan deze cursus hebben inmiddels ongeveer 50 personen deelgenomen.</al>
+      <al>De arbeidsinspectie houdt tevens een intensieve rol bij het toezicht op
+deze bedrijven en zal deze bedrijven inspecteren op het gebied van majeure
+risico's op basis van een inspectieprogramma. Van bedrijven wordt gevraagd
+melding te doen van hun ARIE-verplichting bij de arbeidsinspectie. De arbeidsinspectie
+zal bij het toezicht waar nodig afstemmen met het bevoegd gezag ex Wm en de
+regionale brandweer.</al>
+      <al>Evenals de daarvoor in aanmerking komende bepalingen van afdeling 2 van
+hoofdstuk 2, die bij het onderhavige besluit zijn vervallen, worden de nieuwe
+voorschriften 2.5a tot en met 2.5h strafrechtelijk gesanctioneerd. Deze voorschriften
+zijn gebaseerd op artikel 6, eerste lid, van de Arbeidsomstandighedenwet 1998.
+Op grond van het derde lid van artikel 6 van de wet zijn de betreffende voorschriften
+in artikel 9.9a aangewezen als strafbare feiten, evenals de uitvoeringsvoorschriften
+van de betreffende bepalingen in de Arbeidsomstandighedenregeling.</al>
+      <tuskop letat="cur">Financiële en volume-effecten</tuskop>
+      <al>De voorstellen in dit besluit hebben alleen gevolgen voor de in par. 1.3
+genoemde categorieën bedrijven die werken met gevaarlijke stoffen. De
+gevolgen voor de bedrijven blijven beperkt tot een lichte besparing op de
+administratieve lasten, daarom fungeert onderstaande raming tevens als bedrijfseffectentoets.</al>
+      <witreg></witreg>
+      <al>Over de invoering van de ARIE-regeling is intensief overleg met het betrokken
+bedrijfsleven gevoerd. Als gevolg hiervan zijn onder meer de overgangstermijn
+voor de ARIE-regeling en de verplichte evaluatiefrequentie van het interne
+noodplan verruimd. Tevens is, zoals eerder genoemd, afgesproken
+dat voor vervoergebonden inrichtingen in samenwerking met de branche een standaard
+set scenario's wordt uitgewerkt. Voor de overige ARIE-bedrijven, waarbij de
+risico's meer uiteenlopen en dus niet met standaard scenario's gewerkt kan
+worden, zal het Ministerie van SZW specifiek informatiemateriaal opstellen
+om de invoering van de ARIE-regeling te faciliteren.</al>
+      <witreg></witreg>
+      <al>Er zijn thans 387 bedrijven (355 ARIE-bedrijven en 32 PBZO-bedrijven)
+met een verplichting om een AVR per installatie op te stellen, gericht op
+de veiligheid van werknemers. Voor de 300 vervoersinrichtingen wordt een gemiddelde
+van één installatie gehanteerd omdat hierbij geen sprake is
+van chemische bewerkingen, terwijl de overige bedrijven naar schatting in
+totaal over 200 installaties beschikken. Er zijn dus ca. 500 installaties
+waarvoor een AVR wordt opgesteld, waarvoor gemiddeld eens in de vijf jaar
+een grondige bijstelling nodig is. Volgens de deskundigen vergt de storingsanalyse
+de meeste tijd en dus ook het meeste geld. Dit vraagt de inzet van meerdere
+weken van gekwalificeerde experts gedurende vele weken, bij ingewikkelder
+installaties zelfs maanden. De gemiddelde kosten per AVR bedragen dan ook
+al gauw € 40 000 tot € 60 000. In de raming is daarom
+uitgegaan van gemiddeld € 10 000 euro per jaar per installatie.
+Omdat de veiligheidssituatie bij vervoersinrichtingen zich wat eenvoudiger
+laat beschrijven is hier uitgegaan van een gemiddelde van € 8 000
+per jaar. Deze AVR-verplichting kost de gezamenlijke bedrijven dus €
+4,4 miljoen per jaar<voetref refid="v1"></voetref>.</al>
+      <al>In de nieuwe situatie volstaat één ARIE per bedrijf, terwijl
+voortaan zal worden gewerkt met veiligheidsscenario's gericht op ongevalpreventie.
+De verplichtingen voor het bedrijf worden direct gerelateerd aan de aard en
+omvang van de in het bedrijf aanwezige risico's. De ARIE zal dan ook veel
+minder kosten dan de AVR. De verwachting is dat de kosten zullen teruglopen
+naar gemiddeld € 4 000 per jaar en voor de vervoersinrichtingen
+naar € 2 500 per jaar. Door de herziening van de grenswaardenlijst
+voor explosieve stoffen zal het aantal bedrijven licht toenemen van 387 naar
+390. Op basis van deze veronderstellingen zijn de kosten van de ARIE geraamd
+op € 1,1 miljoen per jaar<voetref refid="v2"></voetref>, waarmee een
+besparing op de administratieve lasten van € 3,3 miljoen wordt gerealiseerd.</al>
+      <witreg></witreg>
+      <al>Een wijziging die tot meer administratieve lasten leidt is de uitbreiding
+van het aantal bedrijven met een VBS en een intern noodplan. Waar thans alleen
+de 253 BRZO-bedrijven hierover moeten beschikken, wordt deze verplichting
+uitgebreid tot 611 bedrijven die werken met gevaarlijke stoffen. De kosten
+van een VBS zijn door onderzoekbureau CGEY geschat op gemiddeld € 4 000
+per jaar per bedrijf, die van een intern noodplan op € 400. De administratieve
+lasten nemen hierdoor toe met € 1,6 miljoen<voetref refid="v3"></voetref>.</al>
+      <witreg></witreg>
+      <al>De wijziging van de voorschriften inzake de informatieverplichtingen heeft
+slechts marginale financiële gevolgen. Enerzijds nemen de administratieve
+lasten iets toe, omdat alle 611 bedrijven een informatieplicht naar de omgeving
+van het bedrijf krijgen. Anderzijds nemen de lasten af, omdat de 390 ARIE-bedrijven
+niet langer zeven kopieën van de AVR moeten opsturen naar de overheid,
+maar één exemplaar ter inzage beschikbaar moeten hebben. Per
+saldo is het netto-effect op de administratieve lasten een besparing van ca. € 50 000<voetref refid="v4"></voetref>.</al>
+      <al>Ten slotte moet nog het synergie-effect worden vermeld voor de 32 VR/BRZO
+bedrijven die zowel onder de ARIE als onder Brzo vallen. In de nieuwe situatie
+sluiten de verplichtingen van ARIE en Brzo beter op elkaar aan, omdat veel
+veiligheidsbepalingen zowel voor werkgevers als voor de omgeving gelden. Dit
+leidt tot een op € 1 000 per jaar ingeschatte besparing per bedrijf
+en dus tot € 32 000 lagere administratieve lasten. </al>
+      <witreg></witreg>
+      <al>In het bovenstaande wordt uitgegaan van 300 vervoersinrichtingen. Bij
+de ambtelijke voorbereiding van dit besluit werd in eerste instantie uitgegaan
+van 100 vervoersinrichtingen. Het getal van 300 is gebaseerd op de meest recent
+uitgevoerde inventarisatie. De onduidelijkheid over het exacte aantal bestaat
+omdat vervoersinrichtingen in hun vergunning vanwege financieel economische
+redenen veelal geen plafond wensen aan te geven aan de hoeveelheid gevaarlijke
+stoffen die zij op- of overslaan. Dit betekent dat een dergelijke inrichting
+moet voldoen aan het onderhavige besluit ondanks het feit dat deze misschien
+nooit gevaarlijke stoffen in deze relatief grote hoeveelheden zal op- of overslaan.
+Uit bovenstaande berekening blijkt dat dit naar schatting € 2 500
+per jaar zal kosten. Geadviseerd wordt aan de werkgevers van vervoersinrichtingen
+hier bij hun vergunningaanvraag rekening mee te houden. Tevens zal in de te
+starten voorlichtingscampagne aan dit aspect aandacht worden besteed.</al>
+      <witreg></witreg>
+      <al>Dit besluit is ter toetsing voorgelegd aan Actal en is onder voorwaarde
+van bovengenoemde passage voorzien van een positief advies.</al>
+      <witreg></witreg>
+      <al>Samenvattend leidt de ARIE tot een structurele besparing aan administratieve
+lasten van ruim € 1,8 miljoen. Naast deze structurele besparing zijn
+er eenmalige invoeringskosten voor de 358 bedrijven die voor het eerst een
+VBS en een intern noodplan moeten hebben. Echter zullen deze kosten voor het
+merendeel van de bedrijven gering zijn, omdat in de regeling een ruime overgangstermijn
+is opgenomen: twee jaar voor bedrijven die voorheen niet AVR-plichtig waren
+en vijf jaar voor bedrijven die op grond van de oude regeling al over een
+AVR beschikken.</al>
+      <tuskop letat="vet">II ARTIKELSGEWIJS</tuskop>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel B (artikel 2.2)</tuskop>
+      <al>In het nieuwe <nadruk type="vet">onderdeel a</nadruk> van artikel 2.2
+is voor de toepassing van afdeling 2 van hoofdstuk 2 het verzamelbegrip «gevaarlijke
+stof» gedefinieerd. Hierbij gaat het om een brandbare stof, extreem
+toxische, toxische of ontplofbare stof, die ieder afzonderlijk zijn gedefinieerd
+in de tot b. tot en met e. geletterde onderdelen van dit artikel.</al>
+      <witreg></witreg>
+      <al>De wijziging van de definitie van het begrip «ontplofbare stof»
+in het tot <nadruk type="vet">onderdeel e</nadruk> geletterde onderdeel houdt
+verband met de wijziging van dit begrip in artikel 4.8, eerste lid, en is
+afgestemd op de definitie van dit begrip in de Wet milieugevaarlijke stoffen
+(zie verder de toelichting op artikel 4.8, eerste lid).</al>
+      <witreg></witreg>
+      <al>De toevoeging aan het tot <nadruk type="vet">onderdeel h</nadruk> geletterde
+onderdeel (installatie voor opslag) maakt duidelijk dat voor het vervoer bestemde
+tanks en voor het vervoer van gevaarlijke stoffen bestemde verpakkingen ook
+worden begrepen onder het begrip «installatie voor opslag». In
+de praktijk is gebleken dat er verschil van opvatting bestond over de vraag
+of bijvoorbeeld een tankwagon (op een spoorwegemplacement) al dan niet kon
+worden beschouwd als een installatie voor opslag. Met de onderhavige wijziging
+kan deze vraag bevestigend worden beantwoord. Andere voorbeelden van mobiele
+installaties zijn mobiele containers, trailers, met de inrichting verbonden
+schepen, spoorketelwagons op het rangeerterrein van of bij de inrichting en
+voor verlading van gevaarlijke stoffen aanwezige tankauto's. In beginsel vallen
+alle mobiele installaties onder de werkingssfeer van afdeling 2 van hoofdstuk
+2. In artikel 2.44 is echter een uitzondering gegeven voor de
+vervoerssector. Dit betekent dat ten aanzien van de in dit artikel bedoelde
+vervoermiddelen afdeling 2 van hoofdstuk 2 niet van toepassing is. Met deze
+vervoermiddelen wordt gedoeld op luchtvaartuigen, zeeschepen, binnenvaartuigen
+en voertuigen op de openbare weg of een spoor- of tramweg. Afdeling 2 van
+hoofdstuk 2 is daarentegen wel van toepassing op mobiele installaties die
+plegen te worden gebruikt op een bedrijfsterrein.</al>
+      <witreg></witreg>
+      <al>Het begrip «zwaar ongeval» in het nieuwe <nadruk type="vet">onderdeel l</nadruk> is afgeleid van het gelijkluidende begrip in artikel
+1, onderdeel f, van het Brzo 1999.</al>
+      <al>Doel van het onderhavige besluit is het voorkomen van zware ongevallen
+waarbij gevaarlijke stoffen zijn betrokken en, indien zij onverhoopt toch
+gebeuren, het beperken van de gevolgen daarvan voor de gezondheid van werknemers.
+Bepalend voor het begrip «zwaar ongeval» is het ontstaan van ernstig
+gevaar voor de gezondheid van werknemers. «Ernstig gevaar» treedt
+meestal op wanneer een significante hoeveelheid gevaarlijke stof vrijkomt,
+dus wanneer er sprake is van een zogenoemd «loss of containment»,
+bijvoorbeeld tengevolge van een zware emissie, brand of explosie.</al>
+      <witreg></witreg>
+      <al>In het nieuwe <nadruk type="vet">onderdeel m</nadruk> is het begrip «scenario»
+gedefinieerd. Scenariobeschrijvingen worden gebruikt om inzicht te krijgen
+in de relatie tussen mogelijke ongewenste gebeurtenissen en de maatregelen
+die zijn getroffen om deze ongewenste gebeurtenissen te voorkomen of de gevolgen
+ervan te beperken. Aan het optreden van een ongeval met gevaarlijke stoffen
+gaat meestal een reeks gebeurtenissen vooraf die uiteindelijk leiden tot het
+vrijkomen van gevaarlijke stoffen. Een set scenario's bestaat uit een zogenoemde
+foutenboom, waarbij deze gebeurtenissenreeksen wordt weergegeven en de effectenboom,
+waarmee de mogelijke gevolgen worden weergegeven.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel C (artikelen 2.2a tot en met 2.2f vervallen)</tuskop>
+      <al>Deze artikelen zijn bij het Brzo 1999 in het Arbobesluit ingevoegd om
+de verplichting tot het opstellen van een arbeidsveiligheidsrapport, zoals
+deze voorheen was opgenomen in artikel 5 van de toen geldende Arbeidsomstandighedenwet,
+te handhaven voor die gevallen waarin niet het veiligheidsrapport als bedoeld
+in paragraaf 3 van het Brzo 1999 verplicht is gesteld. Aangezien de regeling
+van het arbeidsveiligheidsrapport bij het onderhavige besluit wordt vervangen
+door een aanvullende risico-inventarisatie en- evaluatie zijn bedoelde artikelen
+mitsdien geschrapt.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel D (artikel 2.3)</tuskop>
+      <al>In dit artikel wordt in samenhang met de artikelen 2.3a en 2.3b bepaald
+onder welke omstandigheden afdeling 2 van hoofdstuk 2 van toepassing is. Op
+grond van artikel 2.3 is afdeling 2 van hoofdstuk 2 van toepassing op bedrijven
+en instellingen waar één of meerdere installaties aanwezig zijn,
+indien de daarin aanwezige hoeveelheid van een gevaarlijke stof of groep van
+stoffen, vermenigvuldigd met de relevante omstandigheidsfactoren gelijk is
+aan of groter is dan de voor die stof of groep van stoffen geldende grenswaarde.
+Een gevaarlijke stof is in dit verband elke stof zoals gespecificeerd in artikel
+2.2. Zoals reeds bij de oorspronkelijke toelichting bij artikel 2.3 is gesteld
+moet voor gevaarlijke stoffen die zijn verdund met een oplosmiddel –
+dat in dit kader als ongevaarlijk is te beschouwen zoals bijvoorbeeld
+ammoniak in water – uitsluitend de in de installatie aanwezige hoeveelheid
+gevaarlijke stof, los van het oplosmiddel, in aanmerking worden genomen. De
+omstandigheidsfactor, bedoeld in artikel 2.4, onder e, moet in een dergelijk
+geval tussen de grenzen 0,1 en 10 worden afgestemd op het onder de procescondities
+te verwachten dampgenererend vermogen bij de ontsnapping van de oplossing.</al>
+      <al>De definitie van de begrippen «installatie», «installatie
+voor bewerking» en «installatie voor opslag» in artikel
+2.2 is niet gewijzigd. In de oorspronkelijke toelichting bij artikel 2.3 (Stb.
+1997, 60) is ten aanzien van deze begrippen informatie gegeven dat hier wordt
+herhaald: «In het algemeen zal een installatie het gehele stelsel van
+vaten, apparaten en leidingen omvatten, dat ten aanzien van de omsloten gevaarlijke
+stof als één geheel is te beschouwen. Hierbij worden een installatie
+voor bewerking van een of meer producten en de daarmee eventueel verbonden,
+doch buiten de ruimtelijke begrenzing van deze installatie liggende opslaginstallatie(s),
+als onafhankelijk van elkaar aangemerkt.</al>
+      <al>Voor in het bedrijf aanwezige opslaginstallaties zoals tanks, silo's en
+bunkers, die buiten de ruimtelijke begrenzing van een installatie voor bewerking
+zijn gelegen, moet in het kader van de toepassing van deze paragraaf elke
+tank, silo of bunker als een op zichzelf staande installatie voor opslag worden
+beschouwd.</al>
+      <al>Voor de opslag van gevaarlijke stoffen in verpakkingseenheden, zoals zakken,
+drums en flessen, moet voor de toepassing van deze afdeling het totaal van
+de zich op één plaats bevindende verpakkingseenheden als een
+installatie voor opslag worden beschouwd.» Voor de opslag van ontplofbare
+stoffen geldt dat installaties voor opslag alleen dan als verschillende installaties
+worden beschouwd als op basis van de lay-out of het ontwerp van de installatie
+detonatie van ontplofbare stoffen in de ene installatie niet kan leiden tot
+detonatie van ontplofbare stoffen in de andere installatie.</al>
+      <al>Voor alle duidelijkheid is in het eerste lid van artikel 2.3 tevens de
+toevoeging «ongeacht de hiermee beoogde handelingen» opgenomen.
+Met deze toevoeging wordt nogmaals benadrukt dat ook installaties die bestemd
+zijn voor (tijdelijke) opslag van gevaarlijke stoffen onder de ARIE-regeling
+vallen.</al>
+      <al>In het eerste lid van artikel 2.3 wordt tevens gesproken over de gevaarlijke
+stoffen die als gevolg van het onbeheersbaar worden van een proces kunnen
+worden gevormd. Indien zich een incident of bijna-incident voordoet waarbij
+gevaarlijke stoffen op deze manier zijn gevormd (of hadden kunnen worden gevormd)
+wordt met deze toevoeging categoraal de mogelijkheid geboden om extra maatregelen
+te eisen bij vergelijkbare situaties. Een voorbeeld van een dergelijke situatie
+is de ramp die in 1976 bij het Italiaanse plaatsje Seveso plaatsvond. In een
+nabijgelegen fabriek werd dioxine normaal gesproken in zeer lage concentraties
+gevormd als ongewenst bijproduct van de productie van herbiciden. Het chemische
+proces raakte echter buiten controle, waardoor de temperatuur sterk opliep
+en een grote hoeveelheid dioxine gevormd werd die in de omgeving werd uitgestoten.
+Met deze informatie in het achterhoofd kunnen op grond van het eerste lid
+van artikel 2.3 maatregelen worden gevraagd bij vergelijkbare installaties
+om herhaling van een dergelijk incident te voorkomen.</al>
+      <al>In het derde lid van artikel 2.3 is bepaald dat wanneer ten aanzien van
+een bedrijf of inrichting op grond van het eerste lid afdeling 2 van toepassing
+is, deze voorschriften eveneens van toepassing zijn op arbeidsplaatsen gelegen
+in de nabijheid van het bedrijfsterrein. Hierbij kan worden gedacht aan de
+situatie dat werknemers van een stuwadoorsbedrijf zeeschepen laden en lossen
+op een locatie net buiten het bedrijfsterrein. Het gaat derhalve om het laden
+en lossen van gevaarlijke stoffen en het transport hiervan naar en van het
+ARIE-plichtige bedrijf. Hoewel de arbeid feitelijk wordt verricht
+buiten het bedrijfsterrein, is de werkgever verantwoordelijk voor deze arbeidsplaats.
+Ook deze activiteiten die worden verricht net buiten het bedrijfsterrein,
+is van belang voor de identificatie en beheersing van de veiligheidsrisico's
+van het bedrijf of de inrichting.</al>
+      <witreg></witreg>
+      <al>Om te bepalen of een bedrijf onder de werkingssfeer valt van afdeling
+2 dienen op grond van artikel 2.3 berekeningen te worden gemaakt. Dit is niet
+nieuw, ook in het kader van het AVR werden op grond van art. 2.3 (oud) vergelijkbare
+berekeningen gemaakt voor de vaststelling of er sprake was van een AVR-plicht.</al>
+      <witreg></witreg>
+      <al>Voor bedrijven met installaties, waarin zich één gevaarlijke
+stof of een groep stoffen met identieke grenswaarde onder dezelfde omstandigheden
+bevindt (bijvoorbeeld een opslagtank), is, zoals hiervoor reeds vermeld, deze
+afdeling van toepassing, indien de hoeveelheid gevaarlijke stof(fen) maal
+de omstandigheidsfactor(en) gelijk is aan of groter is dan de grenswaarde.
+In formulevorm:</al>
+      <witreg></witreg>
+      <al>Q x O ≥ G of wel Q<inf>corr.</inf> ≥ G</al>
+      <witreg></witreg>
+      <al>Voor installaties met één gevaarlijke stof of een groep
+stoffen met identieke grenswaarde onder verschillende omstandigheden (deel
+binnen betreedbare omhulling, deel buiten, verschillen in temperatuur) geldt
+dat elke, onder dezelfde omstandigheden verkerende, deelhoeveelheid gevaarlijke
+stof moet worden vermenigvuldigd met de relevante omstandigheidsfactor(en)
+en dat de som hiervan moet worden vergeleken met de grenswaarde.</al>
+      <al>In formulevorm:</al>
+      <witreg></witreg>
+      <al>Q<inf>1 corr.</inf> + Q<inf>2 corr.</inf> + .... Q<inf>n corr.</inf> ≥
+G</al>
+      <witreg></witreg>
+      <al>Voor de installaties waarin zich gevaarlijke stoffen met verschillende
+grenswaarden bevinden moet per gevarensoort een gewogen sommatie worden uitgevoerd
+om na te gaan of de betrokken installatie al dan niet is aangewezen. In formulevorm:</al>
+      <witreg></witreg>
+      <al>Q<inf>a corr.</inf> Q<inf>b corr.</inf> ...Q<inf>m corr.</inf></al>
+      <al>-------- + -------- + -----------  ≥ 1</al>
+      <al>   Ga         Gb          Gm</al>
+      <witreg></witreg>
+      <al>Bij ontplofbare stoffen (onder deze categorie zijn ook mengsels begrepen)
+schuilt het gevaar in de stof zelf in die zin dat de stof niet eerst vrij
+hoeft te komen alvorens het gevaar voor werknemers manifest kan worden. Voor
+deze groep van stoffen zijn de heersende omstandigheden dan ook niet relevant
+en worden geen omstandigheidsfactoren in rekening gebracht.</al>
+      <al>Met betrekking tot een juiste bepaling of de voorschriften van afdeling
+2 van toepassing zijn, zal de bestaande beleidsregel 2 van de beleidsregels
+arbeidsomstandighedenbesluit die betrekking heeft op het arbeidsveiligheidsrapport
+(Beleidsregels arbeidsomstandighedenwetgeving) in overeenstemming worden gebracht
+met de wijzigingen van het onderhavige besluit.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel E (artikel 2.3a)</tuskop>
+      <al>In dit artikel is bepaald dat met betrekking tot zogenoemde vervoergebonden
+inrichtingen waarin gevaarlijke stoffen krachtens vergunning op grond van
+artikel 8.1 van de Wet milieubeheer (Wm) aanwezig mogen zijn,
+voor de toepassing van afdeling 2 van hoofdstuk 2 de berekening van de hoeveelheid
+gevaarlijke stoffen, bedoeld in artikel 2.3 achterwege kan blijven. Dit heeft
+een praktische reden. Vanwege de sterk wisselende en vooraf moeilijk voorspelbare
+aanwezigheid van gevaarlijke stoffen qua aard en omvang bij dit type bedrijven
+is de aanwijssystematiek van de ARIE-regeling niet geschikt. Derhalve is ervoor
+gekozen bij vervoergebonden inrichtingen geen ondergrens te hanteren. Bedrijven
+die de mogelijkheid hebben gevaarlijke stoffen te hanteren, dienen zich op
+de bijkomende risico's voor te bereiden door het voldoen aan de ARIE-verplichtingen.
+Indien vervoergebonden inrichtingen derhalve beschikken of behoren te beschikken
+over de hiervoor bedoelde milieuvergunning, dan is hiermee de toepasselijkheid
+van afdeling 2 gegeven. Dit neemt niet weg dat deze bedrijven, voor zover
+dat mogelijk is, de bedoelde berekening wel kunnen uitvoeren en hiermee kunnen
+aantonen dat de ondergrens niet wordt overschreden, zodat op grond van artikel
+2.3 afdeling 2 van hoofdstuk 2 niet van toepassing is.</al>
+      <al>De berekening, bedoeld in artikel 2.3, kan achterwege blijven indien het
+gaat om een inrichting die:</al>
+      <al>a. bestemd is voor de opslag in verband met vervoer van gevaarlijke stoffen,</al>
+      <al>b. behoort tot een categorie die op grond van artikel 1.1, derde lid,
+van de Wm bij algemene maatregel van bestuur is aangewezen, en</al>
+      <al>c. beschikt over een vergunning op grond van artikel 8.1 van de Wm op
+grond waarvan gevaarlijke stoffen aanwezig mogen zijn.</al>
+      <tuskop letat="cur">Ad a: opslag in verband met vervoer van gevaarlijke stoffen.</tuskop>
+      <al>De inrichtingen moeten zijn bestemd voor de opslag in verband met vervoer
+van gevaarlijke stoffen. In het eerste lid is bepaald wat hieronder wordt
+verstaan. Bij deze definitie is aansluiting gezocht bij de definitie in artikel
+1, onder c, van het Besluit risico's zware ongevallen 1999. Gedacht moet worden
+aan spoorwegemplacementen, stuwadoorsbedrijven en Wm-vergunningplichtige transportbedrijven
+waar sprake is van kortstondige opslag van gevaarlijke stoffen. Kenmerkend
+voor deze inrichtingen is dat gevaarlijke stoffen daarin kortstondig aanwezig
+zijn om direct met het vervoer samenhangende redenen. Blijkens de definitie
+moet aan de volgende voorwaarden zijn voldaan:</al>
+      <al>a. er is sprake van een kortstondige aanwezigheid van verpakte gevaarlijke
+stoffen,</al>
+      <al>b. aansluitend vervoer is daadwerkelijk geregeld (de ontvanger is dus
+bekend), en</al>
+      <al>c. de gevaarlijke stoffen blijven in hun oorspronkelijke (dat wil zeggen:
+vervoers)verpakking.</al>
+      <al>Vervoergebonden inrichtingen waarin tevens gevaarlijke stoffen worden
+opgeslagen:</al>
+      <al>– uit een oogpunt van voorraadbeheer,</al>
+      <al>– ter bewaring in opdracht van derden,</al>
+      <al>– met het oog op aflevering aan nog onbekende afnemers, of</al>
+      <al>– met het oog op aflevering aan bekende afnemers op termijn waarbij
+het vervoersproces duidelijk wordt onderbroken, dienen derhalve wel de berekening,
+bedoeld in artikel 2.3, uit te voeren om te bepalen of paragraaf 2 van
+hoofdstuk 2 van toepassing is. Dit geldt eveneens indien bij het vervoer de
+verpakking van de betrokken gevaarlijke stof(fen) waarop de gevaarsaanduiding
+en etikettering is aangebracht, wordt aangetast.</al>
+      <tuskop letat="cur">Ad b en c: aanwijzing en vergunning krachtens de Wm.</tuskop>
+      <al>Op grond van artikel 1.1, derde lid, van de Wm worden bij algemene maatregel
+van bestuur categorieën van inrichtingen aangewezen, die nadelige gevolgen
+voor het milieu kunnen veroorzaken. Deze categorieën zijn aangewezen
+in het Inrichtingen- en vergunningenbesluit milieubeheer. Voor
+deze inrichtingen is in beginsel een milieuvergunning vereist. Hierbij gaat
+het bijvoorbeeld om vervoergebonden inrichtingen waarin bepaalde hoeveelheden
+gevaarlijke stoffen aanwezig zijn. De vergunningplicht geldt niet voor categorieën
+van inrichtingen ten aanzien waarvan op grond van artikel 8.40 van de Wm algemene
+regels zijn gesteld. Dit is bijvoorbeeld het geval voor inrichtingen waarop
+het Besluit opslag- en transportbedrijven milieubeheer van toepassing is.
+Hierbij gaat het bijvoorbeeld om bedrijven die minder grote hoeveelheden gevaarlijke
+stoffen voorhanden hebben of mogen hebben.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel F (artikel 2.3b)</tuskop>
+      <al>In het eerste lid, onder a, is bepaald dat de voorschriften van afdeling
+2 van hoofdstuk 2 niet van toepassing zijn op bedrijven of inrichtingen waarop
+paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing
+is. Dit zijn de bedrijven en inrichtingen waar een veiligheidsrapport aanwezig
+moeten zijn (veiligheidsrapportinrichtingen). Er geldt een uitzondering voor
+artikel 2.5f met betrekking tot het informeren van naburige bedrijven omtrent
+veiligheidsrisico's en het gebruik maken van informatie omtrent veiligheidsrisico's
+van naburige bedrijven voor het eigen veiligheidsbeleid.</al>
+      <al>De voorschriften van afdeling 2 van hoofdstuk 2 kunnen dus wel van toepassing
+zijn op bedrijven en inrichtingen waarop tevens paragraaf 2 van het Besluit
+risico's zware ongevallen 1999 van toepassing is. Dit zijn de inrichtingen
+waar een document met betrekking tot het beleid ter voorkoming van zware ongevallen,
+het zogenaamde PBZO-document voorhanden moet zijn en die een veiligheidsbeheerssysteem
+moeten invoeren (PBZO-inrichtingen). Omdat in artikel 2.5a, eerste en tweede
+lid, is voorzien in equivalente verplichtingen, is, teneinde samenloop van
+deze verplichtingen te voorkomen, in het tweede lid bepaald dat bedoelde voorschriften
+niet van toepassing zijn op deze PBZO-inrichtingen. Inrichtingen ten aanzien
+waarvan zowel afdeling 2 van het Arbobesluit als paragraaf 2 van het
+Besluit risico's zware ongevallen 1999 van toepassing is, dienen dus zowel
+een PBZO-document op te stellen, als een aanvullende risico-inventarisatie
+en -evaluatie als bedoeld in artikel 2.5b. In het eerste lid, onder b, is
+bepaald dat afdeling 2 niet van toepassing is op inrichtingen waarop het Besluit
+opslag- en transportbedrijven milieubeheer van toepassing is. Hierbij gaat
+het om bedrijven waar doorgaans sprake is van minder grote hoeveelheden gevaarlijke
+stoffen. Om te voorkomen dat deze bedrijven steeds de berekening, bedoeld
+in artikel 2.3, moeten maken om vast te stellen dat afdeling 2 niet van toepassing
+is, is in dit onderdeel aangegeven dat voor deze bedrijven afdeling 2 niet
+van toepassing is. Uiteraard is deze afdeling evenmin van toepassing op vervoergebonden
+inrichtingen die de mogelijkheid hebben uitgesloten om gevaarlijke stoffen
+te hanteren, bijvoorbeeld doordat ze geen Wm-vergunning voor het afhandelen
+van gevaarlijke stoffen hebben en ook niet vallen onder de werkingssfeer van
+Besluit opslag- en transportbedrijven milieubeheer. Overigens zij er op gewezen
+dat ingevolge artikel 2.44 ten aanzien van arbeid in het kader van het feitelijke
+transport, afdeling 2 van hoofdstuk 2 ook niet van toepassing is.</al>
+      <al>In het eerste lid, onder c, is bepaald dat afdeling 2 evenmin van toepassing
+is op arbeid verricht in de ondergrondse winningsindustrie en de winningsindustrie
+die delfstoffen wint met behulp van boringen. In plaats van een aanvullende
+risico-inventarisatie en -evaluatie dient voor deze industrieën een veiligheids-
+en gezondheidsdocument te worden opgesteld als bedoeld in de artikelen 2.42
+en 2.42f van het Arbobesluit. Hiermee is deze uitzondering in lijn gebracht
+met de bestaande uitzondering in (het thans vervallen) artikel 2.2a waarbij
+was bepaald dat voor bedoelde mijnbouwsectoren de regelgeving
+omtrent het arbeidsveiligheidsrapport niet van toepassing was.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel G</tuskop>
+      <tuskop letat="vet">Artikel 2.5a (Beleid inzake zware ongevallen)</tuskop>
+      <al>Voor de bedrijven of inrichtingen waarop de voorschriften van afdeling
+2 van hoofdstuk 2 van toepassing zijn, is naast deze voorschriften ook de
+algemene verplichting van artikel 6, eerste lid, eerste volzin, van de wet
+van toepassing. Ingevolge deze verplichting dient de werkgever bij het voeren
+van het arbeidsomstandighedenbeleid alle maatregelen te nemen die nodig zijn
+ter voorkoming en beperking van zware ongevallen waarbij gevaarlijke stoffen
+zijn betrokken en de gevolgen daarvan voor de veiligheid en de gezondheid
+van de in het bedrijf, de inrichting of deel daarvan werkzame werknemers.
+Dit algemene preventiebeleid dient op grond van artikel 2.5a, eerste lid,
+op schrift te worden gesteld. Het preventiebeleid wordt bij voorkeur geconcretiseerd,
+bijvoorbeeld door aan te geven met welke frequentie gevaarlijke stoffen zouden
+kunnen vrijkomen bij het gevoerde beleid, en wat het effect daarvan op de
+werknemers zal zijn (de blootstelling). Het preventiebeleid moet borg staan
+voor een hoog beschermingsniveau voor werknemers en moet voorzien in passende,
+dat wil zeggen op de risico's van het betrokken bedrijf toegesneden maatregelen
+en structuren. Vervolgens wordt voor de uitvoering van dit beleid op grond
+van het tweede lid een zogenaamd veiligheidsbeheerssysteem ingevoerd. Bij
+ministeriële regeling worden nadere regels gesteld met betrekking tot
+de inhoud van een veiligheidsbeheerssysteem. De zwaarte van de invulling van
+de elementen van het veiligheidsbeheerssysteem wordt gebaseerd op de risico-inventarisatie
+en -evaluatie, op zodanige wijze dat het veiligheidsbeheerssysteem is toegerust
+voor de specifieke risico's in het betreffende bedrijf. Op grond hiervan zal
+een zodanig beheerssysteem onder andere de toedeling van taken en verantwoordelijkheden
+van de werknemers, de organisatorische structuur, de gebruiken, de procedures,
+de procédés en de hulpmiddelen, gericht op het voorkomen en
+beheersen van zware ongevallen omvatten.</al>
+      <tuskop letat="vet">Artikel 2.5b (Aanvullende voorschriften risico-inventarisatie
+en -evaluatie)</tuskop>
+      <al>Op grond van artikel 5 van de wet dient elke werkgever in een risico-inventarisatie
+en -evaluatie schriftelijk vast te leggen welke risico's de arbeid voor de
+werknemers met zich brengt en de maatregelen die zijn getroffen om deze risico's
+te beperken. In aanvulling op deze algemene verplichting worden in het onderhavige
+artikel aanvullende voorschriften gegeven met betrekking tot de risico-inventarisatie
+en -evaluatie van veiligheidsrisico's van zware ongevallen met gevaarlijke
+stoffen (ARIE). Deze ARIE-verplichting treedt in de plaats van de thans vervallen
+AVR-regeling. De aanvullende verplichting is gebaseerd op artikel 6, eerste
+lid, onder c, van de wet op grond waarvan de werkgever maatregelen moet nemen
+ter voorkoming of beperking van zware ongevallen met gevaarlijke stoffen.</al>
+      <al>De begrippen gevaar en risico zijn nauw met elkaar verbonden. Met het
+begrip «gevaar» wordt in het kader van deze wetgeving bedoeld
+de inherente eigenschap van een stof gezondheidsschade te kunnen veroorzaken.
+Hierbij worden drie soorten gevaren onderscheiden: (extreme) toxiciteit, ontplofbaarheid
+en brandbaarheid. Met het begrip «risico» wordt de combinatie
+bedoeld van de kans dat gevaarlijke stoffen vrijkomen en het effect dat ze
+veroorzaken (de ernst van de gezondheidsschade). Oftewel: risico
+= kans x effect. Op grond van het eerste lid dienen systematisch de risico's
+van zware ongevallen met gevaarlijke stoffen geïdentificeerd en geëvalueerd
+te worden aan de hand van procedures die de werkgever dient op te stellen.
+Hierbij dienen allereerst de gevaren van de aanwezige gevaarlijke stoffen
+op systematische wijze in kaart te worden gebracht, en vervolgens dient gekeken
+te worden naar de kans dat deze stoffen vrijkomen en het effect van het vrijkomen.
+Op basis hiervan worden de risico's bepaald. De risico's worden geëvalueerd
+aan de hand van de criteria die in het beleid inzake de beheersing van de
+risico's van zware ongevallen zijn vastgelegd. Op grond van het vijfde lid
+worden bij ministeriële regeling nadere eisen gesteld aan de risico-inventarisatie
+en -evaluatie. Bij de inventarisatie van mogelijke gevaren voor de veiligheid
+van de werknemer, dient tevens rekening te worden gehouden met de aanwezigheid
+van «gewone stoffen», die volgens de definitie in artikel 2.2
+niet onder de «gevaarlijke stoffen» vallen maar onder bepaalde
+omstandigheden van invloed zijn op het risico van zware ongevallen met gevaarlijke
+stoffen. Met andere woorden: de aanwezigheid van deze «gewone»
+stoffen maakt de kans op een zwaar ongeval met gevaarlijke stoffen groter,
+of versterkt het effect ervan. Deze risico's kunnen direct betrekking hebben
+op de gezondheid van de werknemer, maar ook indirect door bijvoorbeeld het
+beschadigen van installaties met gevaarlijke stoffen. Hierbij kan bijvoorbeeld
+gedacht worden aan de opslag van «gewone» brandbare stoffen (zoals
+houtkrullen) in de buurt van gevaarlijke stoffen, of de mogelijkheid van stofexplosies
+van «gewone stoffen».</al>
+      <al>Op grond van het eerste lid, onder b, dienen door de werkgever in het
+kader van de ARIE-verplichting scenario's te worden beschreven. Op grond van
+het vijfde lid worden bij ministeriële regeling nadere eisen gesteld
+aan deze scenariobeschrijvingen. Een scenariobeschrijving geeft de relatie
+weer tussen mogelijke ongewenste gebeurtenissen en de maatregelen die zijn
+getroffen om deze ongewenste gebeurtenissen te voorkomen of de gevolgen ervan
+te beperken. Centraal in het scenario staat het ongewenst vrijkomen van gevaarlijke
+stoffen, het zogenoemde «loss of containment». Voor ontplofbare
+stoffen zal dit meestal samenvallen met explosie of detonatie. Het scenario
+beschrijft een opeenvolging van gebeurtenissen die leidt tot het «loss
+of containment», en de opeenvolging van gebeurtenissen die op het «loss
+of containment» volgt (de effecten). Bij de keuze van de scenario's
+wordt rekening gehouden met externe gevaren voor de installatie. Hiermee worden
+alle voorzienbare gevaren bedoeld die hun oorsprong buiten de installatie
+vinden. Hierbij kan gedacht worden aan de effecten van een explosie of brand
+in een nabijgelegen installatie of in een nabijgelegen ander bedrijf of inrichting,
+overstroming van een nabijgelegen rivier en dergelijke. Tevens moet de beschrijving
+inzicht geven in de mogelijkheid van het optreden van dat scenario en het
+effect van een plaatsgevonden zwaar ongeval.</al>
+      <al>Een systematische benadering van de ongewenste gebeurtenissen impliceert
+de behandeling van alle mogelijke directe oorzaken die kunnen leiden tot een
+«loss of containment» (bijvoorbeeld corrosie, erosie, drukverschillen,
+temperatuur, menselijke fouten). In de beschrijving van het scenario moet
+de directe oorzaak expliciet worden vermeld.</al>
+      <al>Vervolgens dienen op basis van de risico-inventarisatie en -evaluatie
+door de werkgever op grond van het tweede lid, onder a, ter voorkoming van
+een zwaar ongeval de concrete technische en organisatorische maatregelen te
+worden getroffen om de veilige werking van de installaties te garanderen.
+Voorts dienen op grond van het tweede lid, onder b, alle noodzakelijke technische
+en organisatorische maatregelen te worden getroffen om de gevolgen van een
+zwaar ongeval zoveel mogelijk te beperken. Volledigheidshalve zij er op gewezen
+dat overtreding van de verplichting tot het treffen van preventieve en repressieve
+maatregelen strafrechtelijk is gesanctioneerd. Op grond van het derde lid
+worden deze preventieve en repressieve maatregelen opgenomen
+in de scenariobeschrijvingen. Om aan te tonen dat benodigde maatregelen zijn
+getroffen ter voorkoming van een zwaar ongeval dient in de beschrijving van
+deze maatregelen ingegaan te worden op maatregelen tegen ieder van deze directe
+oorzaken.</al>
+      <al>Met betrekking tot de relatie tussen de risico-inventarisatie en -evaluatie,
+bedoeld in artikel 5 van de wet en de ARIE wordt er op gewezen dat de onderhavige
+verplichtingen een specifieke invulling geven aan de risico-inventarisatie
+en -evaluatie waar het gaat om de aanwezigheid van grote hoeveelheden gevaarlijke
+stoffen. Overtredingen van voorschriften van afdeling 2 van hoofdstuk 2 (waar
+artikel 2.5b deel van uitmaakt) die zijn gebaseerd op artikel 6 van de wet,
+worden strafrechtelijk gesanctioneerd (zie artikel 9.9a). De noodzakelijk
+te treffen nieuwe maatregelen die uit de ARIE voortvloeien, worden opgenomen
+in het plan van aanpak, bedoeld in artikel 5, derde lid, van de wet. Hierbij
+gaat het om een operationalisering van de te treffen maatregelen. Hierin wordt
+vermeld op welke wijze en binnen welke termijn uitvoering wordt gegeven aan
+de maatregelen waarover overleg wordt gevoerd met het medezeggenschapsorgaan.
+Wanneer uit een geactualiseerde ARIE de noodzaak is gebleken tot het treffen
+van aanvullende maatregelen, dan worden ook deze maatregelen opgenomen in
+het plan van aanpak. Dit kunnen zowel technische als organisatorische maatregelen
+betreffen. In tegenstelling tot overtredingen van voorschriften van afdeling
+2 van hoofdstuk 2 wordt het niet hebben van een plan van aanpak in beginsel
+gesanctioneerd met een bestuurlijke boete (artikel 33, eerste lid, van de
+wet).</al>
+      <al>Met de scenariobeschrijvingen en de getroffen maatregelen dient worden
+aangetoond dat de risico's met betrekking tot zware ongevallen op adequate
+wijze worden beheerst. Bij de periodieke evaluatie van de risico-evaluatie
+worden nieuwe scenario's opgesteld om op deze wijze het inzicht in de risicobeheersing
+te verdiepen.</al>
+      <tuskop letat="vet">Artikel 2.5c (Intern noodplan)</tuskop>
+      <al>In het intern noodplan wordt informatie opgenomen die betrekking heeft
+op de uit te voeren maatregelen wanneer zich een zwaar ongeval heeft voorgedaan
+en die gericht zijn op het beperken en beheersen van zware ongevallen en de
+gevolgen ervan voor de werknemers. De aard en omvang van de te nemen maatregelen
+zijn afhankelijk van de evaluatie van de risico's van zware ongevallen met
+gevaarlijke stoffen binnen het bedrijf of de inrichting. Bij ministeriële
+regeling op grond van het vijfde lid zal nader worden bepaald welke gegevens
+en beschrijvingen in ieder geval in een intern noodplan moeten worden opgenomen.
+Hierbij wordt bijvoorbeeld gedacht aan informatie over wie bevoegd is noodprocedures
+in werking te laten treden, wie de leiding en coördinatie van de maatregelen
+bij ongevallen heeft en de informatie aan werknemers hoe te handelen bij calamiteiten.
+Voorts een beschrijving van maatregelen ter beheersing van de toestand en
+ter beperking van de gevolgen daarvan, met inbegrip van de beschikbare veiligheidsuitrusting
+en middelen. Het intern noodplan dient ten minste eenmaal in de drie jaar
+in de praktijk te worden getest, beoordeeld en zo nodig gewijzigd. Bij de
+evaluatie wordt rekening gehouden met veranderingen die zich binnen het bedrijf
+hebben voorgedaan, en met nieuwe kennis en inzichten omtrent de bij een zwaar
+ongeval te nemen maatregelen (zie artikel 2.5d, eerste lid). Op grond van
+het tweede lid wordt het medezeggenschapsorgaan, of bij het ontbreken hiervan,
+de betrokken werknemers, betrokken bij de opstelling van het intern noodplan.
+Volledigheidshalve zij nog vermeld dat het medezeggenschapsorgaan op grond
+van artikel 27 van de Wet op de ondernemingsraden instemmingsrecht heeft bij
+de vaststelling van het noodplan. Bij het ontbreken van een medezeggenschapsorgaan
+hebben de belanghebbende werknemers adviesrecht (artikel 35b
+van de WOR). Uiteraard is het van belang dat de maatregelen op basis van het
+noodplan helder worden gecommuniceerd met de deskundige werknemers, andere
+personen en diensten die de werkgever ondersteunen bij het arbeidsomstandighedenbeleid
+alsmede de bedrijfshulpverleners en externe hulpverleningsinstanties. Op grond
+van het vierde lid kunnen deze deskundigen en hulpverleners kennis nemen van
+de inhoud van het noodplan.</al>
+      <tuskop letat="vet">Artikel 2.5d (Wijzigingen en periodieke evaluatie)</tuskop>
+      <al>De formulering van een veiligheidsbeleid ter voorkoming van zware ongevallen
+waarbij gevaarlijke stoffen zijn betrokken is niet een eenmalige aangelegenheid.
+In het bijzonder wanneer de toegepaste arbeidsprocedures en productiemethoden
+veranderingen ondergaan die belangrijke gevolgen kunnen hebben voor de veiligheidsrisico's,
+of wanneer de veiligheidsinzichten veranderen, is het van groot belang dat
+het veiligheidsbeleid, het veiligheidsbeheerssysteem, de identificatie van
+gevaren, de beoordeling van risico's op zware ongevallen en de scenariobeschrijvingen
+opnieuw worden beoordeeld en indien nodig herzien. Vervolgens worden de preventieve
+maatregelen om zware ongevallen te voorkomen en de repressieve maatregelen
+bij calamiteiten zo nodig herzien. De gewijzigde maatregelen worden opgenomen
+in het plan van aanpak als bedoeld in artikel 5, derde lid, van de wet, hetgeen
+met zich mee brengt dat ook een termijn moet worden aangeven waarbinnen deze
+maatregelen worden genomen. Los van de eventuele wijzigingen als bedoeld in
+het eerste lid, wordt op grond van het tweede lid de aanvullende risico-inventarisatie
+en -evaluatie eenmaal in de vijf jaar uitgevoerd. Bij de periodieke beoordeling
+van de risico-evaluatie worden zo mogelijk nieuwe scenario's opgesteld om
+op deze wijze het inzicht in de risicobeheersing te verdiepen. Indien uit
+deze evaluatie nieuwe maatregelen voortvloeien, worden deze opgenomen in het
+plan van aanpak.</al>
+      <tuskop letat="vet">Artikel 2.5e (Deskundige bijstand)</tuskop>
+      <al>In artikel 14 van de wet is aangegeven dat de werkgever zich ten aanzien
+van de uitvoering van wettelijke verplichtingen laat bijstaan door deskundigen.
+In het derde lid van artikel 14 is een aantal verplichtingen opgenomen ten
+aanzien waarvan de werkgever zich in elk geval laat bijstaan door deskundigen.
+Ten aanzien van een aantal van deze wettelijke taken is voorgeschreven dat
+de werkgever zich laat bijstaan door een arbodienst. Hierbij gaat het bijvoorbeeld
+om het verlenen van medewerking aan het verrichten en opstellen van een risico-inventarisatie
+en -evaluatie als bedoeld in artikel 5 van de wet. In aanvulling op artikel
+14, derde lid, is in het onderhavige artikel voorgeschreven dat met betrekking
+tot de in het eerste lid bedoelde taken de werkgever zich eveneens laat bijstaan
+door een arbodienst. Het is voor een adequate preventie van zware ongevallen
+van eminent belang dat de verplichtingen van de werkgever in het kader van
+de ARIE-regeling op een kwalitatief hoog niveau worden nagekomen. Dit brengt
+met zich mee dat professionele ondersteuning bij de uitvoering van de bedoelde
+taken onontbeerlijk is.</al>
+      <tuskop letat="vet">Artikel 2.5f (Naburige bedrijven of inrichtingen)</tuskop>
+      <al>Een zwaar ongeval kan tevens effecten hebben in bedrijven en inrichtingen
+die zich bevinden in de buurt van het bedrijf waar het ongeval zich voordoet.
+Om werkgevers in staat te stellen passende maatregelen ter bescherming van
+hun werknemers te nemen, is in het onderhavige artikel een informatieverplichting
+opgenomen. Deze informatieverplichting voor de werkgever beperkt
+zich dus niet tot naburige inrichtingen waar een «domino-effect»
+kan optreden, maar geldt voor alle naburige inrichtingen binnen de voorzienbare
+effectradius van een zwaar ongeval. De werkgever verstrekt uit eigen beweging
+gegevens aan de naburige bedrijven die noodzakelijk zijn voor de beoordeling
+van veiligheidsrisico's bij die bedrijven. Op grond van artikel 5 van de wet
+is iedere werkgever verplicht gebruik te maken van deze informatie omtrent
+veiligheidsrisico's van naburige bedrijven voor het eigen arbobeleid.</al>
+      <al>Het gaat hierbij om globale informatie over de relevante risico's. Hierbij
+valt te denken aan informatie over de aard van het gevaar (bijvoorbeeld een
+toxische gaswolk), direct waarneembare effecten (bijvoorbeeld de stof werkt
+prikkelend op de ademhaling) en een advies over te nemen maatregelen (bijvoorbeeld
+binnen blijven).</al>
+      <al>Uiteraard is het niet de bedoeling dat op grond van dit artikel bedrijfsgeheimen
+of staatsgeheime informatie openbaar zou moeten worden gemaakt. Voor defensie-inrichtingen
+is artikel 1.27 onverminderd van kracht.</al>
+      <al>Bij het beoordelen van een mogelijk risico voor naburige bedrijven kan
+gebruik worden gemaakt van informatie die al voor handen is naar aanleiding
+van eventuele verplichtingen uit milieuwetgeving. Als de informatie niet voorhanden
+is, zal een kwalitatieve inschatting gemaakt moeten worden. Hierbij kan bijvoorbeeld
+gebruik gemaakt worden van het instrument «domino-effecten», of
+grootste effect scenario's.</al>
+      <tuskop letat="vet">Artikel 2.5g (Melding en doorgeleiding)</tuskop>
+      <al>Met het oog op een adequate handhaving van de naleving van de voorschriften
+is in het onderhavige artikel een meldingsverplichting opgenomen die is gebaseerd
+op artikel 6, eerste lid, onder f, van de wet. De werkgever dient aan de arbeidsinspectie
+te melden wanneer afdeling 2 van hoofdstuk 2 van toepassing is op het bedrijf.
+Deze melding wordt vervolgens door de arbeidsinspectie doorgezonden naar een
+aantal relevante overheden. Ongevallen met grote hoeveelheden gevaarlijke
+stoffen kunnen naast gevolgen voor de arbeidsveiligheid tevens consequenties
+hebben voor het milieu en de veiligheid buiten het bedrijf. Ook hangen maatregelen
+ter voorkoming en beperking van de gevolgen op deze drie veiligheidsgebieden
+sterk met elkaar samen. Om deze reden is het wenselijk dat de verantwoordelijke
+overheden bij deze bedrijven zoveel mogelijk samenwerken. In (het thans vervallen)
+artikel 2.2c met betrekking tot de AVR-regeling werd bepaald dat de arbeidsinspectie
+een afschrift van het arbeidsveiligheidsrapport zond aan de regionale inspecteur
+voor de volksgezondheid, het bevoegd gezag krachtens de Wet milieubeheer,
+het bestuur van de gemeente of provincie en van de regionale brandweer. In
+het onderhavige artikel wordt bepaald dat de arbeidsinspectie een kopie van
+de melding van de werkgever zendt aan het bevoegd gezag krachten de Wet milieubeheer,
+burgemeester en wethouders en de regionale brandweer. Tevens zullen de inspecties
+waar nodig in samenwerking met het bevoegd gezag krachtens de Wet milieubeheer
+en de brandweer worden uitgevoerd.</al>
+      <al>Bij inspectie zal worden gekeken of de werkgever kan aantonen dat passende
+maatregelen zijn getroffen om zware ongevallen te voorkomen en om de gevolgen
+van een zwaar ongeval binnen het bedrijf te beperken. Voor de inspectiefrequentie
+zal door de arbeidsinspectie een inspectieprogramma worden opgesteld waarmee
+een systematisch en planmatig onderzoek van de in het bedrijf gebruikte systemen
+van technische en organisatorische aard kan worden uitgevoerd. </al>
+      <tuskop letat="vet">Artikel 2.5h (Exploitatieverbod)</tuskop>
+      <al>De inbedrijfstelling en exploitatie van een bedrijf of inrichting of een
+deel daarvan is verboden, indien de werkgever de in dit artikel vermelde essentiële
+verplichtingen in de sfeer van de voorkoming van zware ongevallen, of ter
+beperking van de gevolgen daarvan niet of onvoldoende is nagekomen. Bij overtreding
+van dit verbod kan door de arbeidsinspectie proces-verbaal worden opgemaakt,
+indien nodig met toepassing van artikel 28 van de wet (stillegging van werk).
+Een equivalente bepaling was reeds opgenomen in het thans vervallen artikel
+2.2d.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel H (artikel 2.6)</tuskop>
+      <al>Indien het om arbeid gaat waaraan bijzondere gevaren verbonden zijn, kan
+op grond van artikel 16, zevende lid, van de wet bij algemene maatregel van
+bestuur geregeld worden dat bepaalde voorschriften, naast werkgevers, ook
+door zelfstandig werkenden moeten worden nageleefd. De betreffende voorschriften
+van paragraaf 2 van hoofdstuk 2 hebben tot doel om zware ongevallen waarbij
+gevaarlijke stoffen zijn betrokken te voorkomen of te beperken. Hierbij is
+de aanwezige hoeveelheid gevaarlijke stoffen bepalend voor de toepasbaarheid
+van de regeling. Deze voorschriften moeten op grond van het onderhavige artikel
+ook worden nageleefd door zelfstandig werkenden. Naast de betreffende bepalingen
+van paragraaf 2 is voorts een aantal bepalingen van de wet van overeenkomstige
+toepassing verklaard op de zelfstandig werkende.</al>
+      <al>In dit verband wordt er op gewezen dat artikel 10 van de wet (het voorkomen
+van gevaar voor andere personen dan werknemers) van toepassing is verklaard
+op zelfstandigen. Dit betekent dat ook een zelfstandige die een bedrijf exploiteert
+waarop afdeling 2 van hoofdstuk 2 van toepassing is verantwoordelijk is voor
+de zorg voor veiligheid en gezondheid van personen in zijn bedrijf of inrichting
+of in de onmiddellijke omgeving daarvan. Dit sluit aan bij de verplichting
+ingevolge artikel 2.5f om rekening te houden met veiligheidsrisico's van naburige
+bedrijven en om deze bedrijven te informeren over de eigen veiligheidsrisico's.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel I (artikel 2.44)</tuskop>
+      <al>De bestaande uitzondering ten aanzien van arbeid, verricht in onderscheidenlijk
+op een luchtvaartuig, een zeeschip of een binnenvaartuig dan wel een voertuig
+op een openbare weg of een spoor- of tramweg is na overleg met de branche
+uitgebreid met de voorschriften van afdeling 2.</al>
+      <al>De AVR-regeling was tot 1 januari 2002 niet van toepassing op arbeid verricht
+in respectievelijk op een luchtvaartuig, een zeeschip of een binnenvaartuig
+dan wel een voertuig op een openbare weg of een spoor- of tramweg. Deze uitzonderingsbepaling
+is indertijd opgenomen om de resultaten van de invoering van het Safety management
+system door de IMO (Internationale Maritieme Organisatie) en de Europese Seveso
+II richtlijn af te wachten. Inmiddels kan geconstateerd worden dat de verplichtingen
+vanuit de IMO (geïmplementeerd in het Schepenbesluit 1965, bijlage VI)
+van een andere orde zijn dan de AVR en de ARIE-verplichtingen, en dat de Seveso
+II richtlijn de transportsector in zijn geheel uitsluit. Tevens kan echter
+worden geconstateerd dat de aard van de werkzaamheden tijdens het vervoer
+zich niet leent voor een aanpak overeenkomstig de ARIE-regeling. Voor vervoermiddelen
+wordt derhalve opnieuw een uitzondering gemaakt. In een vervolgtraject zal
+worden bezien of het noodzakelijk is om voor arbeid verricht op een voertuig waarmee grote hoeveelheden gevaarlijke stoffen worden vervoerd aanvullende
+bepalingen ten aanzien van de arbeidsveiligheid te stellen.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel J (artikel 3.5e)</tuskop>
+      <al>De verwijzing in artikel 3.5e naar het Besluit explosieveilig materieel
+is in overeenstemming gebracht met het Koninklijk besluit van 3 juli 2003
+tot wijziging van het Arbeidsomstandighedenbesluit en enkele op de Wet op
+de gevaarlijke werktuigen en de Warenwet gebaseerde algemene maatregelen van
+bestuur in verband met de integratie van de Wet op de gevaarlijke werktuigen
+in de Warenwet (Stb. 315), waarbij genoemd besluit is gewijzigd in Warenwetbesluit
+explosieveilig materieel.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel K (artikel 3.17)</tuskop>
+      <al>Artikel 3.17 had betrekking op het voorkomen en beperken van «het
+gevaar te worden getroffen door ongewild in beweging komende of vrijkomende
+voorwerpen, producten, vloeistoffen of gassen». Omdat in de praktijk
+is gebleken dat twijfel zou kunnen bestaan of bepaalde gevaarssituaties, zoals
+knelgevaar als gevolg van (gewild) in beweging gezette onderdelen van producten,
+onder dit of enig ander artikel van het Arbobesluit zouden vallen en dus niet
+aangepakt zouden kunnen worden, is de formulering van artikel 3.17 verruimd.
+Het artikel is zodanig gewijzigd dat dit voortaan betrekking heeft op alle
+gevallen waarin het gevaar bestaat te worden getroffen of geraakt door voorwerpen,
+producten of onderdelen daarvan dan wel vloeistoffen of gassen of het gevaar
+bekneld te raken tussen voorwerpen, producten of onderdelen daarvan. Het zoveel
+mogelijk voorkomen van (knel)gevaar is tevens geregeld in artikel 7.7 van
+het Arbobesluit. Dit artikel heeft uitsluitend betrekking op gevaar veroorzaakt
+door bewegende delen van arbeidsmiddelen, zoals machines, installaties, apparaten
+en gereedschappen en niet op gevaar dat tijdens de fabricage of bewerking
+van een product door het product zelf wordt veroorzaakt. Het spreekt voor
+zich dat ook in dat geval maatregelen moeten worden genomen om dat gevaar
+te voorkomen of zoveel mogelijk te beperken.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdelen L en M (artikel 4.8)</tuskop>
+      <al>Gebleken is dat in de praktijk, met name door het ontbreken van een definitie,
+misverstanden kunnen ontstaan over de betekenis van het begrip «explosieve
+stoffen» in het opschrift en het eerste lid van artikel 4.8 van het
+Arbeidsomstandighedenbesluit. Voordien werd in het opschrift gesproken over
+«springstoffen» en in het eerste lid over «stoffen»
+die «worden gebruikt voor het springen van objecten of materialen».
+Ook toen ontbrak een definitie. Bij het Vuurwerkbesluit is de terminologie
+gewijzigd in de huidige zonder dat daarbij de bedoeling voorlag wijziging
+te brengen in de strekking en reikwijdte van het artikel.</al>
+      <al>Zoals kan worden afgeleid uit het artikel en de uitwerking die daaraan
+is gegeven in de artikelen 4.16 en 4.17 van de Arbeidsomstandighedenregeling
+is met de begrippen «springstoffen» en «explosieve stoffen»
+in artikel 4.8 steeds gedoeld op stoffen die zonder de inwerking van zuurstof
+in de lucht kunnen ontploffen, of wel, stoffen die door hun chemische samenstelling
+tot explosie kunnen komen onder gebruikmaking van de in het molecule van de
+stof aanwezige zuurstof. </al>
+      <al>Teneinde misverstanden in de toekomst te voorkomen is het begrip «explosieve
+stoffen» vervangen door het begrip «ontplofbare stoffen»
+met een verwijzing naar de criteria voor indeling van stoffen in de categorie
+«ontplofbaar», bedoeld in artikel 34, tweede lid, onder a, van
+de Wet milieugevaarlijke stoffen (WMS). Ingevolge artikel 2, eerste lid, van
+het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten
+zijn de criteria voor indeling van een stof in de categorie ontplofbaar: «stoffen
+en preparaten in vaste, vloeibare, pasta- of gelatine-achtige toestand, die
+ook zonder de inwerking van zuurstof in de lucht exotherm kunnen reageren,
+hierbij snel gassen ontwikkelen en onder bepaalde voorwaarden ontploffen,
+snel explosief verbranden of door verhitting bij gedeeltelijke afsluiting
+ontploffen». Preparaten zijn in artikel 1, eerste lid, van de WMS gedefinieerd
+als mengsels of oplossingen van stoffen.</al>
+      <al>Met de verwijzing naar de categorie-indeling van stoffen in de WMS wordt
+aangesloten bij de artikelen 4.2a, tweede lid, 4.3, tweede lid, 4.5, 4 105,
+eerste lid, 4 106, 4 110, 4 111 en 4 112, tweede lid,
+van het Arbeidsomstandighedenbesluit die een dergelijke verwijzing al kennen.</al>
+      <al>Van deze gelegenheid is gebruik gemaakt om uit een oogpunt van consistentie
+ook de definitie van ontplofbare stof in artikel 2.2, onder d, aan te passen,
+overigens zonder daarbij de definitie inhoudelijk te wijzigen. Ook hierbij
+is gebruik gemaakt van een verwijzing naar de criteria voor indeling van stoffen
+in de categorie «ontplofbaar», bedoeld in artikel 34, tweede lid,
+onder a, van de WMS.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel N (artikel 6.12)</tuskop>
+      <al>In artikel 6.12 van het Arbeidsomstandighedenbesluit is voorgeschreven
+dat toestellen die schadelijke niet ioniserende elektromagnetische straling
+kunnen uitzenden deugdelijk en goed onderhouden moeten zijn. Bovendien moet
+de plaats waar arbeid wordt verricht zodanig zijn ingericht dat zo min mogelijk
+straling vrijkomt. Hierbij kan gedacht worden aan afscherming van de bron
+door het omhullen of in een aparte ruimte plaatsen van het desbetreffende
+apparaat. Als dit in redelijkheid niet mogelijk is moet de werkgever zodanige <nadruk type="cur">organisatorische</nadruk> maatregelen nemen dat gezondheidsschade
+zoveel mogelijk wordt voorkomen. Op grond van het zesde lid kunnen bij ministeriële
+regeling schadelijke blootstellingsniveaus worden vastgesteld.</al>
+      <al>Modernisatie en technische ontwikkelingen brengen met zich mee dat het
+dagelijkse gebruik van talloze bronnen van elektromagnetische straling niet
+meer weg te denken is uit het dagelijkse leven (mobiele telecommunicatie,
+navigatie systemen, radio en televisie omroepen, medisch diagnostisch apparatuur
+etc.). Al deze netwerken, apparatuur en systemen worden dagelijks aangelegd,
+uitgebreid, onderhouden en gerepareerd. In bepaalde arbeidssituaties kunnen
+werknemers blootgesteld worden aan gevaarlijke niveaus van elektromagnetische
+straling. Gedacht kan worden aan werkzaamheden als aanleg, testen, onderhoud
+en reparaties aan bijvoorbeeld GSM basis stations en zendmasten, radio- en
+televisiezenders, hoogspanningslijnen en transformatoren, radarapparatuur,
+verschillende navigatiesystemen maar ook apparatuur voor medisch diagnostiek
+(zoals MRI). Het gaat om grote aantallen werknemers die tijdens hun werk blootgesteld
+kunnen worden aan hoge doseringen elektromagnetische straling. In verband
+daarmee is in 2000 aan de Tweede Kamer medegedeeld (Algemeen overleg van de
+Tweede Kamer van 28 maart 2000 over de vaststelling van de begroting van de
+uitgaven en de ontvangsten van het Ministerie van Verkeer en Waterstaat (XII)
+voor het jaar 2000; vergaderjaar 1999/00, 26 800, XII, nr. 62, later
+bevestigd in een brief van de Minister van Volksgezondheid, Welzijn en Sport
+aan de Tweede Kamer van 22 september 2000) dat de Minister van Sociale Zaken en Werkgelegenheid richtlijnen zal opstellen ter bescherming van de
+werknemers tegen de schadelijke gevolgen van blootstelling aan elektromagnetische
+straling in de werksituatie.</al>
+      <al>Ter tegemoetkoming aan deze toezegging zullen op grond van artikel 6.12,
+zesde lid, in de Arbeidsomstandighedenregeling blootstellingslimieten worden
+vastgesteld. Bovendien ligt het in de bedoeling om de verplichtingen van artikel
+6.12 nader uit te werken in een beleidsregel.</al>
+      <al>Daarbij is geconstateerd dat artikel 6.12, derde lid, naar huidige opvattingen
+te beperkt is geformuleerd. Het artikellid is daarom zodanig gewijzigd dat
+daarin beter tot uitdrukking is gebracht dat de werkgever alle maatregelen
+(niet alleen organisatorische) moet nemen, als er ondanks maatregelen ter
+afscherming van de bron sprake blijft van gevaar voor gezondheidsschade.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel P (artikel 9.5)</tuskop>
+      <al>In artikel 9.5 zijn de nalevingsverplichtingen voor zelfstandigen opgenomen.
+Deze verplichtingen hebben conform artikel 16, zevende lid, van de wet betrekking
+op voorschriften waarbij bijzondere gevaren voor de veiligheid of de gezondheid
+in het geding zijn. Dit artikel is aangevuld met een verwijzing naar de verplichtingen
+die voortvloeien uit artikel 2.6 waarbij een aantal bepalingen van de wet
+en paragraaf 2 van hoofdstuk 2 van overeenkomstige toepassing is verklaard
+op zelfstandig werkenden.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel Q (artikel 9.9a)</tuskop>
+      <al>Evenals de daarvoor in aanmerking komende bepalingen van afdeling 2 van
+hoofdstuk 2, die bij het onderhavige besluit zijn vervallen, worden de daarvoor
+in aanmerking komende nieuwe voorschriften van deze afdeling strafrechtelijk
+gesanctioneerd, alsmede de hierop gebaseerde uitvoeringsvoorschriften in de
+Arbeidsomstandighedenregeling. Deze voorschriften zijn gebaseerd op artikel
+6, eerste lid, van de wet, met uitzondering van artikel 2.5e, dat is gebaseerd
+op artikel 16 van de wet. Overtredingen van voorschriften gesteld krachtens
+de artikelen 6, eerste lid, tweede volzin, en 16, tiende lid, van de Arbowet
+zijn op grond van artikel 1, 3° van de Wet op de economische delicten
+(WED) economische delicten, voor zover deze als strafbare feiten zijn aangewezen.
+Deze aanwijzing heeft plaatsgevonden in artikel 9.9a, eerste lid, onder a,
+d en e, van het Arbobesluit. Het niet naleven van de betreffende voorschriften
+vormt dus een strafbaar feit. In het derde lid van artikel 6 en het elfde
+lid van artikel 16 van de Arbowet zijn die strafbare feiten ingevolge artikel
+2, derde lid, van de WED, gekenmerkt als overtredingen in de zin van de WED,
+hetgeen met name van betekenis is voor de strafmaat.</al>
+      <al>De artikelen 2.0, 2.0a, 2.0b en 2.0c van de Arbeidsomstandighedenregeling,
+die in onderdeel e van artikel 9.9a, eerste lid, zijn ingevoegd, geven uitvoering
+aan de artikelen 2.5a, derde lid, 2.5b, vijfde lid, en 2.5c, vijfde lid van
+het Arbobesluit. De genoemde bepalingen van de Arbeidsomstandighedenregeling
+moeten evenwel nog in de Arbeidsomstandighedenregeling worden opgenomen; de
+hiervoor noodzakelijke wijziging van de Arbeidsomstandighedenregeling zal
+gelijktijdig met het onderhavige wijzigingsbesluit in werking treden.</al>
+      <al>In artikel I, onderdeel N, van het Koninklijk besluit van 3 juli 2003
+tot wijziging van het Arbeidsomstandighedenbesluit en enkele op de Wet op
+de gevaarlijke werktuigen en de Warenwet gebaseerde algemene maatregelen van
+bestuur in verband met de integratie van de Wet op de gevaarlijke werktuigen
+in de Warenwet (Stb. 315) zijn in de punten 1 en 2 abusievelijk
+de onderdelen c en d van artikel 9.9a, eerste lid, gewijzigd. Uiteraard hadden
+de onderdelen d en e moeten worden gewijzigd. De beoogde wijzigingen zijn
+bij het onderhavige wijzigingsbesluit alsnog aangebracht.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel R (artikel 9.9c)</tuskop>
+      <al>Bij Koninklijk besluit van 19 juni 2003 tot wijziging van het Arbeidsomstandighedenbesluit
+houdende regels betreffende explosieve atmosferen (Stb. 268) zijn beboetbare
+feiten toegevoegd in artikel 9.9c, eerste lid, onderdeel b. Hierbij is ten
+onrechte geen rekening gehouden met de verlettering van onderdeel b in onderdeel
+c van het eerste lid van artikel 9.9c bij Koninklijk besluit van 17 december
+2002 tot wijziging van het Arbeidsomstandighedenbesluit (veiligheid en gezondheid
+van werknemers in de mijnbouwsector; werken onder overdruk en enige andere
+wijzigingen; Stb. 652). Dit verzuim is bij het onderhavige besluit hersteld.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel S (artikel 9.19)</tuskop>
+      <al>Bij Koninklijk besluit van 19 juni 2003 tot wijziging van het Arbeidsomstandighedenbesluit
+houdende regels betreffende explosieve atmosferen (Stb. 268) is richtlijn
+nr. 1999/92/EG van het Europees Parlement en de Raad van de Europese Unie
+van 16 december 1999 (PbEG 2000, L 23) betreffende minimumvoorschriften voor
+de verbetering van de gezondheidsbescherming en van de veiligheid van werknemers
+die door explosieve atmosferen gevaar kunnen lopen (vijftiende bijzondere
+richtlijn in de zin van artikel 16, eerste lid, van Richtlijn 89/391/EEG)
+geïmplementeerd. Hierbij is verzuimd om artikel 9.19 te wijzigen in die
+zin dat van de betreffende voorschriften geen vrijstelling of ontheffing wordt
+verleend. Dit verzuim is bij het onderhavige besluit hersteld. Van de betreffende
+voorschriften wordt geen vrijstelling of ontheffing verleend omdat het hierbij
+gaat om minimumvoorschriften die voortvloeien uit de hiervoor vermelde Europese
+richtlijn.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel T (artikel 9.22)</tuskop>
+      <al>Met het vijfde lid wordt duidelijk gemaakt dat een eis tot naleving als
+bedoeld in artikel 27 van de wet niet wordt gesteld dan na overleg met de
+vergunningverlener in het kader van de milieuwetgeving om te voorkomen dat
+een eis wordt gesteld in strijd is met voorschriften die zijn verbonden aan
+een vergunning.</al>
+      <tuskop letat="vet">Artikel I</tuskop>
+      <tuskop letat="cur">Onderdeel U (artikel 9.34)</tuskop>
+      <al>In dit artikel is het overgangsrecht geformuleerd met betrekking tot de
+ARIE-verplichting. In het eerste lid is bepaald dat de betreffende bepalingen
+uiterlijk twee jaar na de inwerkingtreding van toepassing zijn. De werkgever
+heeft dus de mogelijkheid om de bestaande AVR-regeling nog toe te passen,
+maar laat hem ook de vrijheid de nieuwe regelgeving eerder toe te passen.
+Deze situatie is van toepassing voor werkgevers van bedrijven en inrichtingen
+die niet reeds over een arbeidsveiligheidsrapport behoefden te
+beschikken. Voor werkgevers van bedrijven of inrichtingen die reeds beschikken
+over een arbeidsveiligheidsrapport op grond van de bestaande AVR- regeling
+geldt dat, in afwijking van het eerste lid, de nieuwe regelgeving niet van
+toepassing is tot het moment waarop het arbeidsveiligheidsrapport moet worden
+herzien om redenen als bedoeld in 2.2b (oud), maar uiterlijk tot vijf jaar
+na het tijdstip waarop het arbeidsveiligheidsrapport volledig is herzien en
+aan de arbeidsinspectie is toegezonden. Dit betekent dat wanneer het arbeidsveiligheidsrapport
+in de tussentijd moet worden herzien, de nieuwe regelgeving moet worden toegepast.
+Op grond van het derde lid wordt door de werkgever binnen zes weken nadat
+op grond van het eerste of tweede lid de nieuwe regelgeving wordt toegepast,
+een melding gedaan aan de arbeidsinspectie. Zolang op grond van het eerste
+of tweede lid de nieuwe regelgeving nog niet wordt toegepast, blijft de bestaande
+regelgeving inzake het arbeidsveiligheidsrapport gehandhaafd (vierde lid).</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdelen A, B en F</tuskop>
+      <al>Deze wijzigingen houden verband met de reorganisatie van de Arbeidsinspectie
+die met ingang van 1 april 2003 zijn beslag heeft gehad en waarbij de functie
+van regiodirecteur is komen te vervallen (zie het Organisatie-, mandaat- en
+volmachtbesluit Arbeidsinspectie 2003).</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel C</tuskop>
+      <al>In de tekst van het besluit wordt de term monitoring gebruikt in «individuele
+monitoring», «ruimtemonitoring», «monitoring van de
+werkplek» en als op zich staande term. De op zich staande term «monitoring»
+en «individuele monitoring» worden in het besluit door elkaar
+gebruikt, hetgeen de suggestie wekt dat het om verschillende zaken gaat. Dit
+is echter niet het geval. Daarom is ervoor gekozen om daar waar in de tekst
+«monitoring» staat en waar geen sprake is van ruimtemonitoring
+of monitoring van de werkplek, deze term consequent te wijzigen in «individuele
+monitoring». Als definitie van deze term kan het volgende gelden: een
+manier om de (effectieve) dosis te bepalen die herleidbaar is tot één
+specifiek individu. De wijze waarop de dosis wordt bepaald kan verschillend
+zijn. Meestal gebeurt dit door het gebruik van een persoonlijk controlemiddel,
+maar het is ook mogelijk om de dosis te bepalen door gebruik te maken van
+de resultaten van ruimtemonitoring, met rekenmethodes na inwendige besmetting,
+door gebruikmaking van dosimetrische gegevens van collega's etc.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel D</tuskop>
+      <al>Uit een oogpunt van consistentie is de formulering van artikel 89, tweede
+lid, beter afgestemd op de formulering van artikel 51.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel E</tuskop>
+      <al>In de Regeling voorzieningen stralingsbescherming werknemers is bepaald
+dat ten behoeve van de dosisregistratie het Nationaal Dosis Registratie- en
+Informatie Systeem (NDRIS) gegevens over de identiteit van de
+dosismeterdrager moet bevatten, waartoe in ieder geval ook het sofi-nummer
+van de dosismeterdrager behoort. In de toelichting bij de regeling is aangegeven
+dat het van belang is dat de aan straling blootgestelde werknemer in NDRIS
+als uniek persoon wordt geïdentificeerd, omdat de blootstellingsgegevens
+van een zelfde werknemer uit verschillende situaties en dus van verschillende
+ondernemers afkomstig kunnen zijn. Dit kan het beste via het identificatienummer
+sofi-nummer. Het sofi-nummer is het sociaal-fiscaalnummer, bedoeld in artikel
+2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen. In
+artikel 24 van de Wet bescherming persoonsgegevens (WBP) is bepaald dat een
+bij wet voorgeschreven identificatienummer slechts mag worden gebruikt ter
+uitvoering van de betreffende wet, dan wel voor doeleinden bij de wet bepaald.
+Het dosisregistratiesysteem, dat in dit artikel 91 van het Besluit stralingsbescherming
+wordt geregeld, is pas effectief, indien er zekerheid bestaat over de identiteit
+van de persoon op wie de gemeten doses betrekking hebben. Met het oog op het
+vaststellen van die identiteit is een identificatienummer als het sofi-nummer
+noodzakelijk. Daarom is het, voor het kunnen gebruiken van het sofi-nummer
+in NDRIS, noodzakelijk dit bij algemene maatregel van bestuur te bepalen.
+Artikel 24, tweede lid, WBP geeft daartoe de bevoegdheid.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel F</tuskop>
+      <al>De in artikel 93, tweede lid, opgenomen verplichting tot onverwijlde melding
+aan de in het eerste lid bedoelde personen of dienst en aan de Arbeidsinspectie
+had ten onrechte alleen betrekking op de op grond van het tweede lid van artikel
+89 bepaalde blootstellingsdoses bij een radiologische noodsituatie. In artikel
+29, derde lid, van Richtlijn 96/29/Euratom van de Raad van de Europese Unie
+van 13 mei 1996 tot vaststelling van de basisnormen voor de bescherming van
+de gezondheid der bevolking en der werkers tegen de aan ioniserende straling
+verbonden gevaren (Pb EG L 159), is echter voorgeschreven dat de resultaten
+van de individuele controle onverwijld dienen te worden voorgelegd zowel in
+het geval van blootstelling in een noodgeval als in geval van blootstelling
+bij een ongeval. Het artikellid is daarom zodanig gewijzigd dat de meldingsverplichting
+zowel betrekking heeft op de op grond van het eerste lid van artikel 86 bepaalde
+blootstellingsdoses bij ongevallen als op de op grond van het tweede lid van
+dat artikel bepaalde blootstellingsdoses bij een radiologische noodsituatie.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel G</tuskop>
+      <al>Het betreft een correctie van een kennelijke omissie.</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel H</tuskop>
+      <al>Gebleken is dat het gebruik van de term «werknemer» in artikel
+111, eerste lid, aanhef, aanleiding kan geven tot het misverstand dat de in
+dat artikel opgenomen verplichtingen van toepassing zouden zijn op alle werknemers
+die deel uitmaken van een vliegtuigbemanning, ongeacht de mate van blootstelling.
+Op basis van artikel 111 en de in het tweede lid van dat artikel van overeenkomstige
+toepassing verklaarde artikelen uit paragraaf 7.4 van het Besluit stralingsbescherming,
+bestaat er echter slechts een dosisregistratieverplichting voor blootgestelde
+werknemers, zoals gedefinieerd in artikel 1, eerste lid van het
+besluit. Volgens deze definitie is een blootgestelde werknemer, een werknemer
+die gedurende zijn werktijd ten gevolge van handelingen een blootstelling
+ondergaat die kan leiden tot een dosis die hoger is dan een der in artikel
+76 genoemde limieten, hetgeen wil zeggen een effectieve dosis hoger dan 1
+mSv per kalenderjaar. Ter voorkoming van dit misverstand is de term «werknemer»</al>
+      <al>vervangen door «blootgestelde werknemer» .</al>
+      <al>Omdat in het besluit een werknemer is gedefinieerd als een persoon die,
+hetzij <nadruk type="cur">in dienst</nadruk> of <nadruk type="cur">onder gezag</nadruk> van een ondernemer arbeid verricht, is de term «aanstelling»
+die alleen ziet op het in dienst stellen, vervangen door de termen «indiensttreding
+of tewerkstelling».</al>
+      <tuskop letat="vet">Artikel II</tuskop>
+      <tuskop letat="cur">Onderdeel I</tuskop>
+      <al>De titel van de alinea «individuele monitoring» suggereert
+dat in deze alinea wordt beschreven wat individuele monitoring inhoudt. Dit
+is niet het geval. Het betreft hier uitsluitend een uitleg van individuele
+monitoring die met behulp van persoonlijke controlemiddelen gebeurt. Zoals
+in de toelichting op onderdeel C al is vermeld, zijn er meer methoden om individuele
+monitoring uit te voeren, onder andere door gebruik te maken van gegevens
+van ruimtemonitoring. Om dit misverstand uit de weg te ruimen wordt daarom
+de titel van deze alinea gewijzigd.</al>
+      <minister>
+        <minvan>De Staatssecretaris van Sociale Zaken en Werkgelegenheid,</minvan>
+        <naam>M. Rutte </naam>
+      </minister>
+    </notatoe>
+    <voetnoot id="v1">
+      <nootnr>1</nootnr>
+      <noottkst>
+        <al>200 installaties à 10 000 en 300 installaties à </al>
+        <al>€ 8 000.</al>
+      </noottkst>
+    </voetnoot>
+    <voetnoot id="v2">
+      <nootnr>2</nootnr>
+      <noottkst>
+        <al>90 bedrijven à € 4 000 en € 300 bedrijven
+ à  €2 500.</al>
+      </noottkst>
+    </voetnoot>
+    <voetnoot id="v3">
+      <nootnr>3</nootnr>
+      <noottkst>
+        <al>VBS: 358 bedrijven à € 4 000 ofwel € 1 432 000;
+noodplan: 358 bedrijven à € 400 ofwel € 143 000.</al>
+      </noottkst>
+    </voetnoot>
+    <voetnoot id="v4">
+      <nootnr>4</nootnr>
+      <noottkst>
+        <al>Informatieplicht naar de omgeving: 611 bedrijven à € 90;
+naar de overheid: 390 bedrijven met kostenverlaging van  €266 (raming
+CGEY) naar € 38.</al>
+      </noottkst>
+    </voetnoot>
+  </backm>
+</staatsbl>

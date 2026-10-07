@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2024-410/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 11 december 2024 tot vaststelling van het tijdstip van inwerkingtreding van de Verzamelwet SZW 2025</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 10 december 2024, nr. 2024-0000928638;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel XX van de Verzamelwet SZW 2025;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>De Verzamelwet SZW 2025 treedt in werking met ingang van 1 januari 2025, met uitzondering van de onderdelen A, C, D en E van artikel XI, die in werking treden met ingang van 1 januari 2026.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2024-12-11">11 december 2024</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>Y.J. van</voornaam>
+            <achternaam>Hijum</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2024-12-17">Uitgegeven de <nadruk type="cur">zeventiende</nadruk> december 2024</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Dit besluit regelt dat de Verzamelwet SZW 2025 in werking treedt met ingang van 1 januari 2025.</al>
+        <al>In de wet is reeds opgenomen dat de onderdelen A en B van artikelen XIII en XIV, terugwerken tot en met 1 januari 2024. Zie voor een toelichting bij de terugwerkende kracht van deze artikelen de Memorie van Toelichting bij de Verzamelwet SZW 2025.<noot id="n1" type="voet"><noot.nr>1</noot.nr><noot.al>Kamerstukken II 2024/25, <extref doc="kst-36616-3" soort="document" status="actief">36 616, nr. 3</extref>.</noot.al></noot></al>
+        <al>Daarnaast is een uitzondering gemaakt voor de onderdelen A, C, D en E van artikel XI. De inwerkingtreding van dit artikel is uitgesteld tot 1 januari 2026, zodat er voldoende tijd is om het onderliggende besluit uit te werken en de systemen aan te passen.</al>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>Y.J. van</voornaam>
+            <achternaam>Hijum</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

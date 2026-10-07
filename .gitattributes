@@ -1,0 +1,2 @@
+# Preserve received source bytes, including original line endings.
+data/raw/** -text -diff

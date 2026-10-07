@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.product-area%3D%3Dofficielepublicaties+AND+%28dt.identifier%3D%3D%22stb-2024-410%22+OR+dt.identifier%3D%3D%22stb-2025-131%22+OR+dt.identifier%3D%3D%22stb-2025-133%22+OR+dt.identifier%3D%3D%22stb-2025-134%22+OR+dt.identifier%3D%3D%22stb-2025-145%22+OR+dt.identifier%3D%3D%22stb-2025-337%22+OR+dt.identifier%3D%3D%22stb-2025-347%22+OR+dt.identifier%3D%3D%22stb-2025-348%22+OR+dt.identifier%3D%3D%22stb-2025-94%22+OR+dt.identifier%3D%3D%22stb-2026-178%22+OR+dt.identifier%3D%3D%22stb-2026-18%22+OR+dt.identifier%3D%3D%22stb-2026-199%22+OR+dt.identifier%3D%3D%22stb-2026-261%22+OR+dt.identifier%3D%3D%22stb-2026-69%22+OR+dt.identifier%3D%3D%22stb-2026-76%22%29&maximumRecords=15",
+  "resolved_url": "https://repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.product-area%3D%3Dofficielepublicaties+AND+%28dt.identifier%3D%3D%22stb-2024-410%22+OR+dt.identifier%3D%3D%22stb-2025-131%22+OR+dt.identifier%3D%3D%22stb-2025-133%22+OR+dt.identifier%3D%3D%22stb-2025-134%22+OR+dt.identifier%3D%3D%22stb-2025-145%22+OR+dt.identifier%3D%3D%22stb-2025-337%22+OR+dt.identifier%3D%3D%22stb-2025-347%22+OR+dt.identifier%3D%3D%22stb-2025-348%22+OR+dt.identifier%3D%3D%22stb-2025-94%22+OR+dt.identifier%3D%3D%22stb-2026-178%22+OR+dt.identifier%3D%3D%22stb-2026-18%22+OR+dt.identifier%3D%3D%22stb-2026-199%22+OR+dt.identifier%3D%3D%22stb-2026-261%22+OR+dt.identifier%3D%3D%22stb-2026-69%22+OR+dt.identifier%3D%3D%22stb-2026-76%22%29&maximumRecords=15",
+  "file": "data/raw/publication-metadata/839ce80c722a2c4fbceebd6f91349c1260098e01a6badb738f2ad6cd230333bd.xml",
+  "sha256": "839ce80c722a2c4fbceebd6f91349c1260098e01a6badb738f2ad6cd230333bd",
+  "sha512": "5ed62e49f6c9b8d892fd234161b4f3921d217d4c0b7d9c8649c9ff50865953324f9e9cf0ebd290c2ed0b329b59ccb9c477bb624cdc3227c622ff4c45257b7568",
+  "bytes": 63763,
+  "retrieved_at": "2026-10-05T14:32:22.909271+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

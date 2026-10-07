@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-1997-60/stb-1997-60.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/1997/stb-1997-60/1/xml/stb-1997-60.xml",
+  "file": "data/raw/publications/stb-1997-60/cfb5113e01866b3639c6c2e0da5ba93d0365680c076a0412b9fe49b90887245b.xml",
+  "sha256": "cfb5113e01866b3639c6c2e0da5ba93d0365680c076a0412b9fe49b90887245b",
+  "sha512": "eda4eac936ca108654beed91f9f6933b087d37493d1288742f05d81859ba2a7b66d34ab70283fb151126e7bbe1b316e7032d0c9f7b82e18c7a0da6f694c99f1b",
+  "bytes": 2375027,
+  "retrieved_at": "2026-10-05T10:12:03.839834+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

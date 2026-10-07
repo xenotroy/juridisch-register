@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/2008-01-01_0/xml/BWBR0010346_2008-01-01_0.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/2008-01-01_0/xml/BWBR0010346_2008-01-01_0.xml",
+  "file": "data/raw/bwb/BWBR0010346/states/2353400af8015f45fc9a547975fa97913745e53d2e12c3445392d595ac4bd294.xml",
+  "sha256": "2353400af8015f45fc9a547975fa97913745e53d2e12c3445392d595ac4bd294",
+  "sha512": "d3ad7f0deb74ac6d19b26df8ee1f355b790f46bc35381d724e81d54ceff980b47d418f9c39af62444186ef3a2f48835aaeb5af5f560a5612d7ca3d70e0cb3791",
+  "bytes": 392570,
+  "retrieved_at": "2026-10-05T09:43:28.530469+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": "b83c997aa03412295dccf8815a8c6712fdf9503817241dc4e2115003ee9820060a500803042dc7a2513d018511f3df5d6083cd439fbc916a61ab2175885a21a7",
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

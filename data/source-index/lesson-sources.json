@@ -1,0 +1,281 @@
+{
+  "mine": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/kst-26219-3/kst-26219-3.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/kst/26219/kst-26219-3/1/xml/kst-26219-3.xml",
+    "file": "data/raw/publications/kst-26219-3/dfd9d5d24f7b2933413956a5d599017382f13ce8f1d2445b4cb8912ce2e38d2c.xml",
+    "sha256": "dfd9d5d24f7b2933413956a5d599017382f13ce8f1d2445b4cb8912ce2e38d2c",
+    "sha512": "053ddaeffcd69b75dbe38d17b0f1ae7f6599e939f8d3d2baff1bec117a9b13ce2235a71f1adf941709f98cd6f75a5e41329869b3cab3f7c6432606a792832134",
+    "bytes": 433084,
+    "retrieved_at": "2026-10-05T10:12:02.669937+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "child": {
+    "url": "https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/kinderen-horen-niet-in-de-fabriek-1874",
+    "resolved_url": "https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/kinderen-horen-niet-in-de-fabriek-1874",
+    "file": "data/raw/lesson/child/684daae13aa851e727d59cd13c67949a48edb8a51ed1a32fd8f5174dae48ba43.html",
+    "sha256": "684daae13aa851e727d59cd13c67949a48edb8a51ed1a32fd8f5174dae48ba43",
+    "bytes": 85827,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-05T10:24:27.248183+00:00"
+  },
+  "inspection": {
+    "url": "https://www.nationaalarchief.nl/onderzoeken/archief/3.13.08/beschrijving/context",
+    "resolved_url": "https://www.nationaalarchief.nl/onderzoeken/archief/3.13.08/beschrijving/context",
+    "file": "data/raw/lesson/inspection/709d3885bad89153caa56ed79fc3406f2863b6bea7e348d27e9b333e29568e53.html",
+    "sha256": "709d3885bad89153caa56ed79fc3406f2863b6bea7e348d27e9b333e29568e53",
+    "bytes": 246148,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-05T10:24:27.498369+00:00"
+  },
+  "history": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/kst-26802-2/kst-26802-2.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/kst/26802/kst-26802-2/1/xml/kst-26802-2.xml",
+    "file": "data/raw/publications/kst-26802-2/d8cd557f2460f4cce9ba520d93ebab7a1d5a4e082556d675d2e87976baca6944.xml",
+    "sha256": "d8cd557f2460f4cce9ba520d93ebab7a1d5a4e082556d675d2e87976baca6944",
+    "sha512": "4195385d7c54d184debcbc8a8943872492f9a460e2fc7137e8dbe27b831d372d53eb8146c68976a6a1a90fe24c65dec5f86108773082f3241d1b9443a4340b4f",
+    "bytes": 1485175,
+    "retrieved_at": "2026-10-05T10:12:02.802087+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "arbowet1980": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-25323-11.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/kst-25323-11.html",
+    "file": "data/raw/lesson/arbowet1980/fbdb2d36ef3c25c57e941f813602f0487b1e6151794f4688b69872eeb552fab3.html",
+    "sha256": "fbdb2d36ef3c25c57e941f813602f0487b1e6151794f4688b69872eeb552fab3",
+    "bytes": 573035,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T10:24:28.085399+00:00"
+  },
+  "phase1983": {
+    "url": "https://repository.overheid.nl/frbr/sgd/19841985/0000127663/1/pdf/SGD_19841985_0005333.pdf",
+    "resolved_url": "https://repository.overheid.nl/frbr/sgd/19841985/0000127663/1/pdf/SGD_19841985_0005333.pdf",
+    "file": "data/raw/lesson/phase1983/e2b7b49cf9c369bb0d5dc8833d2ef8df00ed41a93fe1f9c2411eac8499628e34.pdf",
+    "sha256": "e2b7b49cf9c369bb0d5dc8833d2ef8df00ed41a93fe1f9c2411eac8499628e34",
+    "bytes": 25141547,
+    "content_type": "application/pdf;charset=UTF-8",
+    "retrieved_at": "2026-10-05T10:24:31.768002+00:00"
+  },
+  "europe": {
+    "url": "https://eur-lex.europa.eu/eli/dir/1989/391/oj/nld/pdf",
+    "error": "Empty response",
+    "status": "not_archived"
+  },
+  "implementation": {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-1993-758.pdf",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/stb-1993-758.pdf",
+    "file": "data/raw/lesson/implementation/066457b585d6ab8ed20bc5602faedd709927de180d4a95b1619994fcd152281d.pdf",
+    "sha256": "066457b585d6ab8ed20bc5602faedd709927de180d4a95b1619994fcd152281d",
+    "bytes": 506216,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-05T10:24:32.166783+00:00"
+  },
+  "decision": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-1997-60/stb-1997-60.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/1997/stb-1997-60/1/xml/stb-1997-60.xml",
+    "file": "data/raw/publications/stb-1997-60/cfb5113e01866b3639c6c2e0da5ba93d0365680c076a0412b9fe49b90887245b.xml",
+    "sha256": "cfb5113e01866b3639c6c2e0da5ba93d0365680c076a0412b9fe49b90887245b",
+    "sha512": "eda4eac936ca108654beed91f9f6933b087d37493d1288742f05d81859ba2a7b66d34ab70283fb151126e7bbe1b316e7032d0c9f7b82e18c7a0da6f694c99f1b",
+    "bytes": 2375027,
+    "retrieved_at": "2026-10-05T10:12:03.839834+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "decision_effect": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-1997-340/stb-1997-340.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/1997/stb-1997-340/1/xml/stb-1997-340.xml",
+    "file": "data/raw/publications/stb-1997-340/85a513d75d6512e9e4a29a73d814e750af7ce1866e8058052cb03ffef3997757.xml",
+    "sha256": "85a513d75d6512e9e4a29a73d814e750af7ce1866e8058052cb03ffef3997757",
+    "sha512": "7cbdd02fe0bad921dbf9d6ac0f84436684c15b142482011019bf35d5f0bffbd3380a2cbeece5f55977fe9a6b574c0598d8d36a9d3e9956335e76546c4fbeabcd",
+    "bytes": 2725,
+    "retrieved_at": "2026-10-05T10:12:03.302278+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "law1999": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-1999-450/stb-1999-450.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/1999/stb-1999-450/1/xml/stb-1999-450.xml",
+    "file": "data/raw/publications/stb-1999-450/8375455155219150d6d4ebab12cd0b60598809a39a94a69bddcc7b243579e259.xml",
+    "sha256": "8375455155219150d6d4ebab12cd0b60598809a39a94a69bddcc7b243579e259",
+    "sha512": "737c9fa5061c434835f35432066b52d56a55f2762f3f670d7e46da7ab68b057585e665918f6a7e3fa32f6c25af6275a24c8fe50440a3b6440925dd8d0df462e0",
+    "bytes": 7470,
+    "retrieved_at": "2026-10-05T10:12:02.690503+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "change2007": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2006-673/stb-2006-673.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2006/stb-2006-673/1/xml/stb-2006-673.xml",
+    "file": "data/raw/publications/stb-2006-673/73ebd0bae1bd824b3d09aa8ba90aa1f38dbca846d6288940d6fab669b589e3f6.xml",
+    "sha256": "73ebd0bae1bd824b3d09aa8ba90aa1f38dbca846d6288940d6fab669b589e3f6",
+    "sha512": "4b8991158b7f3427a7f6bfee0127b1a18bdd8886a6894560df09a184e75739811efdbf9dc8eae7452afd275a9eac1ecbfa04851598ee9dafaf2bc6b99a88f28e",
+    "bytes": 46786,
+    "retrieved_at": "2026-10-05T10:12:02.997932+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "effect2007": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2006-675/stb-2006-675.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2006/stb-2006-675/1/xml/stb-2006-675.xml",
+    "file": "data/raw/publications/stb-2006-675/d0c9efd4c7688989a7921ba18414264b601ad260a8d89341187c35dd27fe7b29.xml",
+    "sha256": "d0c9efd4c7688989a7921ba18414264b601ad260a8d89341187c35dd27fe7b29",
+    "sha512": "c19597df5006cf267c035706cc1eb4371e6ec6b203e3c688cfc68770968c30ff607aae0a1f8b8385758c84af65658287ff568dcc6502d6bcfdce75693e7f7760",
+    "bytes": 4296,
+    "retrieved_at": "2026-10-05T10:12:02.970696+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "system": {
+    "url": "https://www.arboportaal.nl/onderwerpen/arbowet--en--regelgeving/arbowetgeving/wat-staat-er-in-de-arbowet",
+    "resolved_url": "https://www.arboportaal.nl/onderwerpen/arbowet--en--regelgeving/arbowetgeving/wat-staat-er-in-de-arbowet",
+    "file": "data/raw/lesson/system/4b6c8d6be76eefdd36c02e5c7c8c2c9f42d69841b9ef4b25c394f7b456f332a7.html",
+    "sha256": "4b6c8d6be76eefdd36c02e5c7c8c2c9f42d69841b9ef4b25c394f7b456f332a7",
+    "bytes": 208925,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T10:24:32.683456+00:00"
+  },
+  "care": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2017-22/stb-2017-22.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2017/stb-2017-22/1/xml/stb-2017-22.xml",
+    "file": "data/raw/publications/stb-2017-22/944a71f7d7ffbb60505c4e67be1255cb08b45c04b4460e47cd2bc00c13036d9e.xml",
+    "sha256": "944a71f7d7ffbb60505c4e67be1255cb08b45c04b4460e47cd2bc00c13036d9e",
+    "sha512": "98e16d83538d2fe7e61ae8a7a4499e4fdca60e5dbac99b4b6ce86ddd232805f4c2b4e9f6a46932df630586c507c3df81d8c16a59f8d2725f31d33c6d2cc86b07",
+    "bytes": 19953,
+    "retrieved_at": "2026-10-05T10:12:03.113934+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "europe-overview": {
+    "url": "https://osha.europa.eu/en/legislation/directives/the-osh-framework-directive/the-osh-framework-directive-introduction",
+    "resolved_url": "https://osha.europa.eu/en/legislation/directives/the-osh-framework-directive/the-osh-framework-directive-introduction",
+    "file": "data/raw/lesson/europe-overview/852ade44a7e8de5bdad076a08790a0fe2599a2ec6494d84eb203fabb1b049e4c.html",
+    "sha256": "852ade44a7e8de5bdad076a08790a0fe2599a2ec6494d84eb203fabb1b049e4c",
+    "bytes": 197180,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-05T10:24:32.959309+00:00"
+  },
+  "arie2004": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2004-69/stb-2004-69.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2004/stb-2004-69/1/xml/stb-2004-69.xml",
+    "file": "data/raw/publications/stb-2004-69/2b0d745bf2b8dccf305218e4103d664ed765ed575b8a9d4de850412552876ddd.xml",
+    "sha256": "2b0d745bf2b8dccf305218e4103d664ed765ed575b8a9d4de850412552876ddd",
+    "sha512": "27eca7ec8de681a407e90fa3b1111f24d1d8a2007ed48798e7b6d165f28af8cfdc20b5caa4e28bab9d4040e8100af271d9462d0d064124acabd839e0712be846",
+    "bytes": 144175,
+    "retrieved_at": "2026-10-05T10:02:35.170722+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "prevention2005": {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2005-202.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/stb-2005-202.html",
+    "file": "data/raw/lesson/prevention2005/910630afa2c980cae935510849a218fbf33b98d2651c9aeaaf3aae96351bb398.html",
+    "sha256": "910630afa2c980cae935510849a218fbf33b98d2651c9aeaaf3aae96351bb398",
+    "bytes": 52200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:05:34.201232+00:00"
+  },
+  "prevention2005_effect": {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2005-298.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/stb-2005-298.html",
+    "file": "data/raw/lesson/prevention2005_effect/f35406ae72e32c85ee6dc8ec08024c74508e4bc6b1e6eb49aab9b4c212f7f6ce.html",
+    "sha256": "f35406ae72e32c85ee6dc8ec08024c74508e4bc6b1e6eb49aab9b4c212f7f6ce",
+    "bytes": 22864,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:05:34.480366+00:00"
+  },
+  "psa2007": {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2006-674.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/stb-2006-674.html",
+    "file": "data/raw/lesson/psa2007/e2bc6fdfdc63b3b135f2defc1440a02900d3558b14ffd581a3b9ceaf7084dc21.html",
+    "sha256": "e2bc6fdfdc63b3b135f2defc1440a02900d3558b14ffd581a3b9ceaf7084dc21",
+    "bytes": 578835,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:05:35.177334+00:00"
+  },
+  "arie2023": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2022-501/stb-2022-501.xml",
+    "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2022/stb-2022-501/1/xml/stb-2022-501.xml",
+    "file": "data/raw/publications/stb-2022-501/5341272235f30f84ed353069e4bc50346915c6b30df7403c688026b42931dcac.xml",
+    "sha256": "5341272235f30f84ed353069e4bc50346915c6b30df7403c688026b42931dcac",
+    "sha512": "b40b5f950532183355cdc11808c06f0ce81ea9b5c2fce5eb627a990dacee63e873b86c72ed9a732f02b1fb7b2329bcb46be737d99b66b0ac7328e4b5c3a05743",
+    "bytes": 224102,
+    "retrieved_at": "2026-10-05T10:02:34.426404+00:00",
+    "parser_version": "0.1.0",
+    "manifest_sha512": null,
+    "koop_hash_verified": false,
+    "xml_parseable": true
+  },
+  "care2017_effect": {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2017-254.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/stb-2017-254.html",
+    "file": "data/raw/lesson/care2017_effect/a18955afbcd36035b931873b99149734887a47d078e24f7d79bcdcf0a964fc30.html",
+    "sha256": "a18955afbcd36035b931873b99149734887a47d078e24f7d79bcdcf0a964fc30",
+    "bytes": 24443,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:05:35.456239+00:00"
+  },
+  "responsibility1998": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-25879-6.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/kst-25879-6.html",
+    "file": "data/raw/lesson/responsibility1998/3b96147fc15720f62019c6deb9b99baf4a59430b5a5dd7cfdaf269607d638ad2.html",
+    "sha256": "3b96147fc15720f62019c6deb9b99baf4a59430b5a5dd7cfdaf269607d638ad2",
+    "bytes": 168543,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:30:44.895480+00:00"
+  },
+  "dsm1975": {
+    "url": "https://www.hse.gov.uk/comah/sragtech/casebeek75.htm",
+    "resolved_url": "https://www.hse.gov.uk/comah/sragtech/casebeek75.htm",
+    "file": "data/raw/lesson/dsm1975/9106db7e28b63f4fee0285bb865e4d73abd325d89c17e97e235510d1e6f02b86.html",
+    "sha256": "9106db7e28b63f4fee0285bb865e4d73abd325d89c17e97e235510d1e6f02b86",
+    "bytes": 39645,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-05T20:30:45.085164+00:00"
+  },
+  "seveso1976": {
+    "url": "https://environment.ec.europa.eu/news/eu-maintains-commitment-strengthening-industrial-safety-2026-07-10_en",
+    "resolved_url": "https://environment.ec.europa.eu/news/eu-maintains-commitment-strengthening-industrial-safety-2026-07-10_en",
+    "file": "data/raw/lesson/seveso1976/c64e17481a24f64a1b91f87933526ebd091f0c3accf4c22fbd7ef6b6f77007a4.html",
+    "sha256": "c64e17481a24f64a1b91f87933526ebd091f0c3accf4c22fbd7ef6b6f77007a4",
+    "bytes": 76277,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:30:45.242194+00:00"
+  },
+  "enschede2000": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-27157-1.html",
+    "resolved_url": "https://zoek.officielebekendmakingen.nl/kst-27157-1.html",
+    "file": "data/raw/lesson/enschede2000/af917d8767b6f85a9eff9f8baff168fc066fa81d9e1a19b48b341aca9add4768.html",
+    "sha256": "af917d8767b6f85a9eff9f8baff168fc066fa81d9e1a19b48b341aca9add4768",
+    "bytes": 56949,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-05T20:30:45.815002+00:00"
+  },
+  "moerdijk2011": {
+    "url": "https://onderzoeksraad.nl/onderzoek/brand-bij-chemie-pack-te-moerdijk-5-januari-2011/",
+    "resolved_url": "https://onderzoeksraad.nl/onderzoek/brand-bij-chemie-pack-te-moerdijk-5-januari-2011/",
+    "file": "data/raw/lesson/moerdijk2011/306f0ae93c00704f4d8f26dd33e85182862ef77eb80e3d89b749715b7465c368.html",
+    "sha256": "306f0ae93c00704f4d8f26dd33e85182862ef77eb80e3d89b749715b7465c368",
+    "bytes": 162260,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-05T20:30:46.002097+00:00"
+  }
+}

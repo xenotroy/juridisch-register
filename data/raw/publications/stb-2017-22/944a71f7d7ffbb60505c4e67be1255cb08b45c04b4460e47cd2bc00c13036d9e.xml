@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2017-22/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 25 januari 2017, houdende wijziging van de Arbeidsomstandighedenwet in verband met de versterking van de betrokkenheid van de werkgevers en werknemers bij de arbodienstverlening, de preventie in het bedrijf of de inrichting van de werkgever en de randvoorwaarden voor het handelen van de bedrijfsarts, en enige andere wijzigingen</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de Arbeidsomstandighedenwet te wijzigen ten einde de betrokkenheid van werkgevers en werknemers bij de arbodienstverlening, de preventie in het bedrijf of de inrichting van de werkgever en de randvoorwaarden voor het handelen van de bedrijfsarts te versterken en enige andere wijzigingen aan te brengen;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Arbeidsomstandighedenwet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 9, derde lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>De persoon, bedoeld in artikel 14, eerste lid, die belast is met de taak, bedoeld in onderdeel b van dat lid, of de arbodienst meldt beroepsziekten aan een door Onze Minister hiertoe aangewezen instelling. Als overtreding wordt aangemerkt het niet naleven van de bij of krachtens dit lid vastgestelde verplichtingen door de persoon, bedoeld in artikel 14, eerste lid, of de arbodienst.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Aa</lidnr>
+            <wat>Aan artikel 9 wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Onze Minister vergoedt ten laste van ’s Rijks kas de door de aangewezen instelling, bedoeld in het derde lid, gemaakte uitvoeringskosten overeenkomstig bij ministeriële regeling vast te stellen regels.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 13 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De werkgever laat zich ten aanzien van de naleving van zijn verplichtingen op grond van deze wet bijstaan door een of meer deskundige werknemers. Indien in het bedrijf of de inrichting van de werkgever een ondernemingsraad of personeelsvertegenwoordiging is ingesteld, wordt de keuze voor de deskundige werknemer, bedoeld in de eerste zin, en diens positionering, bepaald met instemming van die ondernemingsraad of personeelsvertegenwoordiging. Artikel 27, derde tot en met zesde lid, van de Wet op de ondernemingsraden is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het zevende lid, onder b, komt te luiden:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>het adviseren aan onderscheidenlijk nauw samenwerken met de deskundige personen, bedoeld in artikel 14, eerste lid, de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, de belanghebbende werknemers, inzake de genomen en de te nemen maatregelen, gericht op een zo goed mogelijk arbeidsomstandighedenbeleid;</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 14 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, onder b, wordt «de bijstand» vervangen door: het adviseren.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het eerste lid, onder c, wordt onder vervanging van de punt achter onderdeel 2, door een puntkomma een onderdeel toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>3°.</li.nr>
+                    <al>de consultatie met betrekking tot gezondheidskundige vraagstukken in verband met de arbeid, anders dan de begeleiding, bedoeld onder b.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Aan het tweede lid worden onder vervanging van de punt achter onderdeel d door een puntkomma zes onderdelen toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>e.</li.nr>
+                    <al>er is een doeltreffende toegang tot de bedrijfsarts;</al>
+                  </li>
+                  <li>
+                    <li.nr>f.</li.nr>
+                    <al>de bedrijfsarts is in de gelegenheid iedere arbeidsplaats in het bedrijf of de inrichting van de werkgever te bezoeken;</al>
+                  </li>
+                  <li>
+                    <li.nr>g.</li.nr>
+                    <al>tenzij zwaarwegende argumenten zich daartegen verzetten, honoreert de bedrijfsarts een verzoek van de werknemer om in verband met een door hem gegeven advies dat betrekking heeft op de taken, bedoeld in het eerste lid, onder b en c, zo spoedig mogelijk een andere bedrijfsarts te raadplegen;</al>
+                  </li>
+                  <li>
+                    <li.nr>h.</li.nr>
+                    <al>de bedrijfsarts heeft een adequate procedure voor het afwikkelen van klachten;</al>
+                  </li>
+                  <li>
+                    <li.nr>i.</li.nr>
+                    <al>de personen die bijstand verrichten, werken nauw samen met en adviseren en verlenen medewerking aan de in artikel 13, eerste lid, genoemde deskundige personen, de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, de belanghebbende werknemers, inzake te nemen, genomen en uit te voeren maatregelen gericht op een zo goed mogelijk arbeidsomstandighedenbeleid;</al>
+                  </li>
+                  <li>
+                    <li.nr>j.</li.nr>
+                    <al>de bedrijfsarts adviseert over preventieve maatregelen betreffende het algemeen arbeidsomstandighedenbeleid, bedoeld in artikel 3.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Het vierde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De wijze waarop de bijstandverlening plaatsvindt met betrekking tot de taken, bedoeld in de artikelen 9, derde lid, 14 en 14a alsmede de daarop berustende bepalingen, wordt door of vanwege een overeenkomst tussen de werkgever en de deskundige personen, bedoeld in artikel 14, eerste lid, schriftelijk vastgelegd. Onderdeel van de overeenkomst is de wijze waarop de in de aanhef van dit artikel genoemde personen in het bedrijf of de inrichting van de werkgever met inachtneming van de professionele dienstverlening uitvoering kunnen geven aan de verplichtingen die op grond van de in de eerste zin bedoelde taken op hen rusten.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>Het zevende lid vervalt onder vernummering van het vijfde en zesde lid tot zesde en zevende lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">6.</nr>
+              <wat>Het vijfde lid (nieuw) komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Aangaande de bedrijfsarts wordt in de overeenkomst, bedoeld in het vierde lid, in het bijzonder aandacht besteed aan de wijze waarop aan het tweede lid, onderdelen f tot en met j, en artikel 9, derde lid, uitvoering wordt gegeven.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">7.</nr>
+              <wat>Na het veertiende lid wordt een lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">15.</lidnr>
+                  <al>Het niet naleven van de bij of krachtens deze wet vastgestelde verplichtingen, bedoeld in het tweede lid, onder g, h en j, door de bedrijfsarts, de verplichting, bedoeld in het tweede lid, onder i, door de personen, bedoeld in het eerste lid, en de verplichting, bedoeld in het derde lid, eerste zin, door de personen, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 14, vijfde lid wordt «artikel 9, derde lid» vervangen door: artikel 9, derde lid, eerste zin.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 14a wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het vierde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De werknemers van een arbodienst werken nauw samen met en adviseren en verlenen medewerking aan de in artikel 13, eerste lid, genoemde deskundige personen, de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, de belanghebbende werknemers, inzake te nemen, genomen en uit te voeren maatregelen gericht op een zo goed mogelijk arbeidsomstandighedenbeleid. Het niet naleven van deze verplichting door de werknemers van een arbodienst wordt aangemerkt als een overtreding.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het zesde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Artikel 14, tweede lid, onder a en onder d tot en met j, derde tot en met zevende lid en twaalfde tot en met vijftiende lid, is van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 27 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het vijfde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Een eis kan worden gesteld tot naleving van de artikelen 3, 4, 5, 6, 8, 11, 13, eerste lid, eerste volzin, en tweede tot en met vierde lid, zevende lid, onder b, negende en tiende lid, 14, eerste lid, tweede lid, onder a tot en met f, vierde en vijfde lid, 14a, tweede, derde en vierde lid, 15, eerste en derde lid, 16, voor zover dat bij de krachtens dat artikel gestelde regels is bepaald, 18 en 19.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Na het vijfde lid wordt een lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Een eis kan worden gesteld tot naleving van artikel 14, tweede lid, onder g, h en j, waarbij voor de toepassing van het eerste tot en met derde lid de bedrijfsarts met de werkgever gelijk wordt gesteld en tot naleving van artikel 14, tweede lid, onder i, waarbij voor de toepassing van het eerste tot en met derde lid de in artikel 14, eerste lid, bedoelde personen met de werkgever gelijk worden gesteld.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>In artikel 28a, eerste en tweede lid, wordt «aan de werkgever» vervangen door: aan de werkgever of de zelfstandige.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Artikel 30 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, wordt «artikel 5, en de artikelen 12 tot en met 18» vervangen door «de artikelen 5, 12 tot en met 18 en 20».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het zevende lid vervalt.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 33, eerste lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Als overtreding wordt aangemerkt het niet naleven van de artikelen 3, 4, eerste lid, 5, 6, eerste lid, eerste volzin, 8, 9, eerste en tweede lid, 10, 11, 13, eerste lid, eerste volzin, en tweede tot en met vierde lid, zevende lid, onder b, negende en tiende lid, 14, eerste lid, tweede lid, onder a tot en met f, derde lid, tweede zin, vierde en vijfde lid, 14a, tweede en derde lid, 15, eerste en derde lid, 18 en 19.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 45 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">45</nr>
+                  <titel>Overgangsbepaling</titel>
+                </kop>
+                <al>Op schriftelijke afspraken die zijn gemaakt overeenkomstig artikel 14, vierde lid, zoals dat artikellid luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet van 25 januari 2017 tot wijziging van de Arbeidsomstandighedenwet in verband met de versterking van de betrokkenheid van de werkgevers en werknemers bij de arbodienstverlening, de preventie in het bedrijf of de inrichting van de werkgever, en de randvoorwaarden voor het handelen van de bedrijfsarts (<extref doc="stb-2017-22" soort="document" status="actief">Stb.  2017, 22</extref>), blijft artikel 14, vierde lid, zoals dat artikellid luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van die wet, van toepassing tot de datum waarop die afspraken expireren, doch uiterlijk tot een jaar na inwerkingtreding van die wet. Tot dat tijdstip is artikel 14, vijfde lid, niet van toepassing.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>De voordracht voor het koninklijk besluit dat het tijdstip van inwerkingtreding van artikel I, onderdelen A en D, bepaalt, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers van de Staten-Generaal is overgelegd.</al>
+          </lid>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="34375">34 375</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>Wassenaar,</plaats>
+            <datum isodatum="2017-01-25">25 januari 2017</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>L.F.</voornaam>
+            <achternaam>Asscher</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2017-02-08">Uitgegeven de <nadruk type="cur"> achtste</nadruk> februari 2017</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>S.A.</voornaam>
+              <achternaam>Blok</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

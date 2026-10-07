@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008498/BWBR0008498.manifest.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008498/manifest.xml",
+  "file": "data/raw/bwb/BWBR0008498/manifests/ca4d01baa4d93c693984cbd5f18a94ed659b3a31f53f751c14134bbd6b9176aa.xml",
+  "sha256": "ca4d01baa4d93c693984cbd5f18a94ed659b3a31f53f751c14134bbd6b9176aa",
+  "sha512": "9a565faeacf5b70e1c1ec9f1e09cd7fe11a7876071f310a0da928de032d576842174dacd53bafb542911517c117b53b210f793cd898bfa6aeebb24950ee9ad19",
+  "bytes": 62559,
+  "retrieved_at": "2026-10-05T09:43:30.659178+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

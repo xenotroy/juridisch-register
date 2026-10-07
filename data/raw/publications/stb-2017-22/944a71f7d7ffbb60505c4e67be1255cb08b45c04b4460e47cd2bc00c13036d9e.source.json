@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/stb-2017-22/stb-2017-22.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2017/stb-2017-22/1/xml/stb-2017-22.xml",
+  "file": "data/raw/publications/stb-2017-22/944a71f7d7ffbb60505c4e67be1255cb08b45c04b4460e47cd2bc00c13036d9e.xml",
+  "sha256": "944a71f7d7ffbb60505c4e67be1255cb08b45c04b4460e47cd2bc00c13036d9e",
+  "sha512": "98e16d83538d2fe7e61ae8a7a4499e4fdca60e5dbac99b4b6ce86ddd232805f4c2b4e9f6a46932df630586c507c3df81d8c16a59f8d2725f31d33c6d2cc86b07",
+  "bytes": 19953,
+  "retrieved_at": "2026-10-05T10:12:03.113934+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2024-409/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 11 december 2024, houdende wijziging van enkele wetten van met name het Ministerie van Sociale Zaken en Werkgelegenheid in verband met verscheidene technische en kleine beleidsmatige wijzigingen (Verzamelwet SZW 2025)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat dat het wenselijk is om enige wetstechnische en kleine beleidsmatige wijzigingen aan te brengen in met name de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+            <titel>ALGEMENE KINDERBIJSLAGWET</titel>
+          </kop>
+          <wat type="wijziging">De Algemene Kinderbijslagwet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 14, eerste lid, onderdeel b, wordt «artikel 9.1.3, tiende lid, van de Wet langdurige zorg» vervangen door «artikel 9.1.3a, eerste lid, van de Wet langdurige zorg».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 22 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In de eerste volzin wordt «binnen drie maanden» vervangen door «binnen twee jaar»;</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>De tweede volzin vervalt.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 41b, derde lid, vervalt.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+            <titel>ALGEMENE NABESTAANDENWET</titel>
+          </kop>
+          <wat type="wijziging">De Algemene nabestaandenwet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 32a, zesde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 32b, vierde lid, wordt «, vijfde en zesde lid» vervangen door «en vijfde lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 52 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">52</nr>
+                </kop>
+                <al>Een uitkering op grond van deze wet die niet in ontvangst is genomen of is ingevorderd binnen twee jaar na de dag van betaalbaarstelling, wordt niet meer betaald.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 68a vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+            <titel>ALGEMENE OUDERDOMSWET</titel>
+          </kop>
+          <wat type="wijziging">De Algemene Ouderdomswet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 8a, vierde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 9a, vijfde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 13, derde lid, vervalt «en gedeelten van jaarpremies tot gehele jaarpremies».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 13a, tweede lid, wordt «Artikel 13, eerste lid» vervangen door «Artikel 13, tweede lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 62a, derde lid, vervalt.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+            <titel>ARBEIDSOMSTANDIGHEDENWET</titel>
+          </kop>
+          <wat type="wijziging">De Arbeidsomstandighedenwet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 1 is geplaatst, vervalt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Artikel 1 komt te luiden:</wat>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">1.</nr>
+                  <titel>Definities</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+                  <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                    <definitie-item>
+                      <term>arbeidsmiddelen:</term>
+                      <definitie>
+                        <al>alle op de arbeidsplaats gebruikte machines en verwante producten, installaties, apparaten, gereedschappen, digitale systemen en andere hulpmiddelen om de arbeid te verrichten;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>arbeidsongeval:</term>
+                      <definitie>
+                        <al>een aan een werknemer in verband met het verrichten van arbeid overkomen ongewilde, plotselinge gebeurtenis, die schade aan de gezondheid tot vrijwel onmiddellijk gevolg heeft gehad en heeft geleid tot ziekteverzuim, of de dood tot vrijwel onmiddellijk gevolg heeft gehad;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>arbeidsplaats:</term>
+                      <definitie>
+                        <al>iedere plaats die in verband met het verrichten van arbeid wordt of pleegt te worden gebruikt;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>arbodienst:</term>
+                      <definitie>
+                        <al>een dienst als bedoeld in artikel 14a, tweede en derde lid;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>ondernemingsraad:</term>
+                      <definitie>
+                        <al>de ondernemingsraad, bedoeld in de Wet op de ondernemingsraden;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>Onze
+                              Minister:</term>
+                      <definitie>
+                        <al>Onze Minister van Sociale Zaken en Werkgelegenheid;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>personeelsvertegenwoordiging:</term>
+                      <definitie>
+                        <al>de personeelsvertegenwoordiging, bedoeld in de Wet op de ondernemingsraden;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>psychosociale arbeidsbelasting:</term>
+                      <definitie>
+                        <al>de blootstelling aan factoren in de arbeidssituatie die stress teweeg brengen, waaronder in ieder geval:</al>
+                        <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>agressie of geweld;</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>direct of indirect onderscheid;</al>
+                          </li>
+                          <li>
+                            <li.nr>c.</li.nr>
+                            <al>pesten;</al>
+                          </li>
+                          <li>
+                            <li.nr>d.</li.nr>
+                            <al>seksuele intimidatie;</al>
+                          </li>
+                          <li>
+                            <li.nr>e.</li.nr>
+                            <al>werkdruk;</al>
+                          </li>
+                        </lijst>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>stress:</term>
+                      <definitie>
+                        <al>een toestand die als negatief ervaren lichamelijke, psychische of sociale gevolgen heeft;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>toezichthouder:</term>
+                      <definitie>
+                        <al>de toezichthouder, bedoeld in de Algemene wet bestuursrecht, en als zodanig aangewezen op grond van artikel 24;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>vrijwilliger:</term>
+                      <definitie>
+                        <al>de persoon, die niet bij wijze van beroep arbeid verricht voor een privaatrechtelijk of publiekrechtelijk lichaam dat niet is onderworpen aan de vennootschapsbelasting dan wel voor een sportorganisatie en die geen werknemer is in de zin van artikel 2 van de Wet op de loonbelasting 1964, met uitzondering van de persoon die arbeid verricht:</al>
+                        <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>ter voorbereiding op beroepsmatige arbeid;</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>in het kader van een taakstraf dan wel in het kader van het voldoen aan voorwaarden ter voorkoming van strafvervolging als bedoeld in artikel 74, tweede lid, onderdeel f, of artikel 77f, eerste lid, onderdeel b, van het Wetboek van Strafrecht dan wel in het kader van deelneming aan een project als bedoeld in artikel 77e van het Wetboek van Strafrecht; of</al>
+                          </li>
+                          <li>
+                            <li.nr>c.</li.nr>
+                            <al>als bedoeld in artikel 16, zesde lid, onderdeel c;</al>
+                          </li>
+                        </lijst>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>werkgever:</term>
+                      <definitie>
+                        <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>degene jegens wie een ander krachtens arbeidsovereenkomst of publiekrechtelijke aanstelling gehouden is tot het verrichten van arbeid, behalve indien die ander aan een derde ter beschikking wordt gesteld voor het verrichten van arbeid, welke die derde gewoonlijk doet verrichten; of</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>degene aan wie een ander ter beschikking wordt gesteld voor het verrichten van arbeid als bedoeld onder a;</al>
+                          </li>
+                        </lijst>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>werknemer:</term>
+                      <definitie>
+                        <al>de ander, genoemd in de begripsomschrijving van werkgever;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>zelfstandige:</term>
+                      <definitie>
+                        <al>degene die zonder werkgever of werknemer te zijn arbeid verricht.</al>
+                      </definitie>
+                    </definitie-item>
+                  </definitielijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>In deze wet en de daarop berustende bepalingen wordt mede verstaan onder:</al>
+                  <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                    <definitie-item>
+                      <term>bedrijf:</term>
+                      <definitie>
+                        <al>een andere plaats waar arbeid wordt verricht of pleegt te worden verricht;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>inrichting:</term>
+                      <definitie>
+                        <al>een andere plaats waar arbeid wordt verricht op pleegt te worden verricht;</al>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>werkgever:</term>
+                      <definitie>
+                        <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                          <li>
+                            <li.nr>a.</li.nr>
+                            <al>degene die zonder werkgever of werknemer in de zin van het eerste lid te zijn, een ander onder zijn gezag arbeid doet verrichten; of</al>
+                          </li>
+                          <li>
+                            <li.nr>b.</li.nr>
+                            <al>degene die zonder werkgever of werknemer in de zin van het eerste lid te zijn, een ander niet onder zijn gezag arbeid in een woning doet verrichten, in bij algemene maatregel van bestuur aan te wijzen gevallen;</al>
+                          </li>
+                        </lijst>
+                      </definitie>
+                    </definitie-item>
+                    <definitie-item>
+                      <term>werknemer:</term>
+                      <definitie>
+                        <al>de ander, genoemd in de in dit lid opgenomen begripsomschrijving van werkgever, met uitzondering van degene die als vrijwilliger arbeid verricht.</al>
+                      </definitie>
+                    </definitie-item>
+                  </definitielijst>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 2 en 3 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 4 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 4 is geplaatst, vervalt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid, aanhef, wordt «artikel 1, eerste lid, onderdeel a, onder 1°» vervangen door «onderdeel a van de begripsomschrijving van werkgever in artikel 1, eerste lid,».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 5 tot en met 8 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 9 wordt al volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 9 is geplaatst, wordt als opschrift bij artikel 9 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Gelet op artikel 9, tweede lid, onderdeel b, van de Algemene verordening gegevensbescherming, is het verbod om gegevens over gezondheid te verwerken niet van toepassing indien de verwerking geschiedt door een werkgever en de verwerking noodzakelijk is om te voldoen aan de verplichtingen, genoemd in het eerste lid. Artikel 30, vierde lid, tweede zin, van de Uitvoeringswet Algemene verordening gegevensbescherming is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 10 tot en met 13 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Artikel 14 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 14 is geplaatst, wordt als opschrift bij artikel 14 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het twaalfde lid, onderdeel a, wordt na «in totaal» ingevoegd «, voor alle werknemers gezamenlijk,».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 14a tot en met 23 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven artikel 24 is geplaatst, wordt als opschrift bij artikel 24 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 25 tot en met 28 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven artikel 28a is geplaatst, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Het opschrift bij artikel 28b komt te luiden:</wat>
+            <wijziging>
+              <artikelkop>
+                <label>Artikel</label>
+                <nr status="officieel">28b.</nr>
+                <titel>Last onder bestuursdwang</titel>
+              </artikelkop>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven artikel 29 is geplaatst, wordt als opschrift bij artikel 29 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>Artikel 30 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 30 is geplaatst, wordt als opschrift bij artikel 30 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt na «inrichtingen» ingevoegd «, personen».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>Artikel 31 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De tekstregel die bij wijze van opschrift boven artikel 31 is geplaatst, wordt als opschrift bij artikel 31 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid wordt na «Onze Minister» ingevoegd «,tenzij sprake is van een beschikking die blijkens het tweede lid namens Onze Minister wordt gegeven».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 32 tot en met 38 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>Na artikel 38 vervallen de tekstregels «Invordering» en «Wijziging boetebedrag».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven de artikelen 43 en 44 is geplaatst, wordt telkens als opschrift bij het daaronder opgenomen artikelnummer geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>Na artikel 44 vervalt de tekstregel «Evaluatie».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>De tekstregel die bij wijze van opschrift boven artikel 46 is geplaatst, wordt als opschrift bij artikel 46 geplaatst volgens het model Artikel #. [tekstregel]</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+            <titel>ARBEIDSWET BES 2000</titel>
+          </kop>
+          <wat type="wijziging">De Arbeidswet BES 2000 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 19, tweede lid, wordt vervangen door twee leden, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kan, al dan niet onder het stellen van beperkingen of voorwaarden, worden bepaald dat werkzaamheden niet verboden zijn voor kinderen van 13 of 14 jaar, indien die:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <?xpp qa?>
+                    <?xpp lead;-1?>
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>noodzakelijk zijn voor het leren van een vak of beroep;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>uit de aard ervan door kinderen plegen te worden verricht;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>lichamelijk of geestelijk geen hoge eisen stellen of een gevaarlijk karakter dragen.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>De werkzaamheden, genoemd in het tweede lid, vinden niet plaats voor 7.00 uur en na 19.00 uur en wat betreft de werkzaamheden genoemd in het tweede lid, onder b en c, niet onder schooltijd.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 20 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">20</nr>
+                </kop>
+                <al>Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>19.00 uur en 7.00 uur voor zover het gaat om een 15-jarige;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>23.00 uur en 6.00 uur voor zover het gaat om een 16- of 17-jarige.</al>
+                  </li>
+                </lijst>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Aan artikel 21, tweede lid, wordt een zin toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <?xpp qa?>
+                <?xpp lead;-1?>
+                <al>Artikel 19, tweede lid, is van overeenkomstige toepassing, met dien verstande dat voor kinderen wordt gelezen jeugdigen en dat de werkzaamheden, genoemd in artikel 19, tweede lid, onder a, ook werkzaamheden kunnen zijn in ruimtes waar alcohol wordt geschonken.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">Va</nr>
+            <titel>TABAKS- EN ROOKWARENWET</titel>
+          </kop>
+          <wat type="wijziging">De begripsbepaling van werkgever in artikel 1 van de Tabaks- en rookwarenwet komt te luiden:</wat>
+          <wijziging>
+            <artikeltekst>
+              <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                <definitie-item>
+                  <term>werkgever:</term>
+                  <definitie>
+                    <al>de werkgever, bedoeld in artikel 1, eerste lid, en tweede lid, onderdeel a, van de Arbeidsomstandighedenwet, met inbegrip van degene die een persoon als vrijwilliger als bedoeld in artikel 1, eerste lid, van die wet arbeid laat verrichten;</al>
+                  </definitie>
+                </definitie-item>
+              </definitielijst>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI</nr>
+            <titel>TOESLAGENWET</titel>
+          </kop>
+          <wat type="wijziging">In artikel 44d van de Toeslagenwet vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VII</nr>
+            <titel>WARENWET</titel>
+          </kop>
+          <wat type="wijziging">Artikel 1, eerste lid, onderdeel d, subonderdeel 2, van de Warenwet komt te luiden:</wat>
+          <wijziging>
+            <artikeltekst>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>2°.</li.nr>
+                  <al>Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover het te nemen besluit of te regelen onderwerp voor beroepsmatige toepassing bestemde persoonlijke beschermingsmiddelen, machines en verwante producten dan wel andere technische voortbrengselen betreft of indien het te nemen besluit of te regelen onderwerp liften, containers, drukvaten van eenvoudige vorm of drukapparatuur en samenstellen daarvan dan wel explosieveilig materieel betreft;</al>
+                </li>
+              </lijst>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VIII</nr>
+            <titel>WET ALLOCATIE ARBEIDSKRACHTEN DOOR INTERMEDIAIRS</titel>
+          </kop>
+          <wat type="wijziging">In artikel 8, derde lid, onderdeel b, van de Wet allocatie arbeidskrachten door intermediairs, wordt «hetero- of homoseksuele gerichtheid» vervangen door «seksuele gerichtheid».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IX</nr>
+            <titel>WET ARBEID EN ZORG</titel>
+          </kop>
+          <wat type="wijziging">In artikel 5:16 van de Wet arbeid en zorg wordt «personeeelsvertegenwoordiging» vervangen door «personeelsvertegenwoordiging».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">X</nr>
+            <titel>WET ARBEIDSONGESCHIKTHEIDSVERZEKERING ZELFSTANDIGEN</titel>
+          </kop>
+          <wat type="wijziging">De Wet arbeidsongeschiktheidsverzekering zelfstandigen wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 7a, zesde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 19a, tweede lid, wordt «, vijfde en zesde lid» vervangen door «en vijfde lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 59, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien ter zake van arbeidsongeschiktheid een herziening van de arbeidsongeschiktheidsuitkering in verband met de artikelen 12 tot en met 17 plaatsvindt of een anticumulatie als bedoeld in artikel 58 is of wordt beëindigd en een recht ontstaat op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen uit hoofde van een dienstbetrekking die is aangevangen na het intreden van arbeidsongeschiktheid op grond waarvan een recht op arbeidsongeschiktheidsuitkering is ontstaan, wordt de arbeidsongeschiktheidsuitkering uitbetaald voor zover deze de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen overtreft, en in geval van een herziening in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 101g vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XI</nr>
+            <titel>WET FINANCIERING SOCIALE VERZEKERINGEN</titel>
+          </kop>
+          <wat type="wijziging">De Wet financiering sociale verzekeringen wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1 vervallen de onderdelen y en z, onder vervanging van de puntkomma aan het slot van onderdeel x door een punt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 18 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, derde zin, vervalt «hogere».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Aan het eerste lid wordt een zin toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <al>Indien het restbedrag € 1,305 bedraagt, geschiedt de afronding naar boven.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 33, tweede lid, vervalt «, alsmede de financiële middelen voor het vormen en in stand houden van een staartlastenvermogen in de Werkhervattingskas,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 113a vervalt «alsmede de financiële middelen benodigd voor het vormen en in stand houden van een staartlastenvermogen,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>In artikel 117b, eerste lid onderdeel a, vervalt «, met dien verstande dat de WGA-staartlastuitkeringen en de uitvoeringskosten en andere kosten in verband met deze uitkeringen ten laste komen van het staartlastenvermogen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XII</nr>
+            <titel>WET FLEXIBEL WERKEN</titel>
+          </kop>
+          <wat type="wijziging">In onderdelen b en c van het eerste lid van artikel 2a van de Wet flexibel werken wordt na «artikel 5:1, tweede lid,» ingevoegd «van de Wet arbeid en zorg».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIII</nr>
+            <titel>WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE WERKLOZE WERKNEMERS</titel>
+          </kop>
+          <wat type="wijziging">De wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 8, negende lid, wordt «€ 167,07» vervangen door «€ 264,14».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 8, tiende lid, wordt «€ 167,07» vervangen door «€ 264,14».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIV</nr>
+            <titel>WET INKOMENSVOORZIENING OUDERE EN GEDEELTELIJK ARBEIDSONGESCHIKTE GEWEZEN ZELFSTANDIGEN</titel>
+          </kop>
+          <wat type="wijziging">De wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 8, dertiende lid, wordt «€ 167,07» vervangen door «€ 264,14».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 8, veertiende lid, wordt «€ 167,07» vervangen door «€ 264,14».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 8, veertiende lid, wordt «bedoeld in het veertiende lid» vervangen door «bedoeld in het dertiende lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 8, vijftiende lid, wordt «genoemd in het veertiende en vijftiende lid» vervangen door «genoemd in het dertiende en veertiende lid».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XV</nr>
+            <titel>WET LANGDURIGE ZORG</titel>
+          </kop>
+          <wat type="wijziging">De Wet langdurige zorg wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 9.1.3 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het tweede tiende lid en het elfde tot en met vijftiende lid vervallen.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tiende lid wordt «onafgebroken is gecontinueerd» vervangen door «onafgebroken gecontinueerd».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Na artikel 9.1.3 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">9.1.3a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het CIZ verstrekt ambtshalve of op verzoek, kosteloos, de volgende persoonsgegevens aan de Sociale verzekeringsbank, welke gegevens noodzakelijk zijn voor de uitvoering van diens taak tot vaststelling of een recht op een verdubbeling van het bedrag aan kinderbijslag, als bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet, bestaat of eindigt:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het gegeven dat het CIZ het recht op zorg heeft vastgesteld van een verzekerde die de leeftijd heeft, bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de ingangsdatum en de einddatum van dit besluit;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de geboortedatum van die verzekerde; en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>het burgerservicenummer van die verzekerde.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De ambtshalve verstrekking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat het CIZ de vertegenwoordiger van de verzekerde, ten aanzien van wie een indicatiebesluit is genomen, in het indicatiebesluit gedurende een termijn van ten minste twee weken in de gelegenheid heeft gesteld niet in te stemmen met deze verstrekking.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Het CIZ verwerkt persoonsgegevens, waaronder het gegeven dat het CIZ het recht op zorg heeft vastgesteld van een verzekerde die de leeftijd heeft, bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet, het aan de Sociale verzekeringsbank verstrekte gegeven of de verzekerde is aangewezen op een bepaalde mate van intensieve zorg als bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet en het burgerservicenummer van die verzekerde, die noodzakelijk zijn om diens vertegenwoordiger ambtshalve te informeren over een mogelijk recht op een verdubbeling van het bedrag aan kinderbijslag, als bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Het CIZ kan persoonsgegevens, waaronder het gegeven dat het CIZ het recht op zorg heeft vastgesteld van een verzekerde die de leeftijd heeft, bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet, het aan de Sociale verzekeringsbank verstrekte gegeven of de verzekerde is aangewezen op een bepaalde mate van intensieve zorg als bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet en het burgerservicenummer van de verzekerde, bedoeld in het derde lid, verwerken, welke gegevens noodzakelijk zijn voor het vaststellen van de effectiviteit van het ambtshalve informeren van de vertegenwoordiger van de verzekerde over een mogelijk recht op een verdubbeling van het bedrag aan kinderbijslag als bedoeld in artikel 7a, eerste lid, van de Algemene Kinderbijslagwet.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het derde en vierde lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Met ingang van een jaar na de datum van inwerkingtreding van de Wet van 13 maart 2024 tot wijziging van de Wet langdurige zorg en de Algemene Kinderbijslagwet in verband met de invoering van ambtshalve toekenning en toekenning met terugwerkende kracht van dubbele kinderbijslag bij intensieve zorg (<extref doc="stb-2024-78" soort="document" status="actief">Stb. 2024, 78</extref>), vervallen het derde tot en met zesde lid en de nadere regels die zijn gesteld op grond van het vijfde lid.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVI</nr>
+            <titel>WET MINIMUMLOON EN MINIMUMVAKANTIEBIJSLAG</titel>
+          </kop>
+          <wat type="wijziging">In artikel 14, zesde lid, van de Wet minimumloon en minimumvakantiebijslag, wordt «het vijde lid» vervangen door «het vijfde lid».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVII</nr>
+            <titel>WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING</titel>
+          </kop>
+          <wat type="wijziging">De Wet op de arbeidsongeschiktheidsverzekering wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 20, zesde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 43b, tweede lid, wordt «, vijfde en zesde lid» vervangen door «en vijfde lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 91i vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVIII</nr>
+            <titel>WET WERK EN INKOMEN NAAR ARBEIDSVERMOGEN</titel>
+          </kop>
+          <wat type="wijziging">De Wet werk en inkomen naar arbeidsvermogen wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 45, tweede lid, vervalt, onder vernummering van het derde lid tot tweede lid.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 133g vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIX</nr>
+            <titel>ZIEKTEWET</titel>
+          </kop>
+          <wat type="wijziging">De Ziektewet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 19a, vijfde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 31, tweede lid, onder B en C, wordt «de arbeidsongeschiktheidsuitkering» vervangen door «het ziekengeld».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 87c vervalt het tweede lid alsmede de aanduiding «1» voor het eerste lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XX</nr>
+            <titel>INWERKINGTREDING</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>In afwijking van het eerste lid, treden onderdelen A en B van de artikelen XIII en XIV van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 januari 2024.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXI</nr>
+            <titel>CITEERTITEL</titel>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Verzamelwet SZW 2025.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="36616">36 616</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2024-12-11">11 december 2024</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>Y.J. van</voornaam>
+            <achternaam>Hijum</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2024-12-17">Uitgegeven de <nadruk type="cur">zeventiende</nadruk> december 2024</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

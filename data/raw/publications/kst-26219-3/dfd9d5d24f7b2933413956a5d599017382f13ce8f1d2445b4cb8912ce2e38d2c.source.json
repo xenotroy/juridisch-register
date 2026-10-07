@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/externe-publicaties/kst-26219-3/kst-26219-3.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/kst/26219/kst-26219-3/1/xml/kst-26219-3.xml",
+  "file": "data/raw/publications/kst-26219-3/dfd9d5d24f7b2933413956a5d599017382f13ce8f1d2445b4cb8912ce2e38d2c.xml",
+  "sha256": "dfd9d5d24f7b2933413956a5d599017382f13ce8f1d2445b4cb8912ce2e38d2c",
+  "sha512": "053ddaeffcd69b75dbe38d17b0f1ae7f6599e939f8d3d2baff1bec117a9b13ce2235a71f1adf941709f98cd6f75a5e41329869b3cab3f7c6432606a792832134",
+  "bytes": 433084,
+  "retrieved_at": "2026-10-05T10:12:02.669937+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": null,
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2026-76/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 28 maart 2026 tot vaststelling van het tijdstip van inwerkingtreding van de Verzamelwet SZW 2026</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 24 maart 2026, nr. 2026-0000003373;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel XXIV, eerste lid, van de Verzamelwet SZW 2026;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>De Verzamelwet SZW 2026 treedt in werking met ingang van 1 juli 2026, met uitzondering van artikel X, onderdeel C en onderdeel D, subonderdelen 1 en 3, en artikel XXIIIA.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>In afwijking van het eerste lid treedt artikel IV, onderdeel E, van de Verzamelwet SZW 2026 in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.</al>
+          </lid>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2026-03-28">28 maart 2026</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>J.A.</voornaam>
+            <achternaam>Vijlbrief</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2026-04-02">Uitgegeven de <nadruk type="cur">tweede</nadruk> april 2026</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Dit besluit regelt dat het merendeel van de Verzamelwet SZW 2026<noot id="n1" type="voet"><noot.nr>1</noot.nr><noot.al><extref doc="stb-2026-18" soort="document" status="actief">Staatsblad 2026, 18</extref>.</noot.al></noot> in werking treedt met ingang van 1 juli 2026.</al>
+        <al>In artikel XXIV, tweede lid, van de Verzamelwet SZW 2026 is geregeld dat artikel XXIIIA in werking treedt ofwel per 1 januari 2026, ofwel, als de wet na 31 december 2025 gepubliceerd wordt, op de dag na publicatie in het Staatsblad. Zie voor een toelichting op de inwerkingtreding van dit artikel de toelichting bij de nota van wijziging bij de Verzamelwet SZW 2026.<noot id="n2" type="voet"><noot.nr>2</noot.nr><noot.al>Kamerstukken II, 2025/26, <extref doc="kst-36796-6" soort="document" status="actief">36 796, nr. 6</extref>.</noot.al></noot> Dit besluit regelt daarom niet de inwerkingtreding van artikel XXIV. De wet is op 3 februari 2026 bekendgemaakt, wat betekent dat dit artikel met ingang van 4 februari 2026 in werking is getreden.</al>
+        <al>Daarnaast is een uitzondering gemaakt voor artikel X, onderdeel C en onderdeel D, subonderdelen 1 en 3. Deze onderdelen kunnen niet in werking treden, omdat de Verzamelwet SZW 2026 op 1 juli 2026 in werking treedt, in plaats van op de beoogde inwerkingtredingsdatum van 1 januari 2026. Deze onderdelen wijzigen wijzigingsbepalingen die al per 1 januari 2026 in werking zijn getreden en kunnen daarom niet meer in werking treden.</al>
+        <al>Artikel IV, onderdeel E zal in afwijking van de vaste verandermomenten in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. Met artikel IV, onderdeel E, wordt een omissie in artikel 62, onderdeel c, van de Participatiewet hersteld. Deze omissie is ontstaan na de inwerkingtreding van de Participatiewet in balans. Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in Boek 1 van het Burgerlijk Wetboek, verhaald worden op de onderhoudsplichtige. Op deze manier blijft de onderhoudsplichtige financieel verantwoordelijk voordat de overheid bijspringt. De Participatiewet in balans heeft niet beoogd om hier verandering in te brengen. Om deze reden is het van belang dat de omissie in artikel 62, onder c, Participatiewet zo snel mogelijk wordt hersteld, zodat duidelijk is dat ook aanvullende bijstand voor jongeren (artikel 20, derde lid, Participatiewet) kan worden verhaald op ouders die hun onderhoudsplicht niet of niet behoorlijk nakomen.</al>
+        <ondertekening>
+          <functie>De Minister van Sociale Zaken en Werkgelegenheid,</functie>
+          <naam>
+            <voornaam>J.A.</voornaam>
+            <achternaam>Vijlbrief</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

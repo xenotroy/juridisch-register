@@ -1,0 +1,13 @@
+app/node_modules/
+app/dist/
+app/public/data/
+app/public/raw/
+data/normalized/
+data/review/
+vault-export/
+docs/qa/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*

@@ -1,0 +1,13 @@
+{
+  "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/2016-01-01_0/xml/BWBR0010346_2016-01-01_0.xml",
+  "resolved_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0010346/2016-01-01_0/xml/BWBR0010346_2016-01-01_0.xml",
+  "file": "data/raw/bwb/BWBR0010346/states/91c5d3af94f2d045d5f6199cb2f415170da2ead241d6581c0b81c5b2aa255b8c.xml",
+  "sha256": "91c5d3af94f2d045d5f6199cb2f415170da2ead241d6581c0b81c5b2aa255b8c",
+  "sha512": "0fbe1f996b2aee6d2f6b17ddef4ffc1ad2a144852182cc5be616e82ffc8b86b579bf375f23812122ceeade59b10b209d9ed6a20746260950917fa29e0f1df8f6",
+  "bytes": 387738,
+  "retrieved_at": "2026-10-05T09:43:29.342575+00:00",
+  "parser_version": "0.1.0",
+  "manifest_sha512": "7440cf0dae00eddf79a3bbf523e97c6135d88e5b888a2bf186e1893f4d8ad8f1ddb4199582554cf67ed093bc28e2808e16c105c59a6bf74766774f9f76750f13",
+  "koop_hash_verified": false,
+  "xml_parseable": true
+}

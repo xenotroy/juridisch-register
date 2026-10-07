@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2022-483/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 23 november 2022 tot wijziging van diverse besluiten in verband met wijzigingen op het terrein van de voldoening van het lesgeld, de invoering van de Registratie instellingen en opleidingen en enkele technische verbeteringen</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 18 oktober 2022, nr. WJZ/34221837 (ID13463), directie Wetgeving en Juridische Zaken;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel 6, derde lid, van de Algemene kinderbijslagwet, artikel 13, derde lid, van de Algemene nabestaandenwet, artikel 6, derde lid, van de Algemene Ouderdomswet, de artikelen 9, eerste lid, 12, tweede lid, 21, eerste en tweede lid, 23, vierde lid, 25, tweede lid, onderdeel b en 41, tweede lid, van de Archiefwet 1995, de artikelen 8, tweede lid, 12, 13 en 17, tweede lid, van de Archiefwet BES, de artikelen 25a en 25b, derde lid, van de Gerechtsdeurwaarderswet, artikel 6, vierde lid, van de Les- en cursusgeldwet, de artikelen 2a, tweede lid, onderdeel a, en 112 van de Vreemdelingenwet 2000, artikel 3 van de Wet College voor toetsen en examens, de artikelen 7.4.3, eerste lid, 7.4.3a en 11a.1 van de Wet educatie en beroepsonderwijs, de artikelen 28, 30, 32, 33a, 33c, 34 en 36a van de Wet op de beroepen in de individuele gezondheidszorg, de artikelen 1.7a en 6.13, derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de artikelen 8, vierde lid, en 20, zevende lid, van de Wet register onderwijsdeelnemers en artikel 9.2, eerste lid, van de Wet voortgezet onderwijs 2020;</considerans.al>
+          <considerans.al bevat="gehoord">De Afdeling advisering van de Raad van State gehoord (advies van 2 november 2022, nr. W05.22.00133/I);</considerans.al>
+          <considerans.al bevat="gezien">Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2022, nr. WJZ/34734631 (ID13463), directie Wetgeving en Juridische Zaken;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I.</nr>
+            <titel>WIJZIGING ARCHIEFBESLUIT 1995</titel>
+          </kop>
+          <wat type="wijziging">Artikel 15 van het Archiefbesluit 1995 wordt als volgt gewijzigd:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>In het eerste lid, onderdeel a, vervalt «, onderdeel c,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>In het eerste lid, onderdeel b, vervalt «, onderdeel d,».</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II.</nr>
+            <titel>WIJZIGING ARCHIEFBESLUIT BES</titel>
+          </kop>
+          <wat type="wijziging">Artikel 17 van het Archiefbesluit BES wordt als volgt gewijzigd:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>In het eerste lid, onderdeel a, vervalt «, onderdeel c,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>In het eerste lid, onderdeel b, vervalt «, onderdeel d,».</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III.</nr>
+            <titel>WIJZIGING BESLUIT DIËTIST, ERGOTHERAPEUT, LOGOPEDIST, MONDHYGIËNIST, OEFENTHERAPEUT, ORTHOPTIST EN PODOTHERAPEUT</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1, onderdeel a, wordt «Centraal register opleidingen hoger onderwijs» vervangen door «Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In de artikelen 2, 6, 10, 14, 18, 22 en 26 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV.</nr>
+            <titel>WIJZIGING BESLUIT EXPERIMENT CROSS-OVER KWALIFICATIES</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit experiment cross-over kwalificaties wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Het opschrift van hoofdstuk 3 komt te luiden: Hoofdstuk 3. De Registratie instellingen en opleidingen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 17 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden: Artikel 17. Opname in de Registratie instellingen en opleidingen.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In de aanhef wordt «het Centraal register beroepsonderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V.</nr>
+            <titel>WIJZIGING BESLUIT EXPERIMENT EXCELLENTIE IN HET HOGER ONDERWIJS</titel>
+          </kop>
+          <wat type="wijziging">In artikel 1, onderdeel c, van het Besluit experiment excellentie in het hoger onderwijs vervalt «, onderdeel j,».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI.</nr>
+            <titel>WIJZIGING BESLUIT EXPERIMENT GEREGIONALISEERDE BEROEPSOPLEIDINGEN EN KWALIFICATIES MBO</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 3 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid wordt «het Centraal register beroepsonderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vijfde lid wordt «Examen- en kwalificatiebesluit beroepsopleidingen WEB» vervangen door «Examen- en kwalificatiebesluit WEB».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 5, tweede lid, wordt «Examen- en kwalificatiebesluit beroepsopleidingen WEB» vervangen door «Examen- en kwalificatiebesluit WEB».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 20 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het opschrift komt te luiden: Artikel 20. Opname in de Registratie instellingen en opleidingen.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste en tweede lid wordt «het Centraal register beroepsonderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VII.</nr>
+            <titel>WIJZIGING BESLUIT EXPERIMENT VRAAGFINANCIERING HOGER ONDERWIJS</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit experiment vraagfinanciering hoger onderwijs wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In onderdeel f vervalt «, onderdeel j,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In onderdeel g vervalt «, onderdeel d,».</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 5, vierde lid, vervalt «, onderdeel p,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 6, tweede lid, onderdeel c, vervalt «, onderdeel q,».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VIII.</nr>
+            <titel>WIJZIGING BESLUIT EXPERIMENTEN FLEXIBEL HOGER ONDERWIJS</titel>
+          </kop>
+          <wat type="wijziging">Artikel 1 van het Besluit experimenten flexibel hoger onderwijs wordt als volgt gewijzigd:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>In onderdeel f vervalt «, onderdeel j,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>In onderdeel g vervalt «, onderdeel aa,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">3.</nr>
+            <wat>In onderdeel h vervalt «, onderdeel d,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">4.</nr>
+            <wat>In onderdeel i vervalt «, onderdeel c,».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">5.</nr>
+            <wat>In onderdeel j vervalt «, onderdeel d,».</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IX.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED FYSIOTHERAPEUT</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1, onderdeel b, wordt «Centraal register opleidingen hoger onderwijs» vervangen door «Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 2 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">X.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED HUIDTHERAPEUT</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit opleidingseisen en deskundigheidsgebied huidtherapeut wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1 wordt «Centraal register beroepsopleidingen hoger onderwijs» vervangen door «Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 2 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XI.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED KLINISCH TECHNOLOOG</titel>
+          </kop>
+          <wat type="wijziging">In artikel 2 van het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog wordt «het Centraal Register Opleidingen Hoger Onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XII.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED OPTOMETRIST</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit opleidingseisen en deskundigheidsgebied optometrist wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1 wordt «Centraal register beroepsopleidingen hoger onderwijs» vervangen door «Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 2 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIII.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED PHYSICIAN ASSISTANT</titel>
+          </kop>
+          <wat type="wijziging">In artikel 2 van het Besluit opleidingseisen en deskundigheidsgebied physician assistant wordt «het Centraal Register Opleidingen Hoger Onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIV.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED RADIODIAGNOSTISCH LABORANT EN RADIOTHERAPEUTISCH LABORANT</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1, onderdeel a, wordt «Centraal register opleidingen hoger onderwijs» vervangen door «Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 2, eerste lid, wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XV.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN EN DESKUNDIGHEIDSGEBIED VERLOSKUNDIGE 2008</titel>
+          </kop>
+          <wat type="wijziging">In artikel 2 van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVI.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDINGSEISEN VERPLEEGKUNDIGE 2011</titel>
+          </kop>
+          <wat type="wijziging">In artikel 2 van het Besluit opleidingseisen verpleegkundige 2011 wordt «het het Centrale register voor opleidingen hoger onderwijs, genoemd in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek of in het het Centrale register voor beroepsopleidingen, genoemd in artikel 6.4.1 van de Wet educatie en beroepsonderwijs» vervangen door «de Registratie instellingen en opleidingen, bedoeld in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en artikel 6.4.1 van de Wet educatie en beroepsonderwijs».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVII.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDING EN DESKUNDIGHEIDSGEBIED APOTHEKERSASSISTENT</titel>
+          </kop>
+          <wat type="wijziging">In artikel 2 van het Besluit opleiding en deskundigheidsgebied apothekersassistent wordt «het Centraal register beroepsopleidingen» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XVIII.</nr>
+            <titel>WIJZIGING BESLUIT OPLEIDING EN STAGE GERECHTSDEURWAARDERSAMBT</titel>
+          </kop>
+          <wat type="wijziging">Het Besluit opleiding en stage gerechtsdeurwaardersambt wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 2, eerste lid, vervalt «, onderdeel q,» en «, onderdeel r,».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 3, eerste lid, vervalt «, onderdeel q,» en «, onderdeel r,».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XIX.</nr>
+            <titel>WIJZIGING BESLUIT REGISTER ONDERWIJSDEELNEMERS</titel>
+          </kop>
+          <wat type="wijziging">In artikel 1 van het Besluit register onderwijsdeelnemers in de begripsbepaling van «rechtspersoon voor hoger onderwijs» vervalt «, onderdeel aa,».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XX.</nr>
+            <titel>WIJZIGING BESLUIT UITBREIDING EN BEPERKING KRING VERZEKERDEN VOLKSVERZEKERINGEN 1999</titel>
+          </kop>
+          <wat type="wijziging">In artikel 20, tweede lid, onderdeel a, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXI.</nr>
+            <titel>WIJZIGING BESLUIT VERZORGENDE IN DE INDIVIDUELE GEZONDHEIDSZORG</titel>
+          </kop>
+          <wat type="wijziging">In artikel 1 van het Besluit verzorgende in de individuele gezondheidszorg wordt «het Centraal register beroepsopleidingen» vervangen door «de Registratie instellingen en opleidingen».</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXII.</nr>
+            <titel>WIJZIGING EXAMEN- EN KWALIFICATIEBESLUIT BEROEPSOPLEIDINGEN WEB</titel>
+          </kop>
+          <wat type="wijziging">Artikel 20 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB komt te luiden:</wat>
+          <wijziging>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">20.</nr>
+                <titel>Citeertitel</titel>
+              </kop>
+              <al>Dit besluit wordt aangehaald als: Examen- en kwalificatiebesluit WEB.</al>
+            </artikel>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIII.</nr>
+            <titel>WIJZIGING TIJDELIJK BESLUIT ZELFSTANDIGE BEVOEGDHEID GEREGISTREERD-MONDHYGIËNIST</titel>
+          </kop>
+          <wat type="wijziging">Het Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1, onderdeel b, wordt «Centraal Register Opleidingen Hoger Onderwijs» vervangen door «Registratie instellingen en opleidingen»</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 3, eerste lid, onderdeel a, wordt «het Centraal Register Opleidingen Hoger Onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXIV.</nr>
+            <titel>WIJZIGING UITVOERINGSBESLUIT LES- EN CURSUSGELDWET 2000</titel>
+          </kop>
+          <wat type="wijziging">Artikel 4 van het Uitvoeringsbesluit Les- en cursusgeldwet 2000 wordt als volgt gewijzigd:</wat>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat>In het eerste lid, onderdeel b, vervalt «ineens of».</wat>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat>Het tweede lid komt te luiden:</wat>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>Indien de lesgeldplichtige heeft gekozen voor betaling in termijnen door een opdracht tot automatische incasso aan Onze minister en de laatste termijn nog niet is betaald op het moment dat een termijnregeling voor een daarop volgend schooljaar tot stand komt, kunnen beide termijnregelingen worden samengevoegd.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+          <wijziging>
+            <nr status="officieel">3.</nr>
+            <wat>In het vierde lid vervalt «een of meer».</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXV.</nr>
+            <titel>WIJZIGING UITVOERINGSBESLUIT WHW 2008</titel>
+          </kop>
+          <wat type="wijziging">Het Uitvoeringsbesluit WHW 2008 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1.1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De begripsbepaling van «CROHO-onderdeel» vervalt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In de begripsbepaling van «erkenning ITK» vervalt «, onderdeel s,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In de begripsbepaling van «instellingsbestuur» vervalt «, onderdeel j,».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>De begripsbepaling van «register» komt te luiden:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>register:</term>
+                    <definitie>
+                      <al>de Registratie instellingen en opleidingen, bedoeld in artikel 6.13, eerste lid, van de wet.</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In het eerste lid, onderdeel a, en het tweede lid van artikel 2.3 wordt «het Centraal register hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Het opschrift van hoofdstuk 3, afdeling 1, komt te luiden: Afdeling 1. Registratie instellingen en opleidingen.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 4.3, achtste lid, wordt «het CROHO» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>In artikel 4.23, tweede lid, wordt «artikel 1.1, onderdeel d ten 1°» vervangen door «artikel 1.1, onder 1°».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In artikel 5.2, eerste lid, wordt «het CROHO-onderdeel onderwijs of het onderdeel gezondheidszorg» vervangen door «het onderdeel onderwijs of gezondheidszorg van het register, bedoeld in artikel 3.1».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>In artikel 6.9, onderdeel a, wordt «de CROHO-gegevens» vervangen door «de gegevens in de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXVI.</nr>
+            <titel>WIJZIGING VREEMDELINGENBESLUIT 2000</titel>
+          </kop>
+          <wat type="wijziging">Het Vreemdelingenbesluit 2000 wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1.13, onderdeel a, wordt «het Centraal register opleidingen hoger onderwijs» vervangen door «de Registratie instellingen en opleidingen».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 8.12, eerste lid, onderdeel c, wordt «in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1 van de Wet educatie en beroepsonderwijs» vervangen door «in de Registratie instellingen en opleidingen, bedoeld in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en artikel 6.4.1 van de Wet educatie en beroepsonderwijs».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">XXVII.</nr>
+            <titel>INWERKINGTREDING</titel>
+          </kop>
+          <al>Dit besluit treedt in werking met ingang van 1 januari 2023, met uitzondering van de artikelen I, II, V, VII, VIII, XVIII, XIX en XXV, onder A, tweede en derde lid, die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2022-11-23">23 november 2022</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Onderwijs, Cultuur en  Wetenschap,</functie>
+          <naam>
+            <voornaam>R.H.</voornaam>
+            <achternaam>Dijkgraaf</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2022-12-01">Uitgegeven de <nadruk type="cur">eerste</nadruk> december 2022</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">1.</nr>
+            <titel>Algemeen</titel>
+          </kop>
+          <al>Dit besluit wijzigt een aantal besluiten op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en daarnaast enkele besluiten op het terrein van andere ministeries die samenhang hebben met de OCW-regelgeving. Het gaat om één inhoudelijke wijziging en een aantal technische correcties.</al>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Voldoening lesgeld (Artikel XXIV)</titel>
+            </kop>
+            <al>Het eerste lid van artikel 4 van het Uitvoeringsbesluit Les- en cursusgeldwet 2000 wordt aangepast om duidelijk te maken dat voldoening van het lesgeld door middel van de <nadruk type="cur">automatische incasso ineens</nadruk> niet meer mogelijk is. DUO biedt deze mogelijkheid namelijk niet meer aan sinds studiejaar 2011–2012. Met de komst van <nadruk type="cur">iDeal</nadruk> is het <nadruk type="cur">betalen ineens</nadruk> zeer vereenvoudigd. Bovendien is voor het geven van een <nadruk type="cur">machtiging tot automatische incasso voor betaling ineens</nadruk> dezelfde handeling vereist als voor een <nadruk type="cur">digitale overschrijving</nadruk>. Het aanbieden van beide betalingsmogelijkheden voor <nadruk type="cur">betaling ineens</nadruk> vergroot niet het betaalgemak voor de student en vergt bovendien de nodige aanpassingen door DUO. Met deze wijziging wordt het artikel daarom in overeenstemming gebracht met de uitvoeringspraktijk.</al>
+            <al>In verband hiermee kan het tweede lid (oud) ook komen te vervallen. Dit lid ziet namelijk alleen op de <nadruk type="cur">automatische incasso in één termijn</nadruk>. Deze mogelijkheid wordt niet meer aangeboden door DUO.</al>
+            <al>Het tweede lid (nieuw) regelt de mogelijkheid tot het samenvoegen van betalingsregelingen van het lesgeld die door DUO op dit moment al wordt verleend maar nog geen goede basis kent in de regelgeving. DUO wil meer oog hebben voor de individuele situatie van betalingsplichtigen. Daarom is het inningsbeleid aangepast. Betalingsplichtigen met een betalingsachterstand krijgen daardoor niet meteen te maken met een incassoprocedure, maar hen wordt, na persoonlijk contact, een nieuwe betalingsregeling aangeboden. Daardoor kan het gebeuren dat lesgeldplichtigen bij de start van een nieuw schooljaar, en het ontstaan van een nieuwe betalingsplicht voor lesgeld, nog enkele termijnen van een eerdere betalingsregeling moeten voldoen. Om te voorkomen dat de lesgeldplichtige in de (betalings)problemen komt door de doorlopende betalingsregeling van het voorgaande schooljaar, biedt DUO hen aan om één nieuwe betalingsregeling overeen te komen (waar beide betalingsregelingen in worden samengevoegd). Dit is in het belang van de lesgeldplichtige, die nu slechts te maken heeft met één betalingsregeling, en in het belang van de Staat, omdat de kans dat de vordering alsnog wordt voldaan wordt vergroot en geen geld verloren gaat aan dure incassoprocedures. Deze werkwijze is goed uit te voeren voor DUO. De wijziging betreft het formaliseren van staand beleid. In de praktijk wordt dit door betalingsplichtigen als prettig ervaren. Er zijn geen gevallen geweest waarin betalingsplichtigen dit als onwenselijk ervoeren of hierover hebben geklaagd.</al>
+            <al>Daarnaast bevat het besluit de volgende technische wijzigingen:</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Registratie instellingen en opleidingen (Artikel III, IV, VI, IX t/m XVII, XX, XXI, XXIII, XXV en XXVI)</titel>
+            </kop>
+            <al>Onderdeel van de Verzamelwet OCW 2022 is de wijziging van verschillende wetten in verband met de vervanging van het Centraal register beroepsonderwijs (Crebo) en het Centraal register opleidingen hoger onderwijs (Croho) door de Registratie instellingen en opleidingen (Rio). Met Crebo en Croho worden de systemen aangeduid waarin de minister gegevens over instellingen en opleidingen registreert.</al>
+            <al>Deze registers worden na ingang van de wetswijziging onderdeel van Rio en als zodanig benoemd in de wet- en regelgeving waarin naar deze registers wordt verwezen. Dit is alleen een terminologiewijziging en heeft geen inhoudelijke gevolgen voor de te wijzigen besluiten.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Begrippen WHW (Artikel I, II, V, VII, VIII, XVIII, XIX en XXV)</titel>
+            </kop>
+            <al>Met de Verzamelwet OCW 2021 worden de in artikel 1.1 van Wet op het hoger onderwijs en wetenschappelijk onderzoek (WHW) opgenomen begrippen op alfabetische volgorde geplaatst. Om deze reden worden de verwijzingen naar specifieke onderdelen van dit artikel in verscheidene besluiten met onderhavig besluit geschrapt.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Examen- en kwalificatiebesluit WEB (Artikel VI en XXII)</titel>
+            </kop>
+            <al>Met deze wijziging wordt de citeertitel van het Examen- en kwalificatiebesluit beroepsopleidingen WEB gewijzigd naar het Examen- en kwalificatiebesluit WEB. Met de toevoeging van de taalschakeltrajecten aan het EKB ziet dit besluit ook op opleidingen educatie. Daarom wordt het woord «beroepsopleidingen» geschrapt uit de titel. De verwijzingen naar het EKB in het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties Mbo moeten daarom ook worden aangepast.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel>Inwerkingtreding (Artikel XXVII)</titel>
+            </kop>
+            <al-groep>
+              <al>Dit besluit treedt – conform de vaste verandermomenten voor het onderwijs – in werking op 1 januari 2023. Dit sluit aan op de wijziging van Rio op wetsniveau.<noot id="n1" type="voet"><noot.nr>1</noot.nr><noot.al><extref doc="stb-2022-116" soort="document" status="actief">Stb. 2022, 116</extref> en <extref doc="stb-2022-117" soort="document" status="actief">Stb. 2022, 117</extref>.</noot.al></noot> In afwijking van het voorgaande treden de artikelen I, II, VII, VIII, XVIII, XIX en XXV, onderdeel A, voor zover het betreft het tweede en derde lid, in werking op een bij koninklijk besluit te bepalen tijdstip. De inwerkingtreding van deze artikelen zal worden afgestemd op de inwerkingtreding van het artikel van de Verzamelwet OCW 2021 waarmee de alfabetische rangschikking van begrippen op wetsniveau wordt geregeld.</al>
+              <al>Het is niet zeker dat dit besluit minimaal twee maanden voor inwerkingtreding gepubliceerd kan worden. Desondanks is het wenselijk voor betrokkenen om vertraging te voorkomen bij deze overwegend technische wijzigingen, waarmee deels staand beleid wordt geformaliseerd. Een minimuminvoeringstermijn van twee maanden is in dit geval niet noodzakelijk voor de uitvoering.</al>
+            </al-groep>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">2.</nr>
+            <titel>Caribisch Nederland</titel>
+          </kop>
+          <al>Dit besluit heeft geen gevolgen voor Caribisch Nederland. Het bevat een puur technische wijziging van het Archiefbesluit BES.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">3.</nr>
+            <titel>Gevolgen voor de regeldruk</titel>
+          </kop>
+          <al>Het Adviescollege toetsing regeldruk heeft het dossier niet geselecteerd voor een formeel advies, omdat het geen gevolgen voor de regeldruk heeft.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">4.</nr>
+            <titel>Uitvoering en handhaving</titel>
+          </kop>
+          <al>Het conceptbesluit is voorgelegd aan DUO, de Inspectie van het Onderwijs en de Auditdienst Rijk. De aanpassingen leiden niet tot uitvoeringsconsequenties voor DUO en brengen derhalve ook geen kosten met zich mee. De Inspectie van het Onderwijs heeft aangegeven geen opmerkingen te hebben ten aanzien van de uitvoeringstoets. De Auditdienst Rijk heeft geen reactie gegeven.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">5.</nr>
+            <titel>Financiële gevolgen</titel>
+          </kop>
+          <al>Dit besluit heeft geen financiële gevolgen voor de rijksbegroting.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">6.</nr>
+            <titel>Advies en consultatie</titel>
+          </kop>
+          <al>Het conceptbesluit is van 25 april 2022 tot en met 28 mei 2022 voorgelegd voor internetconsultatie. Hier zijn geen reacties op gekomen.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">7.</nr>
+            <titel>Parlementaire betrokkenheid</titel>
+          </kop>
+          <al>Het parlement is vier weken in de gelegenheid gesteld om opmerkingen over dit ontwerpbesluit te maken voordat het ontwerpbesluit aan de Afdeling advisering van de Raad van State is voorgelegd. De voorhangprocedure vond plaats van 12 september tot en met 12 oktober 2022. Van de Kamers is geen inbreng ontvangen. De parlementaire betrokkenheid vloeit voort uit artikel 36a, zevende lid, van de Wet op de beroepen in de individuele gezondheidszorg, de artikelen 1.7a, tweede lid, en 6.13, zesde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, artikel 25 van de Wet register onderwijsdeelnemers, artikel 11a.1, tweede lid, van de Wet educatie en beroepsonderwijs en artikel 6, zevende lid, van de Les- en cursusgeldwet. Tevens is de Tweede Kamer verzocht om toepassing te geven aan artikel 6, zevende lid, laatste volzin, van de Les- en cursusgeldwet. Dit biedt de mogelijkheid om de nahangprocedure op grond van artikel 6, zevende lid, van de Les- en cursusgeldwet achterwege te laten en te vervangen door de voorhangprocedure.</al>
+        </divisie>
+        <ondertekening>
+          <functie>De Minister van Onderwijs, Cultuur en  Wetenschap,</functie>
+          <naam>
+            <voornaam>R.H.</voornaam>
+            <achternaam>Dijkgraaf</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>
