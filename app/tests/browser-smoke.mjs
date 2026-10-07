@@ -135,6 +135,7 @@ await page.keyboard.press('Escape');
 assert.equal(await page.locator('.timeline-view.presentation').count(), 0);
 await page.getByRole('button', { name: 'Wetgeving & historie', exact: true }).click();
 await page.locator('.legal-text .provision').first().waitFor();
+await page.locator('.milestone').last().waitFor();
 assert.equal(await page.locator('.milestone').count(), 35);
 assert.ok(await page.locator('.milestone.major').count() > 0);
 assert.ok(await page.locator('.milestone.minor').count() > 0);
@@ -145,6 +146,7 @@ assert.equal(await page.locator('.milestone[aria-pressed=true]').count(), 1);
 // A subject search must find ARIE even while the user is looking at the Arbowet.
 await page.getByLabel('Zoek wetswijziging', { exact: true }).fill('ARIE wijziging');
 const arieResult=page.locator('.timeline-search-results>button').filter({hasText:'ARIE herziening'});
+await arieResult.waitFor();
 assert.equal(await arieResult.count(), 1);
 assert.match(await arieResult.textContent(), /Arbobesluit/);
 await arieResult.click();
